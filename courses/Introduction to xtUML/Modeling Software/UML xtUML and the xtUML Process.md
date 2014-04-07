@@ -1,10 +1,6 @@
-We will start by answering the questions:
+This session discusses the analysis, design, implementation, and test of xtUML models. It provides a general knowledge of the xtUML modeling languages and insight into deploying xtUML.
 
-*   What is Model Driven Development?
-*   How does it apply to systems engineering?
-*   How does it apply to software?
-
-<div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=pToqX1HH-R8">
+<div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=UFfoYJckhpc">
 <div> </div>
 </div>
 
