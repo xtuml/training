@@ -9,7 +9,9 @@ content is archived and configuration managed here on github.
   - Create a course project in the github ```xtuml/training``` repository
   - Create new course on http://openlearning.com
     - There is a "wizard" that guides you through the course creation process, follow it
-    - Note that to set an entirely self-paced course, follow these steps: 
+    - Note that to set an entirely self-paced course, follow these steps:  Select 'self-paced' on ```Teacher Access > Timeline``` 
+    and then remove the start date from the Class by going to ```Administrator Access > Content > Date Settings``` and remove 
+    the start date. That way the modules and activities won't have dates associated with them and it will just be self-paced. 
     - Create a badge graphic for course completion, configure it for use on ```Administrator Access > Community``` page
 
 ### Step 2 - Outline the Course Content
@@ -22,7 +24,7 @@ content is archived and configuration managed here on github.
   - Create new modules in open 
   
 ### Step 4 - Add Course Pages 
-  - Create video and upload it to youTube
+  - Create a video for the page/topic.  Pass the video to Dean to upload it to youTube xtUML organization
   - Create page using page template
     - Explain the topic in the text
     - Link to the youTube video
