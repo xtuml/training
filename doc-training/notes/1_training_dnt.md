@@ -44,15 +44,23 @@ See [4] and [5].
 
 6. Design
 ---------
+```
+Owner: Keith
 6.1       Installation  
 6.1.1     Installing xtUML Editor  
 6.1.1.1   Installing xtUML Editor on Linux  
 6.1.1.2   Installing xtUML Editor on Windows  
 6.1.2     Installing BridgePoint  
 6.1.3     Installing Source Model Compilers  
+```
+```
+Owner: 
 6.2       Workspaces:  Creating and Switching  
 6.2.1     Eclipse and Eclipse Terms  
 6.2.1.1   Workspace, Project, Resource, View, Editor, Perspective  
+```
+```
+Owner: 
 6.3       xtUML Projects  
 6.3.1     Interproject References (IPRs)  
 6.3.1.1   Shared Data Types and Constants  
@@ -62,8 +70,17 @@ See [4] and [5].
 6.3.1.5   Synchronizing References  
 6.3.2     Library Projects (definitions)  
 6.3.3     Integration Projects (system configurations)  
+```
+```
+Owner: 
 6.4       Import and Export  
+```
+```
+Owner: 
 6.5       Packages:  Creating, Nesting, Organizing  
+```
+```
+Owner: 
 6.6       Components and Interfaces  
 6.6.1     Interfaces  
 6.6.2     Messages:  Signals and Operations  
@@ -79,6 +96,9 @@ See [4] and [5].
 6.6.7     Port/Interface/Message Delegation  
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
+```
+```
+Owner: 
 6.7       Class Diagram  
 6.7.1     Editing a Class  
 6.7.1.1   Instance-based Operations  
@@ -94,6 +114,9 @@ See [4] and [5].
 6.7.4.6   Generalization:  Subtypes and Supertypes (Not Inheritance)  
 6.7.5     Imported Classes (Class References, Off-Page Connections)  
 6.7.6     Steps to Creating Class Diagrams  
+```
+```
+Owner: 
 6.8       State Modeling  
 6.8.1     Basics of States, Transitions, Events and Actions  
 6.8.2     Instance State Machines versus Class-Based State Machines  
@@ -107,6 +130,9 @@ See [4] and [5].
 6.8.7     Timers (Delayed Events)  
 6.8.8     "Polymorphic Events" (Asynchronous polymorphism)  
 6.8.9     Steps to Creating a State Model  
+```
+```
+Owner: Cort
 6.9       Action Language  
 6.9.1     Overview  
 6.9.2     Setting up the Workspace  
@@ -131,19 +157,37 @@ See [4] and [5].
 6.9.21    Generating Creation Events  
 6.9.22    Creating Event Instances (for Timers)  
 6.9.23    Navigating Reflexive Associations  
+```
+```
+Owner: 
 6.10      Activity Diagrams  
 6.10.1    Activity Symbols  
+```
+```
+Owner: 
 6.11      Communication Diagrams  
 6.11.1    Communication Symbols  
+```
+```
+Owner: 
 6.12      Use Cases  
 6.12.1    Use Case Symbols  
+```
+```
+Owner: 
 6.13      Sequence Diagrams  
 6.13.1    Sequence Symbols  
+```
+```
+Owner: 
 6.14      Configuration Management  
 6.14.1    Model Compare  
 6.14.2    Model Merge  
 6.14.3    Git and GitHub  
 6.14.4    Models, Documents and Source Code on GitHub  
+```
+```
+Owner: 
 6.15      eXecuting Models (Verifier)  
 6.15.1    Launch Configurations  
 6.15.1.1  Simulated Time, Clock Time, Run Deterministically, Logging  
@@ -156,21 +200,40 @@ See [4] and [5].
 6.15.7    Spotlight  
 6.15.8    Simple Test Cases (functions)  
 6.15.9    OAL Console (functions)  
+```
+```
+Owner: 
 6.16      Translating Models (Model Compilers)  
 6.16.1    Choosing/Setting a Model Compiler  
 6.16.2    Changing/Setting/Switching a Model Compiler  
 6.16.3    Generating Code  
 6.16.3.1  Marking  
 6.16.4    Compiling the Generated Code  
+```
+```
+Owner: 
 6.17      Command Line Interface (CLI)  
 6.17.1    Command Line Interface Overview  
 6.17.2    CLI for eXecute (Verifier)  
 6.17.3    CLI for Translate (Model Compiler)  
+```
+```
+Owner: 
 6.18      Model-Based Testing  
+```
+```
+Owner: 
 6.19      Realized Code Integration (Legacy Integration)  
 6.19.1    Verifier Interface to External Code  
+```
+```
+Owner: 
 6.20      Cheat Sheets  
+```
+```
+Owner: 
 6.21      Building the xtUML Editor from Source  
+```
 
 7. Design Comments
 ------------------
