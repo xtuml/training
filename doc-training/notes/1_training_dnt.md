@@ -54,35 +54,35 @@ See [4] and [5].
 6.2.1     Eclipse and Eclipse Terms  
 6.2.1.1   Workspace, Project, Resource, View, Editor, Perspective  
 6.3       xtUML Projects  
-6.3.1     Interproject References (IPRs) 
+6.3.1     Interproject References (IPRs)  
 6.3.1.1   Shared Data Types and Constants  
 6.3.1.2   Shared Interfaces  
 6.3.1.3   Shared Components  
 6.3.1.4   Shared External Entities  
 6.3.1.5   Synchronizing References  
 6.3.2     Library Projects (definitions)  
-6.3.3     Integration Projects (system configurations) 
+6.3.3     Integration Projects (system configurations)  
 6.4       Import and Export  
 6.5       Packages:  Creating, Nesting, Organizing  
 6.6       Components and Interfaces  
 6.6.1     Interfaces  
-6.6.2     Messages:  Signals and Operations 
+6.6.2     Messages:  Signals and Operations  
 6.6.2.1   Message direction  
 6.6.2.2   Message parameters  
-6.6.2.3   Return value (Operations) 
+6.6.2.3   Return value (Operations)  
 6.6.3     Components  
-6.6.4     Ports 
+6.6.4     Ports  
 6.6.4.1   Port activities (incoming and outgoing messages)  
-6.6.4.2   Component reference (sender keyword) 
+6.6.4.2   Component reference (sender keyword)  
 6.6.5     Component References, Interface References and Port References  
 6.6.6     Nesting Components  
 6.6.7     Port/Interface/Message Delegation  
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
-6.6.9     System configuration packages
+6.6.9     System Configuration Packages  
 6.7       Class Diagram  
-6.7.1     Editing a Class 
-6.7.1.1   Instance-based operations
-6.7.1.2   Class-based operations 
+6.7.1     Editing a Class  
+6.7.1.1   Instance-based Operations  
+6.7.1.2   Class-based Operations  
 6.7.2     Performing a Class Blitz  
 6.7.3     Placing Attributes with Data Types  
 6.7.4     Associations  
@@ -145,7 +145,7 @@ See [4] and [5].
 6.14.3    Git and GitHub  
 6.14.4    Models, Documents and Source Code on GitHub  
 6.15      eXecuting Models (Verifier)  
-6.15.1    Launch Configurations 
+6.15.1    Launch Configurations  
 6.15.1.1  Simulated Time, Clock Time, Run Deterministically, Logging  
 6.15.1.2  Enabling Instance Population Checks 
 6.15.2    Exploring the Session  
