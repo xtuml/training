@@ -21,7 +21,7 @@ and deliver the course using the learning management system.
 ### Step 1 - Initialize the Course
   - Create a course project in the github ```xtuml/training``` repository
   - Create new course on http://openlearning.com
-    - There is a "wizard" that guides you through the course creation process, follow it
+    - There is a "wizard" that guides you through the course creation process, follow it to get the course skeleton created
     - Course banner template (GiMP format) can be found at [1]
     - Note that to set an entirely self-paced course, follow these steps:  Select 'Self-Paced' on ```Teacher Access > Timeline``` 
     and then remove the start date from the Class by going to ```Administrator Access > Content > Date Settings``` and remove 
