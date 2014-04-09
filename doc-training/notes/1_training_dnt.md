@@ -36,10 +36,7 @@ has become video stored and indexed on YouTube.
 
 4. Requirements
 ---------------
-This section is only required if there is no preceding analysis note. 
-If present it describes the requirements that need to be satisfied.  If there 
-is an SRS, this section may simply refer to it.  Each requirement should be as 
-short and simple as possible and must be clearly defined.
+See [4] and [5].
 
 5. Analysis
 -----------
@@ -49,6 +46,8 @@ See [4] and [5].
 ---------
 6.1       Installation  
 6.1.1     Installing xtUML Editor  
+6.1.1.1   Installing xtUML Editor on Linux  
+6.1.1.2   Installing xtUML Editor on Windows  
 6.1.2     Installing BridgePoint  
 6.1.3     Installing Source Model Compilers  
 6.2       Workspaces:  Creating and Switching  
@@ -56,24 +55,29 @@ See [4] and [5].
 6.2.1.1   Workspace, Project, Resource, View, Editor, Perspective  
 6.3       xtUML Projects  
 6.3.1     Interproject References (IPRs) 
-6.3.2     Library projects (definitions)
-6.3.3     Integration projects (system configurations) 
+6.3.1.1   Shared Data Types and Constants  
+6.3.1.2   Shared Interfaces  
+6.3.1.3   Shared Components  
+6.3.1.4   Shared External Entities  
+6.3.1.5   Synchronizing References  
+6.3.2     Library Projects (definitions)  
+6.3.3     Integration Projects (system configurations) 
 6.4       Import and Export  
 6.5       Packages:  Creating, Nesting, Organizing  
 6.6       Components and Interfaces  
 6.6.1     Interfaces  
 6.6.2     Messages:  Signals and Operations 
-6.6.2.1   Message direction
-6.6.2.2   Message parameters
+6.6.2.1   Message direction  
+6.6.2.2   Message parameters  
 6.6.2.3   Return value (Operations) 
 6.6.3     Components  
 6.6.4     Ports 
-6.6.4.1   Port activities (incoming and outgoing messages)
+6.6.4.1   Port activities (incoming and outgoing messages)  
 6.6.4.2   Component reference (sender keyword) 
 6.6.5     Component References, Interface References and Port References  
 6.6.6     Nesting Components  
 6.6.7     Port/Interface/Message Delegation  
-6.6.8     Organizing component, interface, data type definitions into library packages
+6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System configuration packages
 6.7       Class Diagram  
 6.7.1     Editing a Class 
@@ -96,10 +100,10 @@ See [4] and [5].
 6.8.3     Instance State Models  
 6.8.4     State Event Matrix  
 6.8.5     Final States, Initial State (lowest numbered state) and Creation Events  
-6.8.5.1   Synchronous creation
-6.8.5.2   Asynchronous creation
+6.8.5.1   Synchronous Creation  
+6.8.5.2   Asynchronous Creation  
 6.8.6     Class-Based State Models  
-6.8.6.1   Assigning an interface signal to a transition
+6.8.6.1   Assigning an Interface Signal to a Transition  
 6.8.7     Timers (Delayed Events)  
 6.8.8     "Polymorphic Events" (Asynchronous polymorphism)  
 6.8.9     Steps to Creating a State Model  
@@ -124,8 +128,9 @@ See [4] and [5].
 6.9.18    Action Language Homes  
 6.9.19    Generating State Machine Events  
 6.9.20    Generating Events to Class-Based State Machines 
-6.9.21    Generating creation event 
-6.9.22    Creating event instance (for timer)
+6.9.21    Generating Creation Events  
+6.9.22    Creating Event Instances (for Timers)  
+6.9.23    Navigating Reflexive Associations  
 6.10      Activity Diagrams  
 6.10.1    Activity Symbols  
 6.11      Communication Diagrams  
@@ -141,21 +146,31 @@ See [4] and [5].
 6.14.4    Models, Documents and Source Code on GitHub  
 6.15      eXecuting Models (Verifier)  
 6.15.1    Launch Configurations 
-6.15.1.1  Simulated time, real time, run deterministically, logging
-6.15.1.2  Enabling instance population checks 
+6.15.1.1  Simulated Time, Clock Time, Run Deterministically, Logging  
+6.15.1.2  Enabling Instance Population Checks 
 6.15.2    Exploring the Session  
 6.15.3.1  Browsing Instances and Attribute Values  
 6.15.4.2  Traversing Links Between Instances  
 6.15.5    Stopping, Starting and Single-Stepping  
 6.15.6    Breakpoints  
-6.15.7    Simple test cases (functions)
-6.15.8    OAL console (functions)
+6.15.7    Spotlight  
+6.15.8    Simple Test Cases (functions)  
+6.15.9    OAL Console (functions)  
 6.16      Translating Models (Model Compilers)  
 6.16.1    Choosing/Setting a Model Compiler  
 6.16.2    Changing/Setting/Switching a Model Compiler  
 6.16.3    Generating Code  
-6.16.3.1  Marking
+6.16.3.1  Marking  
 6.16.4    Compiling the Generated Code  
+6.17      Command Line Interface (CLI)  
+6.17.1    Command Line Interface Overview  
+6.17.2    CLI for eXecute (Verifier)  
+6.17.3    CLI for Translate (Model Compiler)  
+6.18      Model-Based Testing  
+6.19      Realized Code Integration (Legacy Integration)  
+6.19.1    Verifier Interface to External Code  
+6.20      Cheat Sheets  
+6.21      Building the xtUML Editor from Source  
 
 7. Design Comments
 ------------------
