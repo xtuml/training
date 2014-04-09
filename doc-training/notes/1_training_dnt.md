@@ -55,19 +55,30 @@ See [4] and [5].
 6.2.1     Eclipse and Eclipse Terms  
 6.2.1.1   Workspace, Project, Resource, View, Editor, Perspective  
 6.3       xtUML Projects  
-6.3.1     Interproject References (IPRs)  
+6.3.1     Interproject References (IPRs) 
+6.3.2     Library projects (definitions)
+6.3.3     Integration projects (system configurations) 
 6.4       Import and Export  
 6.5       Packages:  Creating, Nesting, Organizing  
 6.6       Components and Interfaces  
 6.6.1     Interfaces  
-6.6.2     Messages:  Signals and Operations  
+6.6.2     Messages:  Signals and Operations 
+6.6.2.1   Message direction
+6.6.2.2   Message parameters
+6.6.2.3   Return value (Operations) 
 6.6.3     Components  
-6.6.4     Ports  
+6.6.4     Ports 
+6.6.4.1   Port activities (incoming and outgoing messages)
+6.6.4.2   Component reference (sender keyword) 
 6.6.5     Component References, Interface References and Port References  
 6.6.6     Nesting Components  
 6.6.7     Port/Interface/Message Delegation  
+6.6.8     Organizing component, interface, data type definitions into library packages
+6.6.9     System configuration packages
 6.7       Class Diagram  
-6.7.1     Editing a Class  
+6.7.1     Editing a Class 
+6.7.1.1   Instance-based operations
+6.7.1.2   Class-based operations 
 6.7.2     Performing a Class Blitz  
 6.7.3     Placing Attributes with Data Types  
 6.7.4     Associations  
@@ -76,7 +87,7 @@ See [4] and [5].
 6.7.4.3   Labeling and Reading Associations Correctly  
 6.7.4.4   Reflexives  
 6.7.4.5   Associative Classes (Ternary Associations)  
-6.7.4.6   Generalization:  Subtypes and Supertypes (Similar to Inheritance)  
+6.7.4.6   Generalization:  Subtypes and Supertypes (Not Inheritance)  
 6.7.5     Imported Classes (Class References, Off-Page Connections)  
 6.7.6     Steps to Creating Class Diagrams  
 6.8       State Modeling  
@@ -84,11 +95,14 @@ See [4] and [5].
 6.8.2     Instance State Machines versus Class-Based State Machines  
 6.8.3     Instance State Models  
 6.8.4     State Event Matrix  
-6.8.5     Final States, Initial States and Creation Events  
-6.8.6     Class-Base State Models  
+6.8.5     Final States, Initial State (lowest numbered state) and Creation Events  
+6.8.5.1   Synchronous creation
+6.8.5.2   Asynchronous creation
+6.8.6     Class-Based State Models  
+6.8.6.1   Assigning an interface signal to a transition
 6.8.7     Timers (Delayed Events)  
-6.8.8     "Polymorphic Events" (Event Inheritance)  
-6.8.9     Steps to Creating a State Machine  
+6.8.8     "Polymorphic Events" (Asynchronous polymorphism)  
+6.8.9     Steps to Creating a State Model  
 6.9       Action Language  
 6.9.1     Overview  
 6.9.2     Setting up the Workspace  
@@ -109,7 +123,9 @@ See [4] and [5].
 6.9.17    Selecting Many Instances and Iterating using For Each  
 6.9.18    Action Language Homes  
 6.9.19    Generating State Machine Events  
-6.9.20    Generating Events to Class-Based State Machines  
+6.9.20    Generating Events to Class-Based State Machines 
+6.9.21    Generating creation event 
+6.9.22    Creating event instance (for timer)
 6.10      Activity Diagrams  
 6.10.1    Activity Symbols  
 6.11      Communication Diagrams  
@@ -124,16 +140,21 @@ See [4] and [5].
 6.14.3    Git and GitHub  
 6.14.4    Models, Documents and Source Code on GitHub  
 6.15      eXecuting Models (Verifier)  
-6.15.1    Launch Configurations  
+6.15.1    Launch Configurations 
+6.15.1.1  Simulated time, real time, run deterministically, logging
+6.15.1.2  Enabling instance population checks 
 6.15.2    Exploring the Session  
 6.15.3.1  Browsing Instances and Attribute Values  
 6.15.4.2  Traversing Links Between Instances  
 6.15.5    Stopping, Starting and Single-Stepping  
 6.15.6    Breakpoints  
+6.15.7    Simple test cases (functions)
+6.15.8    OAL console (functions)
 6.16      Translating Models (Model Compilers)  
 6.16.1    Choosing/Setting a Model Compiler  
 6.16.2    Changing/Setting/Switching a Model Compiler  
 6.16.3    Generating Code  
+6.16.3.1  Marking
 6.16.4    Compiling the Generated Code  
 
 7. Design Comments
