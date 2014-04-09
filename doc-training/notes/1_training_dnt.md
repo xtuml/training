@@ -211,7 +211,7 @@ Owner:
 6.16.4    Compiling the Generated Code  
 ```
 ```
-Owner: 
+Owner: Bob
 6.17      Command Line Interface (CLI)  
 6.17.1    Command Line Interface Overview  
 6.17.2    CLI for eXecute (Verifier)  
