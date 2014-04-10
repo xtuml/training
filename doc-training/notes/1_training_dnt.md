@@ -50,8 +50,6 @@ Owner: Keith
 6.1.1     Installing xtUML Editor  
 6.1.1.1   Installing xtUML Editor on Linux  
 6.1.1.2   Installing xtUML Editor on Windows  
-6.1.2     Installing BridgePoint  
-6.1.3     Installing Source Model Compilers  
 ```
 ```
 Owner: 
@@ -204,11 +202,14 @@ Owner:
 ```
 Owner: 
 6.16      Translating Models (Model Compilers)  
-6.16.1    Choosing/Setting a Model Compiler  
-6.16.2    Changing/Setting/Switching a Model Compiler  
-6.16.3    Generating Code  
-6.16.3.1  Marking  
-6.16.4    Compiling the Generated Code  
+6.16.1    Installing BridgePoint  
+6.16.2    Installing Source Model Compilers  
+6.16.2.1  Licensing?
+6.16.3    Choosing/Setting a Model Compiler  
+6.16.4    Changing/Setting/Switching a Model Compiler  
+6.16.5    Generating Code  
+6.16.6.1  Marking  
+6.16.7    Compiling the Generated Code  
 ```
 ```
 Owner: Bob
