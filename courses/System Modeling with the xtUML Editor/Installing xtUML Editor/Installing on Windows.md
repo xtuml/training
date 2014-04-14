@@ -1,9 +1,9 @@
-Here is an introductory paragraph.  It can say whatever you want:
-
-*   Here is a bullet item
-*   And another
-
-If you look at the raw text of this file, you will see a link to embed a youTube video.
+To install xtUML Editor on Windows:
+  - Download the installer to your PC
+  - Execute the installer
+  - Run the desktop shortcut or Launcher batch file
+  
+This video covers the Windows installation process in detail:
 
 <div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=pToqX1HH-R8">
 <div> </div>
