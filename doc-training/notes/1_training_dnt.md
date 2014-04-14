@@ -52,7 +52,7 @@ Owner: Keith
 6.1.1.2   Installing xtUML Editor on Windows  
 ```
 ```
-Owner: 
+Owner: Keith
 6.2       Workspaces:  Creating and Switching  
 6.2.1     Eclipse and Eclipse Terms  
 6.2.1.1   Workspace, Project, Resource, View, Editor, Perspective  
