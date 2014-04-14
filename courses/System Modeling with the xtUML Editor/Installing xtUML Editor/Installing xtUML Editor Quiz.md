@@ -1,16 +1,3 @@
-__Type:__
- 
-__Question:__
- 
-__Choices:__
-  - T
-  - F
-  
-__Answer(s):__
-  - T
-  
-----
-
 __Type:__ Check Boxes
 
 __Question:__ Check each Operating Systems a pre-packaged installer is available for?
