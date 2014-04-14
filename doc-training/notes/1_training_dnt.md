@@ -186,54 +186,61 @@ Owner:
 ```
 ```
 Owner: 
-6.15      eXecuting Models (Verifier)  
-6.15.1    Launch Configurations  
-6.15.1.1  Simulated Time, Clock Time, Run Deterministically, Logging  
-6.15.1.2  Enabling Instance Population Checks 
-6.15.2    Exploring the Session  
-6.15.3.1  Browsing Instances and Attribute Values  
-6.15.4.2  Traversing Links Between Instances  
-6.15.5    Stopping, Starting and Single-Stepping  
-6.15.6    Breakpoints  
-6.15.7    Spotlight  
-6.15.8    Simple Test Cases (functions)  
-6.15.9    OAL Console (functions)  
+6.15      Adjusting Preferences
+6.15.1    Setting xtUML Preferences
+6.15.2    Exporting a reusable preference file
+6.15.3    Importing a preference file
 ```
 ```
 Owner: 
-6.16      Translating Models (Model Compilers)  
-6.16.1    Installing BridgePoint  
-6.16.2    Installing Source Model Compilers  
-6.16.2.1  Licensing?
-6.16.3    Choosing/Setting a Model Compiler  
-6.16.4    Changing/Setting/Switching a Model Compiler  
-6.16.5    Generating Code  
-6.16.6.1  Marking  
-6.16.7    Compiling the Generated Code  
+6.16      eXecuting Models (Verifier)  
+6.16.1    Launch Configurations  
+6.16.1.1  Simulated Time, Clock Time, Run Deterministically, Logging  
+6.16.1.2  Enabling Instance Population Checks 
+6.16.2    Exploring the Session  
+6.16.3.1  Browsing Instances and Attribute Values  
+6.16.4.2  Traversing Links Between Instances  
+6.16.5    Stopping, Starting and Single-Stepping  
+6.16.6    Breakpoints  
+6.16.7    Spotlight  
+6.16.8    Simple Test Cases (functions)  
+6.16.9    OAL Console (functions)  
+```
+```
+Owner: 
+6.17      Translating Models (Model Compilers)  
+6.17.1    Installing BridgePoint  
+6.17.2    Installing Source Model Compilers  
+6.17.2.1  Licensing?
+6.17.3    Choosing/Setting a Model Compiler  
+6.17.4    Changing/Setting/Switching a Model Compiler  
+6.17.5    Generating Code  
+6.17.6.1  Marking  
+6.17.7    Compiling the Generated Code  
 ```
 ```
 Owner: Bob
-6.17      Command Line Interface (CLI)  
-6.17.1    Command Line Interface Overview  
-6.17.2    CLI for eXecute (Verifier)  
-6.17.3    CLI for Translate (Model Compiler)  
+6.18      Command Line Interface (CLI)  
+6.18.1    Command Line Interface Overview  
+6.18.2    CLI for eXecute (Verifier)  
+6.18.3    CLI for Translate (Model Compiler)  
 ```
 ```
 Owner: 
-6.18      Model-Based Testing  
+6.19      Model-Based Testing  
 ```
 ```
 Owner: 
-6.19      Realized Code Integration (Legacy Integration)  
-6.19.1    Verifier Interface to External Code  
+6.20      Realized Code Integration (Legacy Integration)  
+6.20.1    Verifier Interface to External Code  
 ```
 ```
 Owner: 
-6.20      Cheat Sheets  
+6.21      Cheat Sheets  
 ```
 ```
 Owner: 
-6.21      Building the xtUML Editor from Source  
+6.22      Building the xtUML Editor from Source  
 ```
 
 7. Design Comments
