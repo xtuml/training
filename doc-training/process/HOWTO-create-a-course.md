@@ -39,7 +39,7 @@ and deliver the course using the learning management system.
   - Create new corresponding modules in the openlearning course 
   
 ### Step 4 - Add Course Pages 
-  - Create a video for the page/topic.  Pass the video to Dean McArthur or Keith Brown to upload it to youTube xtUML organization. Here are some specific points to note when creating a video:
+  - Create a video for the page/topic. Here are some specific points to note when creating a video:
     - Use GPS Watch as much as possible
     - All models used should be available in the xtuml/models repository
     - Keep video segments to 3 mins or less (if you are struggling with this limit, ask for input from the team)
@@ -47,6 +47,8 @@ and deliver the course using the learning management system.
     - Use recording window dimensions that scale to 16x9 cleanly
     - Consider using zooming in the recording tool to focus in on a key area
     - When performing actions, do them as a new user would, not advanced user shortcuts
+  - Have the video reviewed by at least 2 members of the team
+  - Pass the video to Dean McArthur or Keith Brown to upload it to youTube xtUML organization
   - Create page using page template [2]
     - Explain the topic in the text
     - Link to the youTube video
