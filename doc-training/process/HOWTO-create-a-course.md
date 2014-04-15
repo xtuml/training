@@ -11,6 +11,7 @@ content is archived and configuration managed here on github.
 ----------------------
 [1] Banner, https://github.com/xtuml/training/blob/master/doc-training/process/templates/banner.xcf  
 [2] Page template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/Page_template.md  
+[3] Simple Quiz template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/Simple%20Quiz%20template.md  
 
 3. Process
 ----------------------
@@ -38,7 +39,15 @@ and deliver the course using the learning management system.
   - Create new corresponding modules in the openlearning course 
   
 ### Step 4 - Add Course Pages 
-  - Create a video for the page/topic.  Pass the video to Dean McArthur to upload it to youTube xtUML organization.
+  - Create a video for the page/topic.  Pass the video to Dean McArthur or Keith Brown to upload it to youTube 
+  xtUML organization.  Here are some specific points to note when creating a video:
+    - Use GPS Watch as much as possible
+    - All models used should be available in the xtuml/models repository
+    - Keep video segments to 3 mins or less (if you are struggling with this limit, ask for input from the team)
+    - Prefer real world abstractions.  (e.g. Use ```dog * --- * dog owner``` over ```foo * --- * bar```
+    - Use recording window dimensions that scale to 16x9 cleanly
+    - Consider using zooming in the recording tool to focus in on a key area
+    - When performing actions, do them as a new user would, not advanced user shortcuts
   - Create page using page template [2]
     - Explain the topic in the text
     - Link to the youTube video
@@ -47,7 +56,8 @@ and deliver the course using the learning management system.
     from github.
     
 ### Step 5 - Create Module Quiz
-  - Create quiz content in text form, commit to github
+  - Create quiz content in text form.  You may want to use the Simple Quiz template [3].  For game quizzes (crosswords,
+  fill in the blank, category sort) we do not have a template.  Commit the quiz content github.
   - Create new quiz activity on openlearning, build up quiz using content created previously
 
 ### Step 6 - Publish the Course
