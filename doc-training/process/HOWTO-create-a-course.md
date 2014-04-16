@@ -45,7 +45,7 @@ and deliver the course using the learning management system.
     - All models used should be available in the xtuml/models repository
     - Keep video segments to 3 mins or less (if you are struggling with this limit, ask for input from the team)
     - Prefer real world abstractions.  (e.g. Use ```dog * --- * dog owner``` over ```foo * --- * bar```)
-    - Use recording window dimensions that scale to 16x9 cleanly
+    - Use recording window dimensions that scale to 16x9 cleanly, likely 1280x720 or 1024x576
     - Consider using zooming in the recording tool to focus in on a key area
     - When performing actions, do them as a new user would, not advanced user shortcuts
     - If you are using Camtasia Studio, we have a production preset file [4] that should be used.  Download this file
