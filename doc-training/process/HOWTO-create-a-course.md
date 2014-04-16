@@ -12,6 +12,7 @@ content is archived and configuration managed here on github.
 [1] Banner, https://github.com/xtuml/training/blob/master/doc-training/process/templates/banner.xcf  
 [2] Page template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/Page_template.md  
 [3] Simple Quiz template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/Simple%20Quiz%20template.md  
+[4] Simple Quiz template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/HQ%20mp4%20@720p.xml  
 
 3. Process
 ----------------------
@@ -47,6 +48,9 @@ and deliver the course using the learning management system.
     - Use recording window dimensions that scale to 16x9 cleanly
     - Consider using zooming in the recording tool to focus in on a key area
     - When performing actions, do them as a new user would, not advanced user shortcuts
+    - If you are using Camtasia Studio, we have a production preset file [4] that should be used.  Download this file
+    and put it in ```C:\Users\kbrown\Documents\Camtasia Studio\Custom Production Presets 8.0``` substituting your username
+    for ```kbrown``` of course.
   - Have the video reviewed by at least 2 members of the team
   - Pass the video to Dean McArthur or Keith Brown to upload it to youTube xtUML organization
   - Create page using page template [2]
