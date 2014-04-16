@@ -1,6 +1,6 @@
 __Type:__ Check Boxes
 
-__Question:__ Check each Operating Systems a pre-packaged installer is available for?
+__Question:__ Check each Operating Systems a pre-packaged installer is available for:
 
 __Choices:__
   - A: Microsoft Windows
