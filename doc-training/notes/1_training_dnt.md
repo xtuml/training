@@ -60,12 +60,13 @@ Owner: Keith
 ```
 Owner: 
 6.3       xtUML Projects  
-6.3.1     Interproject References (IPRs)  
-6.3.1.1   Shared Data Types and Constants  
-6.3.1.2   Shared Interfaces  
-6.3.1.3   Shared Components  
-6.3.1.4   Shared External Entities  
-6.3.1.5   Synchronizing References  
+6.3.1     Interproject References (IPRs) 
+6.3.1.1   How to enable via project preferences
+6.3.1.2   Shared Data Types and Constants  
+6.3.1.3   Shared Interfaces  
+6.3.1.4   Shared Components  
+6.3.1.5   Shared External Entities  
+6.3.1.6   Synchronizing References  
 6.3.2     Library Projects (definitions)  
 6.3.3     Integration Projects (system configurations)  
 ```
@@ -217,6 +218,7 @@ Owner:
 6.17.5    Generating Code  
 6.17.6.1  Marking  
 6.17.7    Compiling the Generated Code  
+6.17.8    Turning builders on and off via project properties
 ```
 ```
 Owner: Bob
