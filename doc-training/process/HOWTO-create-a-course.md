@@ -12,7 +12,8 @@ content is archived and configuration managed here on github.
 [1] Banner, https://github.com/xtuml/training/blob/master/doc-training/process/templates/banner.xcf  
 [2] Page template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/Page_template.md  
 [3] Simple Quiz template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/Simple%20Quiz%20template.md  
-[4] Simple Quiz template, https://github.com/xtuml/training/blob/master/doc-training/process/templates/HQ%20mp4%20@720p.xml  
+[4] Camtasia Video Production Settings, https://github.com/xtuml/training/blob/master/doc-training/process/templates/HQ%20mp4%20@720p.xml  
+[5] xtUML PowerPoint Template (16x9), https://github.com/xtuml/training/blob/master/doc-training/process/templates/xtUML_ppt_Template_16x9.potx    
 
 3. Process
 ----------------------
@@ -42,6 +43,7 @@ and deliver the course using the learning management system.
 ### Step 4 - Add Course Pages 
   - Create a video for the page/topic. Here are some specific points to note when creating a video:
     - Use GPS Watch as much as possible
+    - If your video will use PowerPoint slides, use the template we have [5] for consistency with other videos
     - All models used should be available in the xtuml/models repository
     - Keep video segments to 3 mins or less (if you are struggling with this limit, ask for input from the team)
     - Prefer real world abstractions.  (e.g. Use ```dog * --- * dog owner``` over ```foo * --- * bar```)
