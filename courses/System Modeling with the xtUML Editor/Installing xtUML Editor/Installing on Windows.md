@@ -5,7 +5,7 @@ To install xtUML Editor on Windows:
   
 This video covers the Windows installation process in detail:
 
-<div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=pToqX1HH-R8">
+<div class="macro-embedly" contenteditable="false" data-url="http://youtu.be/V566YTr-YNA">
 <div> </div>
 </div>
 

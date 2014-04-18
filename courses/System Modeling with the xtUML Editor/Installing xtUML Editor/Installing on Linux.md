@@ -5,7 +5,7 @@ To install xtUML Editor on Linux:
   
 This video covers the Linux installation process in detail:
 
-<div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=pToqX1HH-R8">
+<div class="macro-embedly" contenteditable="false" data-url="http://youtu.be/s9Ch_UecVdY">
 <div> </div>
 </div>
 
