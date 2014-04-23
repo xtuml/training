@@ -238,11 +238,19 @@ Owner:
 ```
 ```
 Owner: 
-6.21      Cheat Sheets  
+6.21      Cheat Sheets
 ```
 ```
 Owner: 
-6.22      Building the xtUML Editor from Source  
+6.22      BridgePoint Best Practicing
+6.22.1    Model Design Best Practicing
+6.22.2    Model Execution Best Practicing
+6.22.3    BridgePoint UI Best Practicing
+6.22.4    BridgePoint Tip and Tricks
+```
+```
+Owner: 
+6.23      Building the xtUML Editor from Source  
 ```
 
 7. Design Comments
