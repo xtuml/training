@@ -242,11 +242,11 @@ Owner:
 ```
 ```
 Owner: 
-6.22      BridgePoint Best Practicing
-6.22.1    Model Design Best Practicing
-6.22.2    Model Execution Best Practicing
-6.22.3    BridgePoint UI Best Practicing
-6.22.4    BridgePoint Tip and Tricks
+6.22      Best Practices and Tips
+6.22.1    Model Design Best Practices
+6.22.2    Model Execution Best Practices
+6.22.3    UI Best Practices     (Nehad)
+6.22.4    Tip and Tricks        (Nehad) 
 ```
 ```
 Owner: 
