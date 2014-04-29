@@ -238,20 +238,25 @@ Owner:
 ```
 ```
 Owner: 
-6.21      Cheat Sheets
+6.21      Best Practices and Tips
+6.21.1    Model Design Best Practices
+6.21.2    Model Execution Best Practices
+6.21.3    UI Best Practices     (Nehad)
+6.21.4    Tip and Tricks        (Nehad) 
 ```
 ```
 Owner: 
-6.22      Best Practices and Tips
-6.22.1    Model Design Best Practices
-6.22.2    Model Execution Best Practices
-6.22.3    UI Best Practices     (Nehad)
-6.22.4    Tip and Tricks        (Nehad) 
+6.22      Building the xtUML Editor from Source  
 ```
 ```
-Owner: 
-6.23      Building the xtUML Editor from Source  
-```
+Owner: Nehad
+6.23   Start using the tool
+6.23.1 Welcome Page
+6.23.2 Cheat Sheets 
+6.23.3 Import Sample Models and run them
+6.23.4 xtUML Help
+
+
 
 7. Design Comments
 ------------------
