@@ -53,16 +53,14 @@ Owner:
 6.3       Download and install add-ons file
 ```
 ```
-Owner: 
+Owner:    Travis  
 6.4       Fork editor to your github account  
 ```
 ```
 Owner: 
-6.5       Clone source from your account to your local machine using xtUML Editor
-```
-```
-Owner: 
-6.6       Import Projects
+6.5       Pull data to local repository and workspace  
+6.5.1     Clone source from your account to your local machine using xtUML Editor  
+6.5.2     Import Projects
 ```
 ```
 Owner: 
@@ -74,7 +72,7 @@ Owner:
 ```
 ```
 Owner: 
-6.9       TODO
+6.9       Export plug-in and put it into an Editor installation
 ```
 
 Exercise possibilities:
