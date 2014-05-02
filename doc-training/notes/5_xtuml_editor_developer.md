@@ -64,24 +64,41 @@ Owner:
 ```
 ```
 Owner: 
-6.7       Build
+6.7       Build  
+6.7.1     Build project  
+6.7.2     Build automatically  
 ```
 ```
 Owner: 
-6.8       Exercises
+6.8       Running and Debugging  
+6.8.1     Launch xtUML Editor launch config
+6.8.2     Run vs Debug
 ```
 ```
 Owner: 
-6.9       Export plug-in and put it into an Editor installation
+6.9       Exercise - Default Data Type  
+6.9.1     Find where we set the default type for new attribute in OAL and Java.  Attribute
+Class > Initialize(),  bp.core/Attribute_c.initialize()  
+6.9.2     Change the default to "real"  
+6.9.3     Show via breakpoint and stepping that the type successfully changed  
+```
+```
+Owner: 
+6.10      Select statements, OAL and Java  
+6.10.1    Look at the traversal we want to do in the metamodel from attribute up to system
+6.10.1    Go to Attribute::Initialize() OAL line 39, see the select statement here  
+6.10.2    Now look at how the selection is implemented in the java bp.core/Attribute_c.java:
+```
+```
+Owner: 
+6.10       Export plug-in and put it into an Editor installation
 ```
 
 Exercise possibilities:
 - Create a new plug-in that implements a builder that reads and exports model data
 - Create a new plug-in that sucks in OAL from a file and injects it into the model at 
 the right spot.  Use function.gen plugin as a base?
-- Use breakpoints to inspect the internals of the implementation of some feature
-- Select statements with traversals.  Figuring out in the metamodel what the select 
-looks like, then implementing it in code.
+
 
 7. Design Comments
 ------------------
