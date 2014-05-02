@@ -193,7 +193,7 @@ Owner:
 6.15.3    Importing a preference file
 ```
 ```
-Owner: 
+Owner: Campbell
 6.16      eXecuting Models (Verifier)  
 6.16.1    Launch Configurations  
 6.16.1.1  Simulated Time, Clock Time, Run Deterministically, Logging  
