@@ -22,6 +22,7 @@ course for xtUML Editor Developers is outlined here.
     Outline xtUML Editor Developer Course  
 [2] Issues 1, https://github.com/xtuml/training/issues/1 -
     Outline Self-Paced Course  
+[3] HOWTO set up for Editor development, https://github.com/xtuml/editor/blob/master/doc-editor/HOWTO/HOWTO-build-xtumlEditor.md  
 
 3. Background
 -------------
@@ -51,6 +52,7 @@ Owner:
 ```
 Owner: 
 6.3       Download and install add-ons file
+6.3.1     Follow the steps to do this in [3]  
 ```
 ```
 Owner:    Travis  
