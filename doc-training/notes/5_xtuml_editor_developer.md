@@ -83,7 +83,7 @@ Owner:
 6.9       Exercise - Default Data Type  
 6.9.1     Find where we set the default type for new attribute in OAL and Java.  Attribute
 Class > Initialize(),  bp.core/Attribute_c.initialize()  
-6.9.2     Change the default to "real"   
+6.9.2     Change the default to "string"   
 6.9.3     Show via breakpoint and stepping that the type successfully changed  
 ```
 ```
