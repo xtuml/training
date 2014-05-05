@@ -59,44 +59,45 @@ Owner:    Travis
 ```
 Owner: 
 6.5       Pull data to local repository and workspace  
-6.5.1     Clone source from your account to your local machine using xtUML Editor  
-6.5.2     Import Projects
+6.5.1     Clone source from your account to your local machine using xtUML Editor. Emphasize
+that we clone to a directory (repository) location _outside_ the workspace.  
+6.5.2     Import Projects into workspace  
 ```
 ```
 Owner: 
-6.7       Build  
+6.7       Build   
 6.7.1     Build project  
 6.7.2     Build automatically  
 ```
 ```
 Owner: 
-6.8       Running and Debugging  
-6.8.1     Launch xtUML Editor launch config
-6.8.2     Run vs Debug
-6.8.3     Java Exception Breakpoints (Set NPE breakpoint)
+6.8       Running and Debugging    
+6.8.1     Launch xtUML Editor launch config  
+6.8.2     Run vs Debug  
+6.8.3     Java Exception Breakpoints (Set NPE breakpoint)  
 ```
 ```
 Owner: 
 6.9       Exercise - Default Data Type  
 6.9.1     Find where we set the default type for new attribute in OAL and Java.  Attribute
 Class > Initialize(),  bp.core/Attribute_c.initialize()  
-6.9.2     Change the default to "real"  
+6.9.2     Change the default to "real"   
 6.9.3     Show via breakpoint and stepping that the type successfully changed  
 ```
 ```
 Owner: 
-6.10      Select statements, OAL and Java  
-6.10.1    Look at the traversal we want to do in the metamodel from attribute up to system
-6.10.2    Go to Attribute::Initialize() OAL line 39, see the select statement here  
-6.10.3    Now look at how the selection is implemented in the java bp.core/Attribute_c.java:
+6.10      Select statements, OAL and Java   
+6.10.1    Look at the traversal we want to do in the metamodel from attribute up to system  
+6.10.2    Go to Attribute::Initialize() OAL line 39, see the select statement here    
+6.10.3    Now look at how the selection is implemented in the java bp.core/Attribute_c.java:  
 ```
 ```
 Owner: 
-6.11      Export plug-in and put it into an Editor installation
+6.11      Export plug-in and put it into an Editor installation  
 6.11.1    Look at the plug-ins in the xE installation.  See if the plug-in we want to export
-is a directory or jar
-6.11.2    Use plugin.xml Export Wizard to export the plug-in
-6.11.3    Copy it in to the distribution
+is a directory or jar  
+6.11.2    Use plugin.xml Export Wizard to export the plug-in  
+6.11.3    Copy it in to the distribution  
 ```
 
 Exercise possibilities:
