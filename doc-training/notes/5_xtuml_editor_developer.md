@@ -94,6 +94,9 @@ Owner:
 6.10.3    Now look at how the selection is implemented in the java bp.core/Attribute_c.java:  
 ```
 ```
+EXERCISE: Create a new plug-in that implements a builder that reads and exports model data
+```
+```
 Owner: 
 6.11      Export plug-in and put it into an Editor installation  
 6.11.1    Look at the plug-ins in the xE installation.  See if the plug-in we want to export
@@ -101,11 +104,21 @@ is a directory or jar
 6.11.2    Use plugin.xml Export Wizard to export the plug-in  
 6.11.3    Copy it in to the distribution  
 ```
+```
+Owner: 
+6.12      Unit testing  
+6.12.1    Running JUnits
+6.12.2    Writing JUnits
+```
+```
+EXERCISE: Create a new plug-in that sucks in OAL from a file and injects it into the model at 
+the right spot.  Use function.gen plugin as a base.
+```
 
 Exercise possibilities:
-- Create a new plug-in that implements a builder that reads and exports model data
-- Create a new plug-in that sucks in OAL from a file and injects it into the model at 
-the right spot.  Use function.gen plugin as a base?
+- Extend the canvas elements with "..." to show more info
+- Mark terminal states –other way than today-
+- Have some predefined color to distinguish “some graphical elements”
 
 
 7. Design Comments
