@@ -46,13 +46,13 @@ Owner: Keith
 6.1.1.2   Installing xtUML Editor on Windows  
 ```
 ```
-Owner: 
-6.2       Create account on github
+Owner:    Keith
+6.2       Download and install add-ons file
+6.2.1     Follow the steps to do this in [3]  
 ```
 ```
-Owner: 
-6.3       Download and install add-ons file
-6.3.1     Follow the steps to do this in [3]  
+Owner:    Keith
+6.3       Create account on github
 ```
 ```
 Owner:    Travis  
