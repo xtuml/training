@@ -39,19 +39,19 @@ the xtUML Editor.
 6. Design
 ---------
 ```
-Owner: Keith
+Done by: Keith
 6.1       Installation  
 6.1.1     Installing xtUML Editor  
 6.1.1.1   Installing xtUML Editor on Linux  
 6.1.1.2   Installing xtUML Editor on Windows  
 ```
 ```
-Owner:    Keith
+Done by:    Keith
 6.2       Download and install add-ons file
 6.2.1     Follow the steps to do this in [3]  
 ```
 ```
-Owner:    Keith
+Done by:    Keith
 6.3       Create account on github
 ```
 ```
@@ -59,14 +59,14 @@ Owner:    Travis
 6.4       Fork editor to your github account  
 ```
 ```
-Owner: 
+Owner:    Travis
 6.5       Pull data to local repository and workspace  
 6.5.1     Clone source from your account to your local machine using xtUML Editor. Emphasize
 that we clone to a directory (repository) location _outside_ the workspace.  
 6.5.2     Import Projects into workspace  
 ```
 ```
-Owner: 
+Done by:  Keith
 6.7       Build   
 6.7.1     Build project  
 6.7.2     Build automatically  
