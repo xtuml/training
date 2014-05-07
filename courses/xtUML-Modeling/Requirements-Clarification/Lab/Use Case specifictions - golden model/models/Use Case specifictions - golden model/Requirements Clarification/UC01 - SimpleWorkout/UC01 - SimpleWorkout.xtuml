@@ -1,0 +1,137 @@
+-- BP 7.1.6 content: Package syschar: 3 persistence-version: 7.1.6
+
+INSERT INTO EP_PKG
+	VALUES ("42629b51-602f-479a-ab9c-379c40d57bec",
+	"00000000-0000-0000-0000-000000000000",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'UC01 - SimpleWorkout',
+	'',
+	0);
+INSERT INTO GD_MD
+	VALUES ("c1383858-4bc7-4b49-9857-0d189ca57acc",
+	112,
+	"42629b51-602f-479a-ab9c-379c40d57bec",
+	108,
+	0,
+	0,
+	1,
+	1,
+	1,
+	12,
+	1,
+	0,
+	0,
+	200,
+	150,
+	0,
+	'4.1.10',
+	'Use Case specifictions - golden model::Requirements Clarification::UC01 - SimpleWorkout');
+INSERT INTO GD_GE
+	VALUES ("4489fd7b-c535-4429-b319-98c698462dad",
+	"c1383858-4bc7-4b49-9857-0d189ca57acc",
+	"a5aa1622-9500-4c0c-81fc-c20aac56e917",
+	85,
+	0,
+	'Use Case specifictions - golden model::Requirements Clarification::UC01 - SimpleWorkout::UC01-SimpleWorkout');
+INSERT INTO GD_SHP
+	VALUES ("4489fd7b-c535-4429-b319-98c698462dad");
+INSERT INTO GD_NCS
+	VALUES ("4489fd7b-c535-4429-b319-98c698462dad");
+INSERT INTO DIM_ND
+	VALUES (200.000000,
+	150.000000,
+	"4489fd7b-c535-4429-b319-98c698462dad");
+INSERT INTO DIM_GE
+	VALUES (440.000000,
+	12.000000,
+	"4489fd7b-c535-4429-b319-98c698462dad",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("4489fd7b-c535-4429-b319-98c698462dad",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_GE
+	VALUES ("66709c9c-114e-4ba1-92e1-c65e14826345",
+	"c1383858-4bc7-4b49-9857-0d189ca57acc",
+	"fa9f1db9-09cc-4f36-96ad-64ce546edb0a",
+	108,
+	0,
+	'Use Case specifictions - golden model::Requirements Clarification::UC01 - SimpleWorkout::ActivityDiagram');
+INSERT INTO GD_SHP
+	VALUES ("66709c9c-114e-4ba1-92e1-c65e14826345");
+INSERT INTO GD_NCS
+	VALUES ("66709c9c-114e-4ba1-92e1-c65e14826345");
+INSERT INTO DIM_ND
+	VALUES (200.000000,
+	150.000000,
+	"66709c9c-114e-4ba1-92e1-c65e14826345");
+INSERT INTO DIM_GE
+	VALUES (660.000000,
+	12.000000,
+	"66709c9c-114e-4ba1-92e1-c65e14826345",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("66709c9c-114e-4ba1-92e1-c65e14826345",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_DIA
+	VALUES ("c1383858-4bc7-4b49-9857-0d189ca57acc",
+	'',
+	1.000000,
+	4000.000000,
+	3000.000000,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO SQ_P
+	VALUES ("a5aa1622-9500-4c0c-81fc-c20aac56e917",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO IA_UCP
+	VALUES ("a5aa1622-9500-4c0c-81fc-c20aac56e917",
+	'UC01-SimpleWorkout',
+	'Pre-conditions
+	No track logs exist on the device.
+	Elapsed time and distance have been reset to 0
+	Display shows no  elapsed time and no accumulated distance.
+
+Post-conditions
+	A track log exists on the device.
+	Timer is stopped.
+	No further track points are added to the track log. 
+	Elapsed time and distance are displayed.
+	
+
+Scenario
+	1.	User pushes the start/stop button and begins moving (walking, running, flying, cycling, etc.).
+	2.	The timer starts.
+	3.	Throughout the workout, the display shows:
+		a.	Accumulated distance
+		b.	Elapsed time
+	4.	At one-second intervals throughout the workout the device stores, in the active track log, 
+	    the current location of the device.
+	5.	User pushes the start/stop button.
+	6.	The elasped time and distance stop accumulating.
+	');
+INSERT INTO PE_PE
+	VALUES ("a5aa1622-9500-4c0c-81fc-c20aac56e917",
+	1,
+	"42629b51-602f-479a-ab9c-379c40d57bec",
+	"00000000-0000-0000-0000-000000000000",
+	14);
+INSERT INTO PE_PE
+	VALUES ("42629b51-602f-479a-ab9c-379c40d57bec",
+	1,
+	"3293513d-3f01-4fea-a88a-68366c115160",
+	"00000000-0000-0000-0000-000000000000",
+	7);
+INSERT INTO EP_PKG_PROXY
+	VALUES ("3293513d-3f01-4fea-a88a-68366c115160",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'Requirements Clarification',
+	'',
+	0,
+	'../Requirements Clarification.xtuml');
+INSERT INTO S_SYS_PROXY
+	VALUES ("f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'Use Case specifictions - golden model',
+	1,
+	'../../Use Case specifictions - golden model.xtuml');
