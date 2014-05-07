@@ -1,0 +1,351 @@
+-- BP 7.1.6 content: Package syschar: 3 persistence-version: 7.1.6
+
+INSERT INTO EP_PKG
+	VALUES ("7553fc7e-577d-4d2f-9677-aa06dd02a6a1",
+	"00000000-0000-0000-0000-000000000000",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'UC06 - AchievingHeartRateOverTimeGoal',
+	'',
+	0);
+INSERT INTO GD_MD
+	VALUES ("39931b1f-da46-4977-b40f-68eb71cb3e3b",
+	112,
+	"7553fc7e-577d-4d2f-9677-aa06dd02a6a1",
+	108,
+	0,
+	0,
+	1,
+	1,
+	1,
+	12,
+	1,
+	0,
+	0,
+	200,
+	150,
+	0,
+	'4.1.10',
+	'Use Case specifications - golden model::Requirements Clarification::UC06 - AchievingHeartRateOverTimeGoal');
+INSERT INTO GD_GE
+	VALUES ("c93cc31b-0529-4d45-9c7f-645e9839545a",
+	"39931b1f-da46-4977-b40f-68eb71cb3e3b",
+	"00000000-0000-0000-0000-000000000000",
+	87,
+	0,
+	'');
+INSERT INTO GD_CON
+	VALUES ("c93cc31b-0529-4d45-9c7f-645e9839545a",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("c6dc2a1f-bd8c-451e-9ffd-0ede254a41a8",
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	1,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"c6dc2a1f-bd8c-451e-9ffd-0ede254a41a8");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"c6dc2a1f-bd8c-451e-9ffd-0ede254a41a8",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("c6dc2a1f-bd8c-451e-9ffd-0ede254a41a8",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("25dd38de-d493-4398-adcc-b3ecdfb31edd",
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	3,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"25dd38de-d493-4398-adcc-b3ecdfb31edd");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"25dd38de-d493-4398-adcc-b3ecdfb31edd",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("25dd38de-d493-4398-adcc-b3ecdfb31edd",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("74398989-d3a1-4d50-aac7-0cbec8e4c7d5",
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	2,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"74398989-d3a1-4d50-aac7-0cbec8e4c7d5");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"74398989-d3a1-4d50-aac7-0cbec8e4c7d5",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("74398989-d3a1-4d50-aac7-0cbec8e4c7d5",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_LS
+	VALUES ("f90de93b-68e2-470e-9a8a-9f51b08053f3",
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	"00000000-0000-0000-0000-000000000000",
+	"e45195e1-6813-485e-8d89-f7178dc7a284",
+	"964f64d5-c38c-4cf8-81b2-46b60107c0e5");
+INSERT INTO DIM_WAY
+	VALUES ("e45195e1-6813-485e-8d89-f7178dc7a284",
+	4268.000000,
+	3332.000000,
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	"00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_WAY
+	VALUES ("964f64d5-c38c-4cf8-81b2-46b60107c0e5",
+	4404.000000,
+	3240.000000,
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	"00000000-0000-0000-0000-000000000000",
+	"e45195e1-6813-485e-8d89-f7178dc7a284");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"c93cc31b-0529-4d45-9c7f-645e9839545a",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("c93cc31b-0529-4d45-9c7f-645e9839545a",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ED
+	VALUES ("00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000",
+	"c93cc31b-0529-4d45-9c7f-645e9839545a");
+INSERT INTO GD_GE
+	VALUES ("82520288-0cf6-4abd-9620-46a038e3fdf3",
+	"39931b1f-da46-4977-b40f-68eb71cb3e3b",
+	"00000000-0000-0000-0000-000000000000",
+	89,
+	0,
+	'');
+INSERT INTO GD_CON
+	VALUES ("82520288-0cf6-4abd-9620-46a038e3fdf3",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("f11de135-0710-4023-9527-2cdc2abd8ec3",
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	1,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"f11de135-0710-4023-9527-2cdc2abd8ec3");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"f11de135-0710-4023-9527-2cdc2abd8ec3",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("f11de135-0710-4023-9527-2cdc2abd8ec3",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("e04efe9c-d87a-413e-8300-25e17b0d8ee6",
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	3,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"e04efe9c-d87a-413e-8300-25e17b0d8ee6");
+INSERT INTO DIM_GE
+	VALUES (4746.000000,
+	3085.000000,
+	"e04efe9c-d87a-413e-8300-25e17b0d8ee6",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("e04efe9c-d87a-413e-8300-25e17b0d8ee6",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_CTXT
+	VALUES ("6a68511c-8d8f-4cb1-b8fd-f50852b0606b",
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	2,
+	0.000000,
+	0.000000);
+INSERT INTO DIM_ND
+	VALUES (0.000000,
+	0.000000,
+	"6a68511c-8d8f-4cb1-b8fd-f50852b0606b");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"6a68511c-8d8f-4cb1-b8fd-f50852b0606b",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("6a68511c-8d8f-4cb1-b8fd-f50852b0606b",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_LS
+	VALUES ("94149566-709a-4f43-a9fe-d4e24f053155",
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	"00000000-0000-0000-0000-000000000000",
+	"d99acfd2-afc7-43c5-ab0d-0ecce54e8c38",
+	"7d6c9c58-e057-4a8e-86a2-da30221cb86f");
+INSERT INTO DIM_WAY
+	VALUES ("d99acfd2-afc7-43c5-ab0d-0ecce54e8c38",
+	4604.000000,
+	3142.000000,
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	"00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_WAY
+	VALUES ("7d6c9c58-e057-4a8e-86a2-da30221cb86f",
+	4938.000000,
+	3108.000000,
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	"00000000-0000-0000-0000-000000000000",
+	"d99acfd2-afc7-43c5-ab0d-0ecce54e8c38");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"82520288-0cf6-4abd-9620-46a038e3fdf3",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("82520288-0cf6-4abd-9620-46a038e3fdf3",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ED
+	VALUES ("00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000",
+	"82520288-0cf6-4abd-9620-46a038e3fdf3");
+INSERT INTO GD_GE
+	VALUES ("3f3467f4-d6e7-4b09-9f55-8311bd7dd41e",
+	"39931b1f-da46-4977-b40f-68eb71cb3e3b",
+	"e57849d1-5f67-4db9-b4eb-ad2d73a98c59",
+	85,
+	0,
+	'Use Case specifications - golden model::Requirements Clarification::UC06 - AchievingHeartRateOverTimeGoal::UC06-AchievingHeartRateOverTimeGoal');
+INSERT INTO GD_SHP
+	VALUES ("3f3467f4-d6e7-4b09-9f55-8311bd7dd41e");
+INSERT INTO GD_NCS
+	VALUES ("3f3467f4-d6e7-4b09-9f55-8311bd7dd41e");
+INSERT INTO DIM_ND
+	VALUES (200.000000,
+	150.000000,
+	"3f3467f4-d6e7-4b09-9f55-8311bd7dd41e");
+INSERT INTO DIM_GE
+	VALUES (0.000000,
+	0.000000,
+	"3f3467f4-d6e7-4b09-9f55-8311bd7dd41e",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("3f3467f4-d6e7-4b09-9f55-8311bd7dd41e",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_GE
+	VALUES ("8911b9b3-fe50-4337-a429-ac1e5de39a4b",
+	"39931b1f-da46-4977-b40f-68eb71cb3e3b",
+	"b0fafd9d-14e8-4da6-b8ab-8ba409941abc",
+	108,
+	0,
+	'Use Case specifications - golden model::Requirements Clarification::UC06 - AchievingHeartRateOverTimeGoal::ActivityDiagram');
+INSERT INTO GD_SHP
+	VALUES ("8911b9b3-fe50-4337-a429-ac1e5de39a4b");
+INSERT INTO GD_NCS
+	VALUES ("8911b9b3-fe50-4337-a429-ac1e5de39a4b");
+INSERT INTO DIM_ND
+	VALUES (200.000000,
+	150.000000,
+	"8911b9b3-fe50-4337-a429-ac1e5de39a4b");
+INSERT INTO DIM_GE
+	VALUES (220.000000,
+	0.000000,
+	"8911b9b3-fe50-4337-a429-ac1e5de39a4b",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("8911b9b3-fe50-4337-a429-ac1e5de39a4b",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_DIA
+	VALUES ("39931b1f-da46-4977-b40f-68eb71cb3e3b",
+	'',
+	1.000000,
+	4000.000000,
+	3000.000000,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO SQ_P
+	VALUES ("e57849d1-5f67-4db9-b4eb-ad2d73a98c59",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO IA_UCP
+	VALUES ("e57849d1-5f67-4db9-b4eb-ad2d73a98c59",
+	'UC06-AchievingHeartRateOverTimeGoal',
+	'Pre-conditions
+	Timer has been reset. 
+	Elapsed time is zero.
+	Accumulated distance is zero.
+	Display shows elapsed time and accumulated distance.
+
+Post-conditions
+	A Heart Rate Over Time goal exists on the device.
+	A heart rate log exists on the device.
+	A log of the heart rate over time goal exists on the device.
+	An indication of when during the workout the goal was being met exists on the device.  In this 
+	  case the log shows that the goal was being met throughout the entire duration of the goal.
+	Timer is stopped.
+	Display shows Elapsed time, accummulated distance.
+	
+
+Scenario
+	1.  User establishes a single goal of maintaining a heart rate within a range over time .
+	2.	User pushes the start/stop button and begins moving (walking, running, flying, cycling, etc.).
+	3.	The timer starts.
+	4.	The display shows:
+		a.	Accumulated distance
+		b.	Elapsed time
+	5.  At three-second intervals, throughout the workout, the device stores, in a log, 
+		the heart rate of the user.
+	6.	User pushes Set Target button.
+	7.	The tracking of the goal starts.
+	8.  The device stores an indication of when during the workout the goal is active and 
+		success condition is being met.
+	9	The display shows:
+		a.	Accumulated distance
+		b.	Elapsed time
+		c.  An indication of whether the current goal conditon is being met.
+	10.	User pushes the start/stop button.
+	11.	The timer stops.
+	12.	Goal is satisfied at the conclusion of user activity.
+	13. Stop storing heart rate and current location on the device');
+INSERT INTO PE_PE
+	VALUES ("e57849d1-5f67-4db9-b4eb-ad2d73a98c59",
+	1,
+	"7553fc7e-577d-4d2f-9677-aa06dd02a6a1",
+	"00000000-0000-0000-0000-000000000000",
+	14);
+INSERT INTO PE_PE
+	VALUES ("7553fc7e-577d-4d2f-9677-aa06dd02a6a1",
+	1,
+	"3293513d-3f01-4fea-a88a-68366c115160",
+	"00000000-0000-0000-0000-000000000000",
+	7);
+INSERT INTO EP_PKG_PROXY
+	VALUES ("3293513d-3f01-4fea-a88a-68366c115160",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'Requirements Clarification',
+	'',
+	0,
+	'../Requirements Clarification.xtuml');
+INSERT INTO S_SYS_PROXY
+	VALUES ("f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'Use Case specifications - golden model',
+	1,
+	'../../Use Case specifications - golden model.xtuml');
