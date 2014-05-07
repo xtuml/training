@@ -72,7 +72,7 @@ Done by:  Keith
 6.6.2     Build automatically  
 ```
 ```
-Owner: 
+Done by:  Keith 
 6.7       Running and Debugging    
 6.7.1     Launch xtUML Editor launch config  
 6.7.2     Run vs Debug  
@@ -97,7 +97,7 @@ Owner:
 EXERCISE: Create a new plug-in that implements a builder that reads and exports model data
 ```
 ```
-Owner: 
+Owner:    Travis
 6.10      Export plug-in and put it into an Editor installation  
 6.10.1    Look at the plug-ins in the xE installation.  See if the plug-in we want to export
 is a directory or jar  
