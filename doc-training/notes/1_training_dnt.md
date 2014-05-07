@@ -232,9 +232,11 @@ Owner:
 6.19      Model-Based Testing  
 ```
 ```
-Owner: 
+Owner: campbell
 6.20      Realized Code Integration (Legacy Integration)  
-6.20.1    Verifier Interface to External Code  
+6.20.1    Verifier Interface to External Code
+6.20.2    Bridge binding
+6.20.3    Interface Audit
 ```
 ```
 Owner: 
