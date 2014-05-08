@@ -79,25 +79,27 @@ Done by:  Keith
 6.7.3     Java Exception Breakpoints (Set NPE breakpoint)  
 ```
 ```
-Owner: 
-6.8       Exercise - Default Data Type  
-6.8.1     Find where we set the default type for new attribute in OAL and Java.  Attribute
+EXERCISE - Default Data Type  
+  - Find where we set the default type for new attribute in OAL and Java.  Attribute
 Class > Initialize(),  bp.core/Attribute_c.initialize()  
-6.8.2     Change the default to "string"   
-6.8.3     Show via breakpoint and stepping that the type successfully changed  
+  - Change the default to "string"   
+  - Show via breakpoint and stepping that the type successfully changed  
 ```
 ```
-Owner: 
+Done by: Keith
 6.9      Select statements, OAL and Java   
 6.9.1    Look at the traversal we want to do in the metamodel from attribute up to system  
 6.9.2    Go to Attribute::Initialize() OAL line 39, see the select statement here    
 6.9.3    Now look at how the selection is implemented in the java bp.core/Attribute_c.java:  
 ```
 ```
+EXERCISE: Hand write a selection in OAL, then write the same in Java
+```
+```
 EXERCISE: Create a new plug-in that implements a builder that reads and exports model data
 ```
 ```
-Owner:    Travis
+Done by:    Travis
 6.10      Export plug-in and put it into an Editor installation  
 6.10.1    Look at the plug-ins in the xE installation.  See if the plug-in we want to export
 is a directory or jar  
