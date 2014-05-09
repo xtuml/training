@@ -85,6 +85,9 @@ Class > Initialize(),  bp.core/Attribute_c.initialize()
   - Change the default to "string"   
   - Show via breakpoint and stepping that the type successfully changed  
 ```
+
+__TODO: Talk about the source code layout and an overview tour of the OOAofOOA__
+
 ```
 Done by: Keith
 6.9      Select statements, OAL and Java   
@@ -120,7 +123,10 @@ Done by:    Travis
 EXERCISE: Create a new plug-in that sucks in OAL from a file and injects it into the model at 
 the right spot.  Use function.gen plugin as a base.
 ```
-
+```
+Owner: 
+6.13    Discuss MC-PaaS as and MC-Java
+```
 Exercise possibilities:
 - Extend the canvas elements with "..." to show more info
 - Mark terminal states –other way than today-
