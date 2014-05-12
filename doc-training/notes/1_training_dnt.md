@@ -58,7 +58,7 @@ Owner: Keith
 6.2.1.1   Workspace, Project, Resource, View, Editor, Perspective  
 ```
 ```
-Owner: 
+Owner: Travis   
 6.3       xtUML Projects  
 6.3.1     Interproject References (IPRs) 
 6.3.1.1   How to enable via project preferences
