@@ -8,7 +8,7 @@ some key eclipse terms.  In this lesson we will learn about:
 - Editors
 - Perspectives
 
-<div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=qUJEP510BIM&feature=youtu.be">
+<div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=hgID6ZLjXsU&feature=youtu.be">
 <div> </div>
 </div>
 
