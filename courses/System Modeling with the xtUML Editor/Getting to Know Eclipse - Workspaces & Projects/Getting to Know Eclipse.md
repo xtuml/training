@@ -9,7 +9,7 @@ some key eclipse terms.  In this lesson we will learn about:
 - Perspectives
 
 <div class="macro-embedly" contenteditable="false" data-url="https://www.youtube.com/watch?v=hgID6ZLjXsU&feature=youtu.be">
-<div>![](http://img.youtube.com/vi/hgID6ZLjXsU/0.jpg)</div>
+<div></div>
 </div>
 
 
