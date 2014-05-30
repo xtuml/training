@@ -79,8 +79,8 @@ Owner: Done (Keith)
   - Reviewed: Yes
   - Uploaded to YouTube: Yes
 - Container page creation: 100%
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
