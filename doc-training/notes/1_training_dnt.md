@@ -153,7 +153,7 @@ Owner: Heba
 ```
 - Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: __No - Ready for review__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
@@ -374,7 +374,7 @@ Owner: Keith
 ```
 _NOTE: IMO, this segment does not belong in the System Modeler course.  We have the content for
 the xtUML Editor Developer course that I delivered in Budapest that I believe should be its own
-stand-alone course. See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md __
+stand-alone course. See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md _
 
 ----
 ```
