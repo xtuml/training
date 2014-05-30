@@ -105,15 +105,15 @@ Owner: Travis
   - Reviewed: __No - Ready for review.__
   - Uploaded to YouTube: __No__
 - 6.3.1.6 Video
-  - Creation: 50%
+  - Creation: __50%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - 6.3.2 Video
-  - Creation: 0%
+  - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - 6.3.3 Video
-  - Creation: 0%
+  - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
@@ -125,12 +125,26 @@ Owner: Travis
 Owner: 
 6.4       Import and Export  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
 Owner: 
 6.5       Packages:  Creating, Nesting, Organizing  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -178,6 +192,13 @@ Owner:
 6.7.5     Imported Classes (Class References, Off-Page Connections)  
 6.7.6     Steps to Creating Class Diagrams  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -196,6 +217,13 @@ Owner:
 6.8.8     "Polymorphic Events" (Asynchronous polymorphism)  
 6.8.9     Steps to Creating a State Model  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -239,6 +267,13 @@ Owner:
 6.10      Activity Diagrams  
 6.10.1    Activity Symbols  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -246,6 +281,13 @@ Owner:
 6.11      Communication Diagrams  
 6.11.1    Communication Symbols  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -253,6 +295,13 @@ Owner:
 6.12      Use Cases  
 6.12.1    Use Case Symbols  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -260,6 +309,13 @@ Owner:
 6.13      Sequence Diagrams  
 6.13.1    Sequence Symbols  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -270,6 +326,13 @@ Owner:
 6.14.3    Git and GitHub  
 6.14.4    Models, Documents and Source Code on GitHub  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -279,6 +342,13 @@ Owner:
 6.15.2    Exporting a reusable preference file
 6.15.3    Importing a preference file
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -318,6 +388,13 @@ Owner:
 6.17.7    Compiling the Generated Code  
 6.17.8    Turning builders on and off via project properties
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -340,6 +417,13 @@ Owner: Bob
 Owner: 
 6.19      Model-Based Testing  
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -349,6 +433,13 @@ Owner: Campbell
 6.20.2    Bridge binding
 6.20.3    Interface Audit
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -385,6 +476,13 @@ Owner: Nehad
 6.23.3 Import Sample Models and run them
 6.23.4 xtUML Help
 ```
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
 
 
 7. Design Comments
