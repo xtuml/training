@@ -56,7 +56,7 @@ __Answer(s):__
 
 __Type:__  Radio Buttons
 
-__Question:__ In the xtUML Editor user interface, "Model Explorer", "Properties, and "Palette" are:
+__Question:__ In the xtUML Editor user interface, "Model Explorer", "Properties", and "Palette" are:
 
 __Choices:__
   - A:  Views
@@ -101,7 +101,7 @@ __Answer(s):__
 
 __Type:__ Radio Buttons
 
-__Question:__ Git repositories should be located inside a workspace?
+__Question:__ Git repositories should be located on disk inside a workspace?
 
 __Choices:__ 
   - A: True
