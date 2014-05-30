@@ -463,9 +463,9 @@ Owner:
 Owner: Keith
 6.22      Building the xtUML Editor from Source  
 ```
-_NOTE: IMO, this segment does not belong in the System Modeler course.  We have the content for
+NOTE: IMO, this segment does not belong in the System Modeler course.  We have the content for
 the xtUML Editor Developer course that I delivered in Budapest that I believe should be its own
-stand-alone course. See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md _
+stand-alone course. See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md
 
 ----
 ```
