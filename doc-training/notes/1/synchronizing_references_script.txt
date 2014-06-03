@@ -1,0 +1,25 @@
+- When using inter-project references in the xtUML editor synchronization must be done manually
+- This is to handle the cases where a single group does not own the entire system
+- When a referred to element is changed the referring elements will have warning symbols added to the Model Explorer tree
+* Delete setTime operation
+* Add stopTest operation
+- These warning symbols aid in determining when your local project is out of sync
+* To synchronize your project with the referred to element right click on the project in Model Explorer
+* Next select the Synchronize with library action
+- You will be presented with a dialog that warns about any removals that will occur in the synchronization
+- At this point you can either cancel the synchronization or you can accept the changes and click the OK button
+- Checking the Do not ask again button will prevent this dialog from showing
+* Check the Do not ask again button
+- The dialog can be re-enabled in the xtUML editor preferences
+- Once you hit OK the synchronization will complete
+- You are again presented with a dialog that gives you a description of what was done
+- In addition to any removals you will also see any additions that were made
+- Again you may click the Do not ask again button to prevent this dialog from showing, and of course can re-enable it in the xtUML preferences
+- Once done the warning markers will be removed from the tree and the model will be synchronized
+- All synchronizations support undo and redo
+- Once a synchronization is undone the warning symbols will return
+- If redone the warning symbols will be removed
+- The aforementioned process is used to synchronize in a pull fashion
+- Another approach is to push the synchronization if you are the owner of all referring projects
+- To push the synchronization right click on the project and select the Synchronize with references action
+- After the action is complete all referring projects will be synchronized
