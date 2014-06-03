@@ -374,8 +374,44 @@ Owner: Campbell
 6.16.8    Simple Test Cases (functions)  
 6.16.9    OAL Console (functions)  
 ```
-- Video
-  - Creation: __95%__
+- Debug Configurations Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Debug View Video
+  - Creation: 100%
+  - Reviewed: __Partial - Thumbs up: KB, CS, Thumbs down: TL__
+  - Uploaded to YouTube: __No__
+- First Level Testing Video
+  - Creation: 100%
+  - Reviewed: __Partial - Thumbs up: SKB__
+  - Uploaded to YouTube: __No__
+- Partial Launches Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Population Checking Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Session Explorer Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Spotlight Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Time and Logging Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Variables and Breakpoints Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Verifier Intro Video
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
