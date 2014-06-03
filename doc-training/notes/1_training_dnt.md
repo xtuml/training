@@ -98,12 +98,12 @@ Owner: Travis
 ```
 - xtUML Projects Video
   - Creation: 100%
-  - Reviewed: __No - Ready for review.__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=P22NPWb7OFg
 - IPR Video
   - Creation: 100%
-  - Reviewed: __No - Ready for review.__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
 - 6.3.1.6 Video
   - Creation: __50%__
   - Reviewed: __No__
@@ -122,11 +122,11 @@ Owner: Travis
 
 ----
 ```
-Owner: 
+Owner:    Travis
 6.4       Import and Export  
 ```
 - Video
-  - Creation: __0%__
+  - Creation: __20%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
@@ -165,9 +165,17 @@ Owner: Heba
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
 ```
-- Video
+- Components Video
   - Creation: 100%
-  - Reviewed: __No - Ready for review__
+  - Reviewed: Yes with minor observation
+  - Uploaded to YouTube: __No__
+- Container page creation: __0%__
+- Quiz creation: __0%__
+- Uploaded to LMS: __No__
+
+- Interfaces Video
+  - Creation: 50%
+  - Reviewed: __Yes - Rejected__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
