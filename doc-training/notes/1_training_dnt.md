@@ -520,6 +520,66 @@ Owner: Nehad
 6.23.3 Import Sample Models and run them
 6.23.4 xtUML Help
 ```
+- Back Forward Navigation Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Breakpoints Grouping Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
 - Video
   - Creation: __0%__
   - Reviewed: __No__
