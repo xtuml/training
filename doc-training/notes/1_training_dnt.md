@@ -494,8 +494,48 @@ Owner:
 6.21.3    UI Best Practices     (Nehad)
 6.21.4    Tip and Tricks        (Nehad) 
 ```
-- Tips Videos
-  - Creation: 33%
+- Back Forward Navigation Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Breakpoints Grouping Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Ctrl-Q-L Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Dual Windows Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Duplicate Lines Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Link with Editor Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Multiple Elements Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Open Editor Dialog Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Search 1 Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Search 2 Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Split Editors Video
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
@@ -520,67 +560,19 @@ Owner: Nehad
 6.23.3 Import Sample Models and run them
 6.23.4 xtUML Help
 ```
-- Back Forward Navigation Video
+- CheatSheets Video
   - Creation: 100%
-  - Reviewed: Yes
+  - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Breakpoints Grouping Video
+- Help Video
   - Creation: 100%
-  - Reviewed: Yes
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
+- Welcome Page Video
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Video
+- Using Sample Projects Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
