@@ -529,7 +529,7 @@ Owner:
 - Search 1 Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=w39c7GNZtjI
 - Search 2 Video
   - Creation: 100%
   - Reviewed: __Yes - comments to address__
@@ -537,7 +537,7 @@ Owner:
 - Split Editors Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=6ixfu4FUXOk
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
