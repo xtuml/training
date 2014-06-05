@@ -497,46 +497,46 @@ Owner:
 - Back Forward Navigation Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=NGm2sgMTzsQ
 - Breakpoints Grouping Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
-- Ctrl-Q-L Video
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=BmKirBaX4Xk
+- Line Search Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=OzSlNJwIRdI
 - Dual Windows Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=pdnnyq8LW3Q
 - Duplicate Lines Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=xIdGhBDyf08
 - Link with Editor Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=GHmlRoX3Lr0
 - Multiple Elements Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=-LRG-UQ89Fs
 - Open Editor Dialog Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=rScvwv9mu1s
 - Search 1 Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Search 2 Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: __Yes - comments to address__
   - Uploaded to YouTube: __No__
 - Split Editors Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
@@ -563,14 +563,14 @@ Owner: Nehad
 - CheatSheets Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=AtXT3dsEnfE
 - Help Video
   - Creation: 100%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=ws17hR70-3A
 - Welcome Page Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: __Yes - comments to address__
   - Uploaded to YouTube: __No__
 - Using Sample Projects Video
   - Creation: __0%__
