@@ -334,6 +334,8 @@ Owner:
 6.14.3    Git and GitHub  
 6.14.4    Models, Documents and Source Code on GitHub  
 ```
+__Note__: We may want to use the video Robert Inkret made for this section.  It is at: http://www.youtube.com/watch?v=eux2oq6rRPw
+
 - Video
   - Creation: __0%__
   - Reviewed: __No__
@@ -532,8 +534,8 @@ Owner:
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=w39c7GNZtjI
 - Search 2 Video
   - Creation: 100%
-  - Reviewed: __Yes - comments to address__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=1toONaydPUY
 - Split Editors Video
   - Creation: 100%
   - Reviewed: Yes
@@ -570,8 +572,8 @@ Owner: Nehad
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=ws17hR70-3A
 - Welcome Page Video
   - Creation: 100%
-  - Reviewed: __Yes - comments to address__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=Z9vhWaDovfg
 - Using Sample Projects Video
   - Creation: __0%__
   - Reviewed: __No__
