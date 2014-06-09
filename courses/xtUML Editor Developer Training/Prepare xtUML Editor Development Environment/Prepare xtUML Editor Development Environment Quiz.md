@@ -46,7 +46,7 @@ __Answer(s):__
 
 ----
 
-__Question:__ xtUML Editor is build on what popular IDE?
+__Question:__ xtUML Editor is built on what popular IDE?
 
 __Choices:__
   - A:  Visual Studio
