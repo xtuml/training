@@ -1,5 +1,3 @@
-__Type:__ Radio Buttons
-
 __Question:__ A pre-packaged xtUML Editor installer is available for:
 
 __Choices:__
@@ -13,8 +11,6 @@ __Answer:__
   
 ----
 
-__Type:__ Radio Buttons 
-
 __Question:__ The user is allowed to install xtUML Editor to a path they specify?
 
 __Choices:__
@@ -25,8 +21,6 @@ __Answer(s):__
   - A
 
 ----
-
-__Type:__  Radio Buttons
 
 __Question:__ When does the user enter the license key for xtUML Editor?
 
@@ -41,8 +35,6 @@ __Answer(s):__
   
 ----
 
-__Type:__ Radio Buttons
-
 __Question:__ You must create an account on xtuml.org in order to download an installer?
 
 __Choices:__ 
@@ -53,8 +45,6 @@ __Answer(s):__
   - B
 
 ----
-
-__Type:__  Radio Buttons
 
 __Question:__ xtUML Editor is build on what popular IDE?
 
@@ -68,8 +58,6 @@ __Answer(s):__
   - B
   
 ----
-
-__Type:__  Radio Buttons
 
 __Question:__ The xtUML Editor source code is available via which on-line service?
 
