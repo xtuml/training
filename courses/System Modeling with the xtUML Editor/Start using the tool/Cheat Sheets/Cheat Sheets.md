@@ -1,4 +1,4 @@
-CheatSheets are to-do lists that help you to achieve a certain goal.
+CheatSheets are to-do lists that help you to achieve a certain goal.  
 This video shows how to:
 
 * Find cheatSheets and open them  
