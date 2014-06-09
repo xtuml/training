@@ -50,7 +50,7 @@ __Question:__ xtUML Editor is built on what popular IDE?
 
 __Choices:__
   - A:  Visual Studio
-  - B:  eclipse
+  - B:  Eclipse
   - C:  NetBeans
   - D:  IntelliJ
   
