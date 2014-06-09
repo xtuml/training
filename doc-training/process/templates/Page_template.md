@@ -3,7 +3,7 @@ Here is an introductory paragraph.  It can say whatever you want:
 *   Here is a bullet item
 *   And another
 
-If you look at the raw text of this file, you will see a link to embed a youTube video.
+If you look at the raw text of this file, you will see a link to embed a youTube video.  In this link, replace "s9Ch_UecVdY" with the desired video's ID.
 
 <iframe src="http://www.youtube.com/embed/s9Ch_UecVdY?rel=0" width="640" height="360" frameborder="0"></iframe>
 
