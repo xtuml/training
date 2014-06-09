@@ -1,4 +1,4 @@
-xtUML editor comes with two sample models, GPS Watch and Microwave Oven.
+xtUML editor comes with two sample models, GPS Watch and Microwave Oven.  
 In this lesson you will learn:
 
 * How to import sample models into your workbench  
