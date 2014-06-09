@@ -1,5 +1,3 @@
-__Type:__ Radio Buttons
-
 __Question:__ xtUML Editor pops up a build completed message when the build finishes?
 
 __Choices:__
@@ -10,8 +8,6 @@ __Answer:__
   - B
   
 ----
-
-__Type:__ Radio Buttons 
 
 __Question:__ The xtUML Editor source code projects are imported into your workspace from:
 
@@ -26,8 +22,6 @@ __Answer(s):__
 
 ----
 
-__Type:__  Radio Buttons
-
 __Question:__ In order to revision control their changes to xtUML Editor, users create a ________ of the Editor source code.
 
 __Choices:__
@@ -41,8 +35,6 @@ __Answer(s):__
   
 ----
 
-__Type:__ Radio Buttons
-
 __Question:__ When you use eGit to clone your github.com repository you:
 
 __Choices:__ 
@@ -55,8 +47,6 @@ __Answer(s):__
   - D
 
 ----
-
-__Type:__  Radio Buttons
 
 __Question:__ Local git repositories should live:
 
