@@ -1,4 +1,4 @@
-The welcome page is the start up page for every new workspace
+The welcome page is the start up page for every new workspace  
 This lesson demonstrates the content of the welcome page: 
 
 * Tutorial Videos on Mentor.com  
