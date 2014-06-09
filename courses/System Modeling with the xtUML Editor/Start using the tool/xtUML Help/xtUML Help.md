@@ -1,4 +1,4 @@
-xtUML editor and BrdigePoint verifier/model compiler come with rich help content
+xtUML editor and BrdigePoint verifier/model compiler come with rich help content  
 This lesson covers main and common sections you will visit while using the tool.
 
 * Getting Started  
