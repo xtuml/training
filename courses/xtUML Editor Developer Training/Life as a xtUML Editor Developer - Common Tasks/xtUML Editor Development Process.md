@@ -4,7 +4,7 @@ At a high level, the process is:
 
   - Create an issue in github Issues
   - Create a branch, named with the issue # & short description
-  - Write documents to capture requirements and design
+  - Write documents to capture requirements and design.  Analysis, Design, and Implementation note templates are <a href="http://github.com/xtuml/editor/tree/master/doc-editor/process/templates">available here</a>.
   - Review the documents with at least two other team members
   - Implement. Commit descriptions start with github Issues number: ```job #<Issues number> - <description>```
   - Test and Promote
