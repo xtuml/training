@@ -1,6 +1,6 @@
 __Type:__  Radio Buttons
  
-__Question:__  Which one of the following topic is not accessible from Welcome Page 
+__Question:__  Which one of the following topics is not accessible from Welcome Page 
  
 __Choices:__
   - A: Quick Start  
