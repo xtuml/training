@@ -1,6 +1,6 @@
 Select statements are extremely important in xtUML.  They allow us to get references to the modeled data elements in the model.
 
-Typical OAL-based processing makes heavy use of select statements.  When we are writing Java-based enhancements or tests, we will use a formulaic java syntax that interfaces with the modeled data and peforms the desired selection.
+Typical OAL-based processing makes heavy use of select statements.  When we are writing Java-based enhancements or tests, we will use a formulaic Java syntax that interfaces with the modeled data and peforms the desired selection.
 
 This lesson compares selections in OAL and Java: 
 <iframe src="http://www.youtube.com/embed/y7OELUAGcpE?rel=0" width="640" height="360" frameborder="0"></iframe>
