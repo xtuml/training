@@ -379,27 +379,27 @@ Owner: Campbell
 - Debug Configurations Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/cYnuiF_lZCA
 - Debug View Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: KB, CS, Thumbs down: TL__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/5vEzZwmDM9M
 - First Level Testing Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
-  - Uploaded to YouTube: __No__
+  - Reviewed: 
+  - Uploaded to YouTube: Yes - http://youtu.be/7E2D4K3f2-I
 - Partial Launches Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/bhhoxWb99h4
 - Population Checking Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/EnjHf8PyKts
 - Session Explorer Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/YyklSyYGrnw
 - Spotlight Video
   - Creation: 100%
   - Reviewed: __Partial - Thumbs up: SKB__
