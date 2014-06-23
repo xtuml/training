@@ -1,9 +1,11 @@
 Packages group and organize the pieces of the model. They have no semantic 
 meaning other than control of visibility. 
 
+```
 DEMO - Draw a package couple of packages (Analysis with subpackages, Use 
 Cases, Sequences, Library - Hardware, Library - HAL, System - Test, 
 System - Implementation)
+```
 
 Packages may contain many different types of elements, including sub-
 packages.  These features allow you use packages for storage, access control, 
@@ -23,37 +25,47 @@ pass. The size of the data to document often becomes so large, that the task see
 insurmountable. Or, the original creator of the model elements has moved 
 on to other work. 
 
-Next, let's discuss package organization. There are no hard and fast rules 
+Next, let's discuss package organization. Packages are required in two places: 
+at the top level of a project and inside a component. A package will be the 
+first model element you draw when starting a fresh project. This is because 
+you must have a package to put other model elements in.  
+
+And just like at the project level, packages are required at the component 
+level.  You must organize the model elements inside components (the component 
+internal behavior) into packages.  So, once you have navigated inside a 
+component, create one or more packages first, then add the component internal model 
+elements to these packages.
+
+Aside from these requirements, there are no hard and fast rules 
 about where packages, either for Analysis or Executable modeling, should 
 go in the hierarchy. We simply recommend that related packages should 
 be grouped, following the rules of cohesion. That is, maximize close proximity 
 of related subject matter and minimize package interdependency.
 
 The final guideline we'll discuss now is: use separate packages for libraries 
-and system wirings. You should create packages that serve as libraries of 
-components. For example, create a package that is a library of components which 
-models hardware functionality. Create another package that is a library of components that 
-serve as the hardware abstraction layer. Create another package that is 
-a library of components that serve as a test bench for the components elsewhere 
-in the model. Create another package or packages that contain the application 
-itself. You can also create packages to contain the interfaces that the various components 
-expose. Then, create one or more packages that define scenarios for how the system 
-is wired together using component references.  For example, you may have a system
-package that connects an hardware component to a test driver component.  You could 
-then have a system implementation package that connects the same hardware component to
-a hardware driver component instead of the test component.  Using component references 
-in system wiring packages makes this possible.
+and system configurations.
+
+```
+DEMO - Let's look at an example. Here we have created a package that is a library 
+of components which model hardware functionality. We have another package that 
+is a library of components that serve as the hardware abstraction layer. Another 
+package that is a library of components that serve as a test bench for the 
+components elsewhere in the model. A package that contains the application 
+itself. We have also created a package to contain the interfaces that the various 
+components expose.  In each of our library packages, the component interfaces 
+are specified, but the interfaces are intentionally left disconnected.
+
+In this example, we created packages that define scenarios for how the system 
+is wired together using component references.  For example, we have a system
+package that connects an hardware component to a test driver component.  We also 
+have a system implementation package that connects the same hardware component to
+a hardware driver component instead of the test component.  Using library packages and 
+component references in system configuration packages makes this possible.
+```
 
 The tool allows you to wire together components but this is strongly discouraged. Stick 
 to creating component libraries using packages, and only wiring together component 
-references in separate system implementation packages.
-
-DEMO - Let's consider an example using the GPS Watch case study project included 
-in the xtUML Editor help. Here we see a "Library" package that contains the 
-components. The component interfaces are specified, but the interfaces are 
-intentionally left disconnected. The wiring diagram, a package named “System”, 
-is where the component references from the library have the interfaces connected 
-together.
+references in separate system configuraiton packages.
 
 By leaving the interfaces disconnected in the library, we are free to create 
 other components and system wirings that connect the component references from 
