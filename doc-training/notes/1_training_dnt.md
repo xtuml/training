@@ -138,8 +138,12 @@ Owner:    Travis
 Owner:    Keith
 6.5       Packages:  Creating, Nesting, Organizing  
 ```
-- Video
-  - Creation: __0%__
+- Intro to Packages Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/9ZTxkw3sYIE
+- Visibility Video
+  - Creation: __30%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
