@@ -143,8 +143,8 @@ Owner:    Keith
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/9ZTxkw3sYIE
 - Visibility Video
-  - Creation: __30%__
-  - Reviewed: __No__
+  - Creation: 100%
+  - Reviewed: __Partial - Thumbs up: Travis__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
