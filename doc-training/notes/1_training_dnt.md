@@ -146,8 +146,8 @@ Owner:    Keith
   - Creation: 100%
   - Reviewed: __Partial - Thumbs up: Travis__
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
+- Container page creation: __Created - just have to update the URL for teh visbility video when it goes to youTube__
+- Quiz creation: __Created, not yet reviewed__
 - Uploaded to LMS: __No__
 
 ----
