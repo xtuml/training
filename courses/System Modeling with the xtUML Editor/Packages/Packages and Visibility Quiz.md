@@ -1,6 +1,6 @@
 __Type:__  Radio Buttons
  
-__Question:__  What decoration notes that an element has public visibility?
+__Question:__  What decoration shows that an element has public visibility?
  
 __Choices:__
   - A: +
@@ -15,7 +15,7 @@ __Answer(s):__
 
 __Type:__  Radio Buttons
  
-__Question:__  What decoration notes that an element has protected visibility?
+__Question:__  What decoration shows that an element has protected visibility?
  
 __Choices:__
   - A: +
@@ -63,7 +63,7 @@ __Question:__  Packages may contain:
 __Choices:__
   - A: Components and Packages
   - B: Components and Analysis Modeling diagrams
-  - C: Types and Classes
+  - C: Data types and Classes
   - D: All of the above
   
 __Answer(s):__
@@ -106,10 +106,10 @@ __Type:__  Radio Buttons
 __Question:__  Which statement best describes a system configuration?
  
 __Choices:__
-  - A: A system configuration connects components with matching interfaces
-  - B: The model should contain one or more system configurations that define different scenarios where component references are connected together
-  - C: System configurations only define the way the component references are connected for production
-  - D: System configurations and Component Libraries are the same thing.  The terms are interchangeable.
+  - A: A system configuration connects components with matching interfaces.
+  - B: The model should contain one or more system configurations that define different scenarios where component references are connected together.
+  - C: System configurations only define the way the component references are connected for production.
+  - D: "System configurations" and "Component libraries" are the same thing.  The terms are interchangeable.
   
 __Answer(s):__
   - B
@@ -133,7 +133,7 @@ __Answer(s):__
 
 __Type:__  Radio Buttons
  
-__Question:__  What decoration notes that an element has private visibility?
+__Question:__  What decoration shows that an element has private visibility?
  
 __Choices:__
   - A: +
