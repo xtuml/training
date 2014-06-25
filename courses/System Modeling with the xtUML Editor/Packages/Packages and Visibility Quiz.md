@@ -73,21 +73,6 @@ __Answer(s):__
 
 __Type:__  Radio Buttons
  
-__Question:__  Packages are required in the model:
- 
-__Choices:__
-  - A: At the top level of the project
-  - B: Inside classes
-  - C: At the top level of the project and inside components
-  - D: Packages are not required anywhere
-  
-__Answer(s):__
-  - C
-  
-----
-
-__Type:__  Radio Buttons
- 
 __Question:__  How does a modeler create a component library?
  
 __Choices:__
