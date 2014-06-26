@@ -146,7 +146,7 @@ Owner:    Keith
   - Creation: 100%
   - Reviewed: __Partial - Thumbs up: Travis__
   - Uploaded to YouTube: __No__
-- Container page creation: __Created - just have to update the URL for teh visbility video when it goes to youTube__
+- Container page creation: __Created - just have to update the URL for the visbility video when it goes to youTube__
 - Quiz creation: __Created, not yet reviewed__
 - Uploaded to LMS: __No__
 
@@ -187,7 +187,7 @@ Owner: Heba
 
 ----
 ```
-Owner: 
+Owner:    Keith
 6.7       Class Diagram  
 6.7.1     Editing a Class  
 6.7.1.1   Instance-based Operations  
