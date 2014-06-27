@@ -125,8 +125,12 @@ Owner: Travis
 Owner:    Travis
 6.4       Import and Export  
 ```
-- Video
-  - Creation: __20%__
+- E&I single xtUML file Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/BpY_EwzWGbA
+- E&I project zipfile Video
+  - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
@@ -579,8 +583,8 @@ Owner: Nehad
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=Z9vhWaDovfg
 - Using Sample Projects Video
-  - Creation: __0%__
-  - Reviewed: __No__
+  - Creation: __100%__
+  - Reviewed: __Yes - Rejected (SKB)__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
