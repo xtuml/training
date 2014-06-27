@@ -104,15 +104,15 @@ Owner: Travis
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
-- 6.3.1.6 Video
+- Synchronizing References Video
   - Creation: __50%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- 6.3.2 Video
+- Library Projects Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- 6.3.3 Video
+- Integration Projects Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
@@ -414,8 +414,8 @@ Owner: Campbell
   - Uploaded to YouTube: __No__
 - Time and Logging Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB (with comments)__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No - Be sure to add keywords to video "run deterministically", "wall clock time", "simulated time"__
 - Variables and Breakpoints Video
   - Creation: 100%
   - Reviewed: __Partial - Thumbs up: SKB__
