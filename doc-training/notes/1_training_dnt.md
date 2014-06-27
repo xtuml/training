@@ -61,7 +61,7 @@ Owner: Done (Keith)
   - Uploaded to YouTube: Yes
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: Yes
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -80,7 +80,7 @@ Owner: Done (Keith)
   - Uploaded to YouTube: Yes
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: Yes
+- Uploaded to LMS: __No__
 
 ----
 ```
@@ -148,10 +148,10 @@ Owner:    Keith
   - Uploaded to YouTube: Yes - http://youtu.be/9ZTxkw3sYIE
 - Visibility Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: Travis__
-  - Uploaded to YouTube: __No__
-- Container page creation: __Created - just have to update the URL for the visbility video when it goes to youTube__
-- Quiz creation: __Created, not yet reviewed__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/Q7Bclax0D1c
+- Container page creation: 100%
+- Quiz creation: 100%
 - Uploaded to LMS: __No__
 
 ----
