@@ -208,7 +208,15 @@ Owner:    Keith
 6.7.5     Imported Classes (Class References, Off-Page Connections)  
 6.7.6     Steps to Creating Class Diagrams  
 ```
-- Video
+- Creating Class Diagram Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Class Associations Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Building a data model video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
@@ -422,7 +430,7 @@ Owner: Campbell
   - Uploaded to YouTube: __No__
 - Verifier Intro Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
