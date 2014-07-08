@@ -105,7 +105,7 @@ Owner: Travis
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
 - Synchronizing References Video
-  - Creation: __50%__
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Library Projects Video
@@ -210,11 +210,15 @@ Owner:    Keith
 ```
 - Creating Class Diagram Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Imported Classes Video
+  - Creation: 100%
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Class Associations Video
-  - Creation: __0%__
-  - Reviewed: __No__
+  - Creation: 100%
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Building a data model video
   - Creation: __0%__
