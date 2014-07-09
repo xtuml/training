@@ -105,7 +105,7 @@ Owner: Travis
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
 - Synchronizing References Video
-  - Creation: 100%
+  - Creation: 100% - https://drive.google.com/a/mentor.com/file/d/0B-aWt79q0qHXcXlibFM3NmgtZzg/edit?usp=sharing
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Library Projects Video
@@ -177,10 +177,6 @@ Owner: Heba
   - Creation: 100%
   - Reviewed: Yes with minor observation
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
-
 - Interfaces Video
   - Creation: 50%
   - Reviewed: __Yes - Rejected__
@@ -188,6 +184,7 @@ Owner: Heba
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
+
 
 ----
 ```
@@ -221,7 +218,7 @@ Owner:    Keith
   - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Building a data model video
-  - Creation: __0%__
+  - Creation: __20% - working on script__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
@@ -427,7 +424,7 @@ Owner: Campbell
 - Time and Logging Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No - Be sure to add keywords to video "run deterministically", "wall clock time", "simulated time"__
+  - Uploaded to YouTube: Yes
 - Variables and Breakpoints Video
   - Creation: 100%
   - Reviewed: __Partial - Thumbs up: SKB__
@@ -435,7 +432,7 @@ Owner: Campbell
 - Verifier Intro Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
