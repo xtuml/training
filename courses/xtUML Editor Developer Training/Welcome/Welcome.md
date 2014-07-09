@@ -1,5 +1,5 @@
 <h1>Welcome to xtUML Editor Developer Training</h1>
-The course you are starting will teach you how to become and xtUML Editor Developer. This course is designed and created as a collaborative effort by various members of the xtUML community. We welcome your suggestions.
+The course you are starting will teach you how to become an xtUML Editor Developer. This course is designed and created as a collaborative effort by various members of the xtUML community. We welcome your suggestions.
 
 Upon completion of this course you will know how to:
 <ul>
@@ -7,6 +7,9 @@ Upon completion of this course you will know how to:
 	<li>Add new features and fix bugs in xtUML Editor</li>
 	<li>Create software that works in conjunction with xtUML Editor</li>
 </ul>
+
+
+If you have suggestions about this course, please post them in the forum.
 
 <hr style="color: #cccccc;" />
 
