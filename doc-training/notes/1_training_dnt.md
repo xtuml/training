@@ -54,11 +54,11 @@ Owner: Done (Keith)
 - Windows Install Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=V566YTr-YNA
 - Linux Install Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=s9Ch_UecVdY
 - Container page creation: 100%
 - Quiz creation: 100%
 - Uploaded to LMS: __No__
@@ -73,11 +73,11 @@ Owner: Done (Keith)
 - Workspaces Structure Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=qUJEP510BIM
 - Getting to know Eclipse Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=hgID6ZLjXsU
 - Container page creation: 100%
 - Quiz creation: 100%
 - Uploaded to LMS: __No__
@@ -424,7 +424,7 @@ Owner: Campbell
 - Time and Logging Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=borT_JMMXqY
 - Variables and Breakpoints Video
   - Creation: 100%
   - Reviewed: __Partial - Thumbs up: SKB__
@@ -432,7 +432,7 @@ Owner: Campbell
 - Verifier Intro Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=ZOVxb9P4mz4
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
