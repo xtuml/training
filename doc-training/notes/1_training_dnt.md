@@ -173,6 +173,8 @@ Owner: Heba
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
 ```
+Stored here?: https://drive.google.com/folderview?id=0B1fINkS0hm58Sk9ocFpGUUpqd00&usp=drive_web
+
 - Components Video
   - Creation: 100%
   - Reviewed: Yes with minor observation
@@ -208,15 +210,15 @@ Owner:    Keith
 - Creating Class Diagram Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/IBBwpOx6rm8
 - Imported Classes Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/qXL9OY8rT0I
 - Class Associations Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/uzcniHqatcM
 - Building a data model video
   - Creation: __20% - working on script__
   - Reviewed: __No__
@@ -463,19 +465,11 @@ Owner:
 ```
 Owner: Bob
 6.18      Command Line Interface (CLI)  
-6.18.1    CLI Overview and Configuration
+6.18.1    Command Line Interface Overview  
 6.18.2    CLI for eXecute (Verifier)  
 6.18.3    CLI for Translate (Model Compiler)  
 ```
-- CLI Overview
-  - Creation: __20%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- CLI for execute
-  - Creation: __20%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- CLI for translate
+- CLI Video
   - Creation: __20%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
