@@ -1,4 +1,4 @@
-HOWTO Create a Training Course
+HOWTO Create a Training Course and Course Content
 ============
 
 1. Abstract
