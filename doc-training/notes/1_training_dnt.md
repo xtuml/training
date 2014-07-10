@@ -463,11 +463,19 @@ Owner:
 ```
 Owner: Bob
 6.18      Command Line Interface (CLI)  
-6.18.1    Command Line Interface Overview  
+6.18.1    CLI Overview and Configuration
 6.18.2    CLI for eXecute (Verifier)  
 6.18.3    CLI for Translate (Model Compiler)  
 ```
-- CLI Video
+- CLI Overview
+  - Creation: __20%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- CLI for execute
+  - Creation: __20%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- CLI for translate
   - Creation: __20%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
