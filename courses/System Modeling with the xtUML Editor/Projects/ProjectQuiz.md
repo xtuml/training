@@ -41,7 +41,7 @@ __Answer(s):__
   
 __Type:__ True / False
  
-__Question:__ To reference an external entity from another project you only need to call it from OAL?
+__Question:__ To reference an external entity bridge operation from another project you only need to call it from OAL?
 
 __Choices:__
   - A: True
@@ -54,7 +54,7 @@ __Answer(s):__
 
 __Type:__ True / False
 
-__Question:__ Access to external entities requires a fully qualified path?
+__Question:__ Access to inter-project external entity bridge operations requires a fully qualified path including the project name and parent package(s)?
 
 __Choices:__
   - A:  True
@@ -72,7 +72,7 @@ __Question:__ The synchronization confirmation dialog shows what type of changes
 __Choices:__
   - A: Reference additions
   - B: Reference deletions
-  - C: No of the above
+  - C: None of the above
   
 __Answer(s):__
   - A
