@@ -28,7 +28,7 @@ __Answer(s):__
 
 __Type:__ True / False
 
-__Question:__ Only instances of classes with Identifiers can uniquely distinguished in the Session Explorer.
+__Question:__ Only instances of classes with Identifiers can be uniquely distinguished in the Session Explorer.
 
 __Choices:__
   - A:  True
@@ -47,10 +47,10 @@ __Choices:__
   - A: Attribute Values
   - B: Current State
   - C: Current association sets
-  - D: Components
+  - D: Component Names
   - E: Class KeyLetters
   - F: Pending Events
-  - G: Packages
+  - G: Package Names
 
 __Answer(s):__
   - E
@@ -59,87 +59,29 @@ __Answer(s):__
   
 __Type:__ Radio Buttons
  
-__Question:__ You configure the models you want to execute in which editor?
+__Question:__ Which of the following breakpoints will halt the simulation when an event of the given type is generated?
 
 __Choices:__
-  - A: OAL Editor
-  - B: Debug Configuration Editor
-  - C: Description Editor
-  - D: State Event MAtrix Editor
-  
-__Answer(s):__
-  - B
-  
-----
-  
-__Type:__ Radio Buttons
- 
-__Question:__ New Verifier sessions have which launch type?
-
-__Choices:__
-  - A: C/C++ Application
-  - B: Java Application
-  - C: JUnit Test
-  - D: xtUML eXecute Application
-  - E: GDB Hardware Debugging
-  
-__Answer(s):__
-  - D
-  
-----
-
-__Type:__ True / False
-
-__Question:__ When halted in an activity, stack frame information is available in the Debug View.
-
-__Choices:__
-  - A:  True
-  - B:  False
+  - A: Event Enqueue
+  - B: Event Dequeue
+  - C: Event Ignored
+  - D: Event Can't Happen
   
 __Answer(s):__
   - A
   
 ----
-
+  
 __Type:__ Radio Buttons
  
-__Question:__ Putting a class or instance in the Spotlight highlights symbols on which diagram?
+__Question:__ If you see two states highlighted on the same state machine diagram, it means ...
 
 __Choices:__
-  - A: Package
-  - B: System
-  - C: State machine
-  - D: State Event Matrix
-  - E: Class
-  
+  - A: there is an error condition
+  - B: two events are pending
+  - C: more than one instance of the same class has been spotlighted and they are in different states
+
 __Answer(s):__
-  - C
-  
-----
-
-__Type:__ True / False
-
-__Question:__ When halted, selected instances are visible in the Console View.
-
-__Choices:__
-  - A:  True
-  - B:  False
-  
-__Answer(s):__
-  - B
-  
-----
-
-__Type:__ Radio Buttons
- 
-__Question:__ Selecting what in the Debug View enables useful debugging information to be seen in the Variables View ?
-
-__Choices:__
-  - A: Target
-  - B: Process
-  - C: Stack Frame
-  
-__Answer(s):__
-  - C
+  - A
   
 ----
