@@ -1,4 +1,4 @@
-Learn to control how to view the instances created by your model as it runs. In this video, you will see how to:
+Learn how to view the instances created by your model as it runs. In this video, you will see how to:
 
 *   explore your model instance population.
 *   find the value of any attribute of any instance in the running system.
