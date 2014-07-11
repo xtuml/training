@@ -42,16 +42,17 @@ __Answer(s):__
 
 __Type:__ Radio Buttons
 
-__Question:__ Which window is *not* part of the Verifier perspective?
+__Question:__ Which window is *not* typically used while executing models?
 
 __Choices:__ 
   - A: Debug View
   - B: Session Explorer
   - C: Spotlight View
-  - D: Outline
+  - D: Outline View
   - E: Breakpoints View
   - F: Variables View
   - G: Console View
+  - H: OAL Editor
   
 __Answer(s):__
   - D
