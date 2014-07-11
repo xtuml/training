@@ -16,14 +16,13 @@ __Type:__ Radio Buttons
 __Question:__ Which elements can be referred to from external projects?
 
 __Choices:__ 
-  - A: Component
-  - B: Model Class
-  - C: Function
-  - D: External Entity
-  - E: Data Type
+  - A. Component, Function, Data Type
+  - B. Model Class, External Entity
+  - C. Component, External Entity, Data Type
+  - D. Model Class, Data Type, External Enity
   
 __Answer(s):__
-  - A, D, E
+  - C
 
 ----
   
