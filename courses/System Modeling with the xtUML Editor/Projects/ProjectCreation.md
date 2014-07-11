@@ -3,7 +3,7 @@ Creating an xtUML project.
 *   This video will introduce you to xtUML project creation.
 
 
-<iframe src="http://www.youtube.com/embed/ZOVxb9P4mz4?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/P22NPWb7OFg?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
