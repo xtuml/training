@@ -5,7 +5,7 @@ Synchronizing referred to data.
     data.
 
 
-<iframe src="http://youtu.be/f2AsGV1mu8k" width="640" height="360" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/f2AsGV1mu8k?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
