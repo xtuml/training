@@ -1,6 +1,6 @@
 __Type:__ Radio Buttons
 
-__Question:__ Which of the following model elements can be triggered from the Session Explorer?
+__Question:__ Which of the following model element activities can be triggered from the Session Explorer?
 
 __Choices:__
   - A: Class Operations
