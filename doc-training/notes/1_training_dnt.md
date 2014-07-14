@@ -173,13 +173,21 @@ Owner: Heba
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
 ```
-Stored here?: https://drive.google.com/folderview?id=0B1fINkS0hm58Sk9ocFpGUUpqd00&usp=drive_web
+Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58Sk9ocFpGUUpqd00&usp=drive_web
 
 - Components Video
   - Creation: 100%
   - Reviewed: Yes with minor observation
   - Uploaded to YouTube: __No__
 - Interfaces Video
+  - Creation: 50%
+  - Reviewed: __Yes - Rejected__
+  - Uploaded to YouTube: __No__
+- Interface Operations and Signals Video
+  - Creation: 50%
+  - Reviewed: __Yes - Rejected__
+  - Uploaded to YouTube: __No__
+- Interface Ports Video
   - Creation: 50%
   - Reviewed: __Yes - Rejected__
   - Uploaded to YouTube: __No__
