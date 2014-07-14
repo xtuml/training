@@ -106,8 +106,8 @@ Owner: Travis
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
 - Synchronizing References Video
   - Creation: 100% - https://drive.google.com/a/mentor.com/file/d/0B-aWt79q0qHXcXlibFM3NmgtZzg/edit?usp=sharing
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=f2AsGV1mu8k
 - Library Projects Video
   - Creation: __0%__
   - Reviewed: __No__
@@ -220,8 +220,8 @@ Owner:    Keith
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/uzcniHqatcM
 - Building a data model video
-  - Creation: __20% - working on script__
-  - Reviewed: __No__
+  - Creation: 100%
+  - Reviewed: __Partial - Thumbs up: TRL, Undecided: CDS__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
