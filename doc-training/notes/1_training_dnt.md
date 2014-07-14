@@ -437,8 +437,8 @@ Owner: Campbell
   - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=borT_JMMXqY
 - Variables and Breakpoints Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - 
 - Verifier Intro Video
   - Creation: 100%
   - Reviewed: Yes
