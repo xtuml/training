@@ -2,7 +2,7 @@ See how to add a collection of instances and classes to the Spotlight. In this v
 
 *   cause the current state of an instance or class to be highlighted.
 
-<iframe src="http://www.youtube.com/embed/bRoKeN?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/IPRPmbzjHvs?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
