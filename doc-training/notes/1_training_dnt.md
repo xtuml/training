@@ -429,8 +429,8 @@ Owner: Campbell
   - Uploaded to YouTube: Yes - http://youtu.be/YyklSyYGrnw
 - Spotlight Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/IPRPmbzjHvs
 - Time and Logging Video
   - Creation: 100%
   - Reviewed: Yes
