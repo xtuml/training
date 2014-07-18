@@ -438,14 +438,14 @@ Owner: Campbell
 - Variables and Breakpoints Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes - 
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=3xRqoeeaU-k
 - Verifier Intro Video
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=ZOVxb9P4mz4
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
