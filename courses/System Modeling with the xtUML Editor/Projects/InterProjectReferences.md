@@ -1,9 +1,9 @@
-Creating an xtUML project.
+Inter-Project References (IPRs)
 
-*   This video will introduce you to xtUML project creation.
+*   This video will teach you how to use xtUML Inter-Project References
 
 
-<iframe src="//www.youtube.com/embed/P22NPWb7OFg?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/_hMUywFsnCs?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
