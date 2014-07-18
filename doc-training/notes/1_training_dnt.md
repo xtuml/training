@@ -61,7 +61,7 @@ Owner: Done (Keith)
   - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=s9Ch_UecVdY
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -80,7 +80,7 @@ Owner: Done (Keith)
   - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=hgID6ZLjXsU
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -116,9 +116,9 @@ Owner: Travis
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Container page creation: __75% - Done for all videos that are done__
+- Quiz creation: __100%__
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -133,9 +133,9 @@ Owner:    Travis
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
+- Container page creation: __50% - done for completed video__
 - Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes - as part of the Projects module above
 
 ----
 ```
@@ -152,7 +152,7 @@ Owner:    Keith
   - Uploaded to YouTube: Yes - http://youtu.be/Q7Bclax0D1c
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes
 
 ----
 ```
