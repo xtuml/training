@@ -1,15 +1,15 @@
-The welcome page is the start up page for every new workspace  
-This lesson demonstrates the content of the welcome page: 
+The welcome page is the start up page for every new workspace. This lesson demonstrates the content of the welcome page: 
 
-* Tutorial Videos on Mentor.com  
-* Quick Start  
-* xtUML Editor Licensing   
-* BridgePoint UML Licensing   
-* Release Notes  
-* What's new  
+<ul>
+<li> Tutorial Videos on Mentor.com  
+<li> Quick Start  
+<li> xtUML Editor Licensing   
+<li> BridgePoint UML Licensing   
+<li> Release Notes  
+<li> What's new  
+</ul>
 
-
-<iframe src="http://www.youtube.com/embed/Z9vhWaDovfg?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/Z9vhWaDovfg?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

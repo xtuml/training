@@ -1,18 +1,18 @@
-xtUML editor and BrdigePoint verifier/model compiler come with rich help content  
-This lesson covers main and common sections you will visit while using the tool.
+xtUML Editor and BrdigePoint verifier/model compiler come with rich help content.  This lesson covers main and common sections you will visit while using the tool.
 
-* Getting Started  
-* Model Verifier Java Interface  
-* Command Line Interface  
-* OAL Reference  
-* Translation Reference  
-* BridgePoint and Configuration Management  
-* RSL Reference  
-* Translation mapping  
-* Marking  
+<ul>
+<li> Getting Started  
+<li> Model Verifier Java Interface  
+<li> Command Line Interface  
+<li> OAL Reference  
+<li> Translation Reference  
+<li> BridgePoint and Configuration Management  
+<li> RSL Reference  
+<li> Translation mapping  
+<li> Marking  
+</ul>
 
-
-<iframe src="http://www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

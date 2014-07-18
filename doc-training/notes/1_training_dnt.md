@@ -567,8 +567,8 @@ Owner:
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=6ixfu4FUXOk
-- Container page creation: __0%__
-- Quiz creation: __0%__
+- Container page creation: 100%
+- Quiz creation: 100%
 - Uploaded to LMS: __No__
 
 ----
@@ -576,9 +576,9 @@ Owner:
 Owner: Keith
 6.22      Building the xtUML Editor from Source  
 ```
-NOTE: IMO, this segment does not belong in the System Modeler course.  We have the content for
-the xtUML Editor Developer course that I delivered in Budapest that I believe should be its own
-stand-alone course. See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md
+NOTE: We have the content for the xtUML Editor Developer course that Keith 
+delivered in Budapest that is the basis for it's own stand-alone course. 
+See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md
 
 ----
 ```
@@ -602,11 +602,11 @@ Owner: Nehad
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=Z9vhWaDovfg
 - Using Sample Projects Video
-  - Creation: __100%__
-  - Reviewed: __Yes - Rejected (SKB)__
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/40xYgq8rVAg
+- Container page creation: 100%
+- Quiz creation: 100%
 - Uploaded to LMS: __No__
 
 

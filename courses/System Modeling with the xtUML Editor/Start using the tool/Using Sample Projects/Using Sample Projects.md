@@ -1,14 +1,15 @@
 xtUML editor comes with two sample models, GPS Watch and Microwave Oven.  
 In this lesson you will learn:
 
-* How to import sample models into your workbench  
-* View help contents for the sample models  
-* Explore the sample model  
-* Launch the sample model in BrdigePoint verifier   
-* Translate the sample model and code generation  
+<ul>
+<li> How to import sample models into your workbench  
+<li> View help contents for the sample models  
+<li> Explore the sample model  
+<li> Launch the sample model in BrdigePoint verifier   
+<li> Translate the sample model and code generation  
+</ul>
 
-
-
+<iframe src="//www.youtube.com/embed/40xYgq8rVAg?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <table>
 <tbody>
