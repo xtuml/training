@@ -7,7 +7,7 @@ __Choices:__
   - 1
   - 42
   
-__Answer(s):__
+__Answer:__
   - 42
   
 
@@ -21,7 +21,7 @@ __Choices:__
   - T
   - F
   
-__Answer(s):__
+__Answer:__
   - T
   
 
@@ -34,7 +34,7 @@ __Question:__ What is the first word in "BridgePoint xtUML"?  (Enter a one word 
 __Choices:__
   - text input box
   
-__Answer(s):__
+__Answer:__
   - Cannot be automatically graded
   
 ----
