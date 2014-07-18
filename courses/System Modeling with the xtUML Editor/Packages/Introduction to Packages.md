@@ -3,7 +3,7 @@ organization, access control, and constructing libraries of reusable components.
 
 This lesson introduces packages and shows how they are used in xtUML modeling.
 
-<iframe src="http://www.youtube.com/embed/9ZTxkw3sYIE?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/9ZTxkw3sYIE?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
