@@ -1,16 +1,14 @@
-__Type:__ Check Boxes
+__Type:__ Radio Buttons
 
-__Question:__ Check each Operating Systems a pre-packaged installer is available for:
+__Question:__ A pre-packaged xtUML Editor installer is available for:
 
 __Choices:__
-  - A: Microsoft Windows
-  - B: Mac OS
-  - C: Linux
-  - D: Android
-  - E: iOS
+  - A: Microsoft Windows Only
+  - B: Linux Only
+  - C: Windows and Linux
+  - D: Windows, Linux, Android and iOS
   
-__Answer(s):__
-  - A
+__Answer:__
   - C
   
 ----
@@ -55,16 +53,19 @@ __Answer(s):__
   - B
 
 ----
-  
-__Type:__ Text Input
- 
-__Question:__ xtUML Editor is built on what popular open source IDE?  (Enter a one word answer)
+
+__Type:__  Radio Buttons
+
+__Question:__ xtUML Editor is build on what popular IDE?
 
 __Choices:__
-  - text input box
+  - A:  Visual Studio
+  - B:  eclipse
+  - C:  NetBeans
+  - D:  IntelliJ
   
 __Answer(s):__
-  - [Matches (ignore case)] eclipse
+  - B
   
 ----
-  
+
