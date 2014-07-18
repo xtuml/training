@@ -1,9 +1,9 @@
-Get aquainted with executing xtUML models.
+Get acquainted with executing xtUML models.
 
 *   This video introduces you to Verifier, the xtUML Execution tool.
 
 
-<iframe src="http://www.youtube.com/embed/ZOVxb9P4mz4?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/ZOVxb9P4mz4?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

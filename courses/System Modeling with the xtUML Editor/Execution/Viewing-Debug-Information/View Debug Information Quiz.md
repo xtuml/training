@@ -44,13 +44,13 @@ __Type:__ Radio Buttons
 __Question:__ Which information is **not** shown in the Session Explorer?
 
 __Choices:__ 
-  - A: Attribute Values
-  - B: Current State
+  - A: Attribute values
+  - B: Current state
   - C: Current association sets
-  - D: Component Names
-  - E: Class KeyLetters
-  - F: Pending Events
-  - G: Package Names
+  - D: Component names
+  - E: Class key letters
+  - F: Pending events
+  - G: Package names
 
 __Answer(s):__
   - E
@@ -77,9 +77,9 @@ __Type:__ Radio Buttons
 __Question:__ If you see two states highlighted on the same state machine diagram, it means ...
 
 __Choices:__
-  - A: there is an error condition
-  - B: two events are pending
-  - C: more than one instance of the same class has been spotlighted and they are in different states
+  - A: There is an error condition
+  - B: Two events are pending
+  - C: More than one instance of the same class has been spotlighted and they are in different states
 
 __Answer(s):__
   - A

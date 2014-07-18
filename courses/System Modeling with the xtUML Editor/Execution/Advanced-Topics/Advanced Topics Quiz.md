@@ -18,7 +18,7 @@ __Question:__ If a call is made to an unwired signal Verifier will ...?
 __Choices:__
   - A: Raise an error.
   - B: Execute OAL in the outgoing port or continue if none is found.
-  - B: Look for OAL to execute in the outgoing port and raise an error if none is found.
+  - C: Look for OAL to execute in the outgoing port and raise an error if none is found.
 
 __Answer(s):__
   - B

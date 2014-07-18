@@ -4,7 +4,7 @@ Learn to configure xtUML models for execution.
 *   Choosing the components to launch.
 *   Setting an initializer message.
 
-<iframe src="http://www.youtube.com/embed/cYnuiF_lZCA?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/cYnuiF_lZCA?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -1,10 +1,10 @@
 Learn to control how Verifier executes. In this video, you will understand:
 
-*   how to log extra information about what is happening during execution.
-*   what running deterministically means
-*   the difference between Wall clock and simulated time.
+*   How to log extra information about what is happening during execution.
+*   What running deterministically means
+*   The difference between Wall clock and simulated time.
 
-<iframe src="http://www.youtube.com/embed/borT_JMMXqY?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/borT_JMMXqY?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

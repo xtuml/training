@@ -1,12 +1,14 @@
 Learn how to view the instances created by your model as it runs. In this video, you will see how to:
 
-*   explore your model instance population.
-*   find the value of any attribute of any instance in the running system.
-*   execute a function or message.
-*   discover which instances are associated with which other instances.
-*   see what events are pending for each instance.
+<ul>
+<li>   Explore your model instance population.
+<li>   Find the value of any attribute of any instance in the running system.
+<li>   Execute a function or message.
+<li>   Discover which instances are associated with which other instances.
+<li>   See what events are pending for each instance.
+</ul>
 
-<iframe src="http://www.youtube.com/embed/YyklSyYGrnw?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/YyklSyYGrnw?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -1,12 +1,14 @@
 Learn about First level test. What it is, and when to use it.
 
-*   Support a early, informal test strategy.
-*   'Sunny day' test scenarios.
-*   First level test versus formal test.
-*   Structuring the tests.
-*   Sandbox Functions.
+<ul>
+<li>   Support a early, informal test strategy.
+<li>   'Sunny day' test scenarios.
+<li>   First level test versus formal test.
+<li>   Structuring the tests.
+<li>   Sandbox Functions.
+</ul>
 
-<iframe src="http://www.youtube.com/embed/7E2D4K3f2-I?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/7E2D4K3f2-I?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

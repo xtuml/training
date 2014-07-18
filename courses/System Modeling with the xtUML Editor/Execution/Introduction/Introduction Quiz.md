@@ -67,7 +67,7 @@ __Choices:__
   - A: OAL Editor
   - B: Debug Configuration Editor
   - C: Description Editor
-  - D: State Event MAtrix Editor
+  - D: State Event Matrix Editor
   
 __Answer(s):__
   - B
@@ -110,7 +110,7 @@ __Question:__ Putting a class or instance in the Spotlight highlights symbols on
 __Choices:__
   - A: Package
   - B: System
-  - C: State machine
+  - C: State Machine
   - D: State Event Matrix
   - E: Class
   

@@ -1,11 +1,13 @@
 Learn how to view the temporary variables created by your model as it runs. See how to set breakpoints to diagnose unexpected behavior patterns in your model. In this video, you will discover how to:
 
-*   see the event data and temporary values of variables used in an executing activity.
-*   find the value of any attribute of an instance selected bay OAL in the currently executing activity.
-*   set many different kinds of breakpoint.
-*   how to refine the conditions under which a breakpoint will be triggered.
+<ul>
+<li> See the event data and temporary values of variables used in an executing activity.
+<li> Find the value of any attribute of an instance selected bay OAL in the currently executing activity.
+<li> Set many different kinds of breakpoint.
+<li> How to refine the conditions under which a breakpoint will be triggered.
+</ul>
 
-<iframe src="http://www.youtube.com/embed/3xRqoeeaU-k?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/3xRqoeeaU-k?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

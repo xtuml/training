@@ -1,9 +1,11 @@
 Find out what happens when you launch a set of components that are only partially wired up.
 
-*   Learn how to set up self testing components.
-*   Understand when outgoing port OAL gets executed.
+<ul>
+<li>   Learn how to set up self testing components.
+<li>   Understand when outgoing port OAL gets executed.
+</ul>
 
-<iframe src="http://www.youtube.com/embed/bhhoxWb99h4?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/bhhoxWb99h4?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

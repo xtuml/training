@@ -1,11 +1,11 @@
-Unerstand the use of the Debug View. In this video, you will learn:
+Understand the use of the Debug View. In this video, you will learn:
 
-*   what information is available in the Debug View.
-*   how to see local data values in an executing activity.
-*   how to suspend and resume execution.
-*   how to step through and into activity action language.
+*   What information is available in the Debug View.
+*   How to see local data values in an executing activity.
+*   How to suspend and resume execution.
+*   How to step through and into activity action language.
 
-<iframe src="http://www.youtube.com/embed/5vEzZwmDM9M?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/5vEzZwmDM9M?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
