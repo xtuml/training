@@ -607,7 +607,7 @@ Owner: Nehad
   - Uploaded to YouTube: Yes - http://youtu.be/40xYgq8rVAg
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes
 
 
 7. Design Comments
