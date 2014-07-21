@@ -1,5 +1,4 @@
-There are different use cases when you want to view two editor as the same time.  
-In this lesson you will learn how to do it.
+There are different use cases when you want to view two editors as the same time. In this lesson you will learn how to do this.
 
 <iframe src="http://www.youtube.com/embed/6ixfu4FUXOk?rel=0" width="640" height="360" frameborder="0"></iframe>
 

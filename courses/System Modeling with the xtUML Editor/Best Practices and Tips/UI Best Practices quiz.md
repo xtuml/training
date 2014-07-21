@@ -1,10 +1,10 @@
 __Type:__ Radio Buttons
 
-__Question:__ To work on two perspectives at the same time, you need first to open 
+__Question:__ To work on two perspectives at the same time, you select   
 
 __Choices:__
-  - A: New Window
-  - B: New Editor
+  - A: Window > New Window
+  - B: Window > New Editor
 
 __Answer(s):__
   - A
@@ -26,11 +26,11 @@ __Answer(s):__
 
 __Type:__ Radio Buttons
 
-__Question:__ Two view state machine diagram next to State Event Matrix, you need first to open
+__Question:__ To view State Machine diagram next to State Event Matrix, you need first to select
 
 __Choices:__
-  - A: New Window
-  - B: New Editor
+  - A: Window > New Window
+  - B: Window > New Editor
 
 __Answer(s):__
   - B

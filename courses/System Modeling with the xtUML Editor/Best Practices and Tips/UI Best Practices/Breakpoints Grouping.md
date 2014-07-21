@@ -1,6 +1,6 @@
-Handling long list of breakpoints is not an easy task. Breakpoints view
-gives you the ability to group breakpoints into different categories.  
-This lesson shows how to do it.  
+Handling long list of breakpoints is not an easy task. The Breakpoints view gives you the ability to group breakpoints into different categories.  
+
+This lesson shows how to do this.  
 
 <iframe src="http://www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe>
 
