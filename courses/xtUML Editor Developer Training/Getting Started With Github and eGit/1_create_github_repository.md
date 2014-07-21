@@ -1,4 +1,4 @@
-It is very easy to create a new public repository on Github.  A public repository
+It is very easy to create a new public repository on GitHub.  A public repository
 can be used for many things, including testing.
 
 This lesson teaches you how to create a repository named sandbox that can be 

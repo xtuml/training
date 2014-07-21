@@ -1,4 +1,4 @@
-This video demonstrates fetching the default remote git repository updated 
+This video demonstrates fetching the default remote Git repository updated 
 commits for all of its branches.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>

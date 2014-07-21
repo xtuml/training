@@ -1,4 +1,4 @@
-Egit allows you to synchronize with any other branch and see the changes. 
+EGit allows you to synchronize with any other branch and see the changes. 
 This makes it easy to grab source changes before merging with another branch. 
 This video shows a simple project synchronization.
 

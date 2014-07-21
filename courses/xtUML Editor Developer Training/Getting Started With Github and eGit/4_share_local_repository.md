@@ -1,5 +1,5 @@
 This lesson teaches you how to share a local repository to an upstream 
-repository on github.
+repository on GitHub.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 

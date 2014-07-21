@@ -1,4 +1,4 @@
-This lesson teaches you how to create local git repository using egit.
+This lesson teaches you how to create local Git repository using EGit.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 
