@@ -11,20 +11,19 @@ __Answer(s):__
   - B
   
 ----
-TODO - This question seems invalid or ambiguous.  The UI part of the simulation is created with Java
 
 __Type:__  Radio Buttons
  
-__Question:__  GPS Watch UI simulation is design using  
+__Question:__  Marking the initialization function in the generated exe file can be found in 
  
 __Choices:__
-  - A: UML  
-  - B: Java  
-  - C: C++  
-  - D: C  
+  - A: class.mark file
+  - B: datatype.mark file
+  - C: domain.mark file
+  - D: system.mark file
   
 __Answer(s):__
-  - A
+  - C
   
 ----
 

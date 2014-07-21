@@ -37,20 +37,17 @@ __Answer(s):__
   - B
   
 ----
-TODO - This question type is invalid, you must phrase the question with a single right selection, not multiple...
 
-__Type:__  Check Boxes
+__Type:__  Radio Buttons
  
 __Question:__  Upon a completion of the simple cheat sheet, you can... 
  
 __Choices:__
   - A: Re-perform the cheat sheet
-  - B: Review the cheat sheet
-  - C: Proceed to the next cheat sheet (if available)
-  - D: Delete the cheat sheet
+  - B: Review the cheat sheet or proceed to the next one
+  - C: Delete the cheat sheet
   
 __Answer(s):__
   - B
-  - C
     
 ----    
