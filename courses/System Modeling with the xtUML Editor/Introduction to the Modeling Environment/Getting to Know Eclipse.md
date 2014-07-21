@@ -1,18 +1,16 @@
-xtUML Editor and BrdigePoint verifier/model compiler come with rich help content.  This lesson covers main and common sections you will visit while using the tool.
+xtUML Editor is built on eclipse.  In order to navigate around the development environment, you need to understand
+some key eclipse terms.  In this lesson we will learn about:
 
 <ul>
-<li> Getting Started  
-<li> Model Verifier Java Interface  
-<li> Command Line Interface  
-<li> OAL Reference  
-<li> Translation Reference  
-<li> BridgePoint and Configuration Management  
-<li> RSL Reference  
-<li> Translation mapping  
-<li> Marking  
+<li> Workspaces
+<li> Projects
+<li> Resources
+<li> Views
+<li> Editors
+<li> Perspectives
 </ul>
 
-<iframe src="//www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/hgID6ZLjXsU?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

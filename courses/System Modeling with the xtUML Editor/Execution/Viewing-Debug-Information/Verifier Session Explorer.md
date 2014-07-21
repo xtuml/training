@@ -1,18 +1,14 @@
-xtUML Editor and BrdigePoint verifier/model compiler come with rich help content.  This lesson covers main and common sections you will visit while using the tool.
+Learn how to view the instances created by your model as it runs. In this video, you will see how to:
 
 <ul>
-<li> Getting Started  
-<li> Model Verifier Java Interface  
-<li> Command Line Interface  
-<li> OAL Reference  
-<li> Translation Reference  
-<li> BridgePoint and Configuration Management  
-<li> RSL Reference  
-<li> Translation mapping  
-<li> Marking  
+<li>   Explore your model instance population.
+<li>   Find the value of any attribute of any instance in the running system.
+<li>   Execute a function or message.
+<li>   Discover which instances are associated with which other instances.
+<li>   See what events are pending for each instance.
 </ul>
 
-<iframe src="//www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/YyklSyYGrnw?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

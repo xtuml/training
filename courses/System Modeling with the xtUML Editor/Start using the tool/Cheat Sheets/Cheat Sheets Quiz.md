@@ -1,6 +1,6 @@
 __Type:__  Radio Buttons
  
-__Question:__  Composite cheatsheets are only composed of single cheatsheets.
+__Question:__  Composite cheat sheets are only composed of single cheat sheets.
  
 __Choices:__
   - A: True
@@ -13,12 +13,12 @@ __Answer(s):__
 
 __Type:__  Radio Buttons
  
-__Question:__  In order to complete an action in a cheatsheet
+__Question:__  In order to complete an action in a cheat sheet...
  
 __Choices:__
   - A: You have to do it manually
   - B: You can ask Eclipse to perform the action for you
-  - C: all above
+  - C: All of the above
   
 __Answer(s):__
   - C
@@ -27,7 +27,7 @@ __Answer(s):__
 
 __Type:__  Radio Buttons
  
-__Question:__  xtUML editor comes only with its own cheatsheets
+__Question:__  xtUML Editor comes only with its own cheat sheets
  
 __Choices:__
   - A: True
@@ -38,18 +38,16 @@ __Answer(s):__
   
 ----
 
-__Type:__  Check Boxes
+__Type:__  Radio Buttons
  
-__Question:__  Upon a completion of the simple cheatsheet, you can 
+__Question:__  Upon a completion of the simple cheat sheet, you can... 
  
 __Choices:__
-  - A: re-perform the cheatsheet
-  - B: review the cheatsheet
-  - C: proceed to the next cheathsset (if available)
-  - D: delete the cheatsheet
+  - A: Re-perform the cheat sheet
+  - B: Review the cheat sheet or proceed to the next one
+  - C: Delete the cheat sheet
   
 __Answer(s):__
   - B
-  - C
     
 ----    

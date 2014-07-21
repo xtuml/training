@@ -1,18 +1,14 @@
-xtUML Editor and BrdigePoint verifier/model compiler come with rich help content.  This lesson covers main and common sections you will visit while using the tool.
+Learn about First level test. What it is, and when to use it.
 
 <ul>
-<li> Getting Started  
-<li> Model Verifier Java Interface  
-<li> Command Line Interface  
-<li> OAL Reference  
-<li> Translation Reference  
-<li> BridgePoint and Configuration Management  
-<li> RSL Reference  
-<li> Translation mapping  
-<li> Marking  
+<li>   Support a early, informal test strategy.
+<li>   'Sunny day' test scenarios.
+<li>   First level test versus formal test.
+<li>   Structuring the tests.
+<li>   Sandbox Functions.
 </ul>
 
-<iframe src="//www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/7E2D4K3f2-I?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

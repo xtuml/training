@@ -54,11 +54,11 @@ Owner: Done (Keith)
 - Windows Install Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=V566YTr-YNA
 - Linux Install Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=s9Ch_UecVdY
 - Container page creation: 100%
 - Quiz creation: 100%
 - Uploaded to LMS: Yes
@@ -73,11 +73,11 @@ Owner: Done (Keith)
 - Workspaces Structure Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=qUJEP510BIM
 - Getting to know Eclipse Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=hgID6ZLjXsU
 - Container page creation: 100%
 - Quiz creation: 100%
 - Uploaded to LMS: Yes
@@ -104,34 +104,38 @@ Owner: Travis
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
-- 6.3.1.6 Video
-  - Creation: __50%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- 6.3.2 Video
+- Synchronizing References Video
+  - Creation: 100% - https://drive.google.com/a/mentor.com/file/d/0B-aWt79q0qHXcXlibFM3NmgtZzg/edit?usp=sharing
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=f2AsGV1mu8k
+- Library Projects Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- 6.3.3 Video
+- Integration Projects Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Container page creation: __75% - Done for all videos that are done__
+- Quiz creation: __100%__
+- Uploaded to LMS: Yes
 
 ----
 ```
 Owner:    Travis
 6.4       Import and Export  
 ```
-- Video
-  - Creation: __20%__
+- E&I single xtUML file Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/BpY_EwzWGbA
+- E&I project zipfile Video
+  - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
+- Container page creation: __50% - done for completed video__
 - Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes - as part of the Projects module above
 
 ----
 ```
@@ -143,12 +147,12 @@ Owner:    Keith
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/9ZTxkw3sYIE
 - Visibility Video
-  - Creation: __30%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/Q7Bclax0D1c
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -169,15 +173,21 @@ Owner: Heba
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
 ```
+Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58Sk9ocFpGUUpqd00&usp=drive_web
+
 - Components Video
   - Creation: 100%
   - Reviewed: Yes with minor observation
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
-
 - Interfaces Video
+  - Creation: 50%
+  - Reviewed: __Yes - Rejected__
+  - Uploaded to YouTube: __No__
+- Interface Operations and Signals Video
+  - Creation: 50%
+  - Reviewed: __Yes - Rejected__
+  - Uploaded to YouTube: __No__
+- Interface Ports Video
   - Creation: 50%
   - Reviewed: __Yes - Rejected__
   - Uploaded to YouTube: __No__
@@ -185,9 +195,10 @@ Owner: Heba
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
 
+
 ----
 ```
-Owner: 
+Owner:    Keith
 6.7       Class Diagram  
 6.7.1     Editing a Class  
 6.7.1.1   Instance-based Operations  
@@ -204,9 +215,21 @@ Owner:
 6.7.5     Imported Classes (Class References, Off-Page Connections)  
 6.7.6     Steps to Creating Class Diagrams  
 ```
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
+- Creating Class Diagram Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/IBBwpOx6rm8
+- Imported Classes Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/qXL9OY8rT0I
+- Class Associations Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/uzcniHqatcM
+- Building a data model video
+  - Creation: 100%
+  - Reviewed: __Partial - Thumbs up: TRL, Undecided: CDS__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
@@ -406,23 +429,23 @@ Owner: Campbell
   - Uploaded to YouTube: Yes - http://youtu.be/YyklSyYGrnw
 - Spotlight Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/IPRPmbzjHvs
 - Time and Logging Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB (with comments)__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=borT_JMMXqY
 - Variables and Breakpoints Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=3xRqoeeaU-k
 - Verifier Intro Video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: SKB__
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=ZOVxb9P4mz4
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -544,8 +567,8 @@ Owner:
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=6ixfu4FUXOk
-- Container page creation: __0%__
-- Quiz creation: __0%__
+- Container page creation: 100%
+- Quiz creation: 100%
 - Uploaded to LMS: __No__
 
 ----
@@ -553,9 +576,9 @@ Owner:
 Owner: Keith
 6.22      Building the xtUML Editor from Source  
 ```
-NOTE: IMO, this segment does not belong in the System Modeler course.  We have the content for
-the xtUML Editor Developer course that I delivered in Budapest that I believe should be its own
-stand-alone course. See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md
+NOTE: We have the content for the xtUML Editor Developer course that Keith 
+delivered in Budapest that is the basis for it's own stand-alone course. 
+See https://github.com/xtuml/training/blob/master/doc-training/notes/5_xtuml_editor_developer.md
 
 ----
 ```
@@ -579,12 +602,12 @@ Owner: Nehad
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=Z9vhWaDovfg
 - Using Sample Projects Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/40xYgq8rVAg
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 
 7. Design Comments

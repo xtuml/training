@@ -1,18 +1,10 @@
-xtUML Editor and BrdigePoint verifier/model compiler come with rich help content.  This lesson covers main and common sections you will visit while using the tool.
+xtUML allows modelers to control the visibility of some model elements.  This feature
+is useful for creating namespaces and providing access control to the model data at 
+run time. 
 
-<ul>
-<li> Getting Started  
-<li> Model Verifier Java Interface  
-<li> Command Line Interface  
-<li> OAL Reference  
-<li> Translation Reference  
-<li> BridgePoint and Configuration Management  
-<li> RSL Reference  
-<li> Translation mapping  
-<li> Marking  
-</ul>
+This lesson teaches xtUML developers how to set and control model element visibility.
 
-<iframe src="//www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

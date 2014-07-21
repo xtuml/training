@@ -1,11 +1,9 @@
-<h1>Welcome to Modeling with xtUML Editor</h1>
-The course you are starting will teach you how to use xtUML Editor.
+Exporting and Importing model data.
 
-This course is designed and created as a collaborative effort by various members of the xtUML community. We welcome your suggestions.
+*   This video will take you through the steps of exporting and importing individual model data.
 
-Upon completion of this course you will know how to manipulate the various features of the tool to perform modeling tasks and write action language.
 
-If you have suggestions about this course, please post them in the forum.
+<iframe src="//www.youtube.com/embed/BpY_EwzWGbA?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -1,18 +1,13 @@
-xtUML Editor and BrdigePoint verifier/model compiler come with rich help content.  This lesson covers main and common sections you will visit while using the tool.
+Learn how to view the temporary variables created by your model as it runs. See how to set breakpoints to diagnose unexpected behavior patterns in your model. In this video, you will discover how to:
 
 <ul>
-<li> Getting Started  
-<li> Model Verifier Java Interface  
-<li> Command Line Interface  
-<li> OAL Reference  
-<li> Translation Reference  
-<li> BridgePoint and Configuration Management  
-<li> RSL Reference  
-<li> Translation mapping  
-<li> Marking  
+<li> See the event data and temporary values of variables used in an executing activity.
+<li> Find the value of any attribute of an instance selected bay OAL in the currently executing activity.
+<li> Set many different kinds of breakpoint.
+<li> How to refine the conditions under which a breakpoint will be triggered.
 </ul>
 
-<iframe src="//www.youtube.com/embed/ws17hR70-3A?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/3xRqoeeaU-k?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

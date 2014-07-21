@@ -1,12 +1,12 @@
-CheatSheets are to-do lists that help you to achieve a certain goal.  
+Cheat sheets are to-do lists that help you to achieve a certain goal.
 This video shows how to:
-
-* Find cheatSheets and open them  
-* Start Working on a single cheatsheet  
-* Difference between single cheatsheet and composite cheatsheet  
-* Walking through cheatsheet  
-
-<iframe src="http://www.youtube.com/embed/AtXT3dsEnfE?rel=0" width="640" height="360" frameborder="0"></iframe>
+<ul>
+    <li>Find cheat sheets and open them</li>
+    <li>Start Working on a single cheat sheet</li>
+    <li>Difference between single cheat sheet and composite cheat sheet</li>
+    <li>Walking through cheat sheet</li>
+</ul>
+<iframe src="//www.youtube.com/embed/AtXT3dsEnfE?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

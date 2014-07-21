@@ -1,7 +1,4 @@
-Building projects with realized component or realized class needs to use two 
-perspectives at the time, xtUML modeling and Java. As switching between them
-can be annoying, there is a technique to avoid that.    
-This lesson teaches you how to do it.
+When you are building projects with realized components or realized classes, one often needs to use two perspectives at the time, xtUML modeling and Java. Switching between these perspectives often can be annoying.  This lesson demonstrates a technique to show multiple perspectives simultaneously.   
 
 
 <iframe src="http://www.youtube.com/embed/pdnnyq8LW3Q?rel=0" width="640" height="360" frameborder="0"></iframe>

@@ -1,9 +1,10 @@
-Find a text inside editor can be painful.  
-This lesson shows you how to find text with different techniques:  
+Finding specific text inside a text editor doesn't have to be painful.  This lesson shows you how to find text with different techniques:  
 
-* Find/Replace window  
-* Incremental Search  
-* Find Next/Previous  
+<ul>
+<li> Find/Replace window  
+<li> Incremental Search  
+<li> Find Next/Previous  
+</ul>
 
 <iframe src="http://www.youtube.com/embed/1toONaydPUY?rel=0" width="640" height="360" frameborder="0"></iframe>
 
