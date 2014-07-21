@@ -1,8 +1,9 @@
-Eventually, after committing changes to a local branch it becomes time to 
-push the changes upstream so they can be shared.
+To synchronize changes in your local repository with an upstream repository
+the Git pull command is used.  Git pull merges changes from upstream into the local
+repository.
 
-This lesson teaches you how to share changes made in your local Git repository
-by pushing them to the upstream repository.
+This lesson teaches you how to use Git pull to synchronize your local repository
+with the upstream repository.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 
