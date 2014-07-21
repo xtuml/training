@@ -1,7 +1,7 @@
 Sometimes when merging with remote branches conflicts occur. 
 
 This video shows one way to resolve the merge conflicts by using the 
-merge tool to copy and resolve conflicts.
+merge tool to copy changes and resolve conflicts.
 
 
 
