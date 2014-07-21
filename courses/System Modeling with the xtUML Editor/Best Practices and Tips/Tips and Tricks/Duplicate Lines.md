@@ -1,7 +1,6 @@
-As working on text, it is often when you need to duplicate some lines, and 
-you do not want to lose your clipboard content.  
-This lesson tells you how to copy/paste lines without losing the clipboard content
-and doing it faster.
+When working in a text editor, sometimes you need to duplicate some lines but you do not want to lose your clipboard content.  
+
+This lesson shows you how to quickly copy/paste lines without losing the clipboard content.
 
 <iframe src="http://www.youtube.com/embed/xIdGhBDyf08?rel=0" width="640" height="360" frameborder="0"></iframe>
 

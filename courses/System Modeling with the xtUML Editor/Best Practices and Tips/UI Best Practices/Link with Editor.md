@@ -1,6 +1,7 @@
-It is always good if you can link the selection you did in the canvas with 
-the model explorer selection to get better browsing experience.  
-This lesson shows how to link the selection in both view.
+It can be useful to link a canvas selection with the corresponding element in the Model Explorer to get a better browsing experience.
+
+  
+This lesson shows how to link the selection in both views.
 
 
 <iframe src="http://www.youtube.com/embed/GHmlRoX3Lr0?rel=0" width="640" height="360" frameborder="0"></iframe>
