@@ -513,7 +513,23 @@ Owner: Campbell
 6.20.2    Bridge binding
 6.20.3    Interface Audit
 ```
-- Video
+- Intro Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- EEs I Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- EEs II Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Components Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- Other? Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
@@ -576,7 +592,7 @@ Owner:
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=6ixfu4FUXOk
 - Container page creation: 100%
 - Quiz creation: 100%
-- Uploaded to LMS: __No__
+- Uploaded to LMS: Yes
 
 ----
 ```
