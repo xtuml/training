@@ -354,12 +354,19 @@ Owner:
 
 ----
 ```
-Owner: 
+Owner: bob
 6.14      Configuration Management  
-6.14.1    Model Compare  
-6.14.2    Model Merge  
-6.14.3    Git and GitHub  
-6.14.4    Models, Documents and Source Code on GitHub  
+6.14.1 create a repository on github (a sandbox)
+6.14.2 clone a repository
+6.14.3 create a local git repository   
+6.14.4 share the local git repository
+6.14.5 create branch
+6.14.6 push to master
+6.14.7 synchronize local and remote repository
+6.14.8 fetch 
+6.14.9 merge and resolve conflicts
+6.14.10    Model Compare  
+6.14.11    Model Merge  
 ```
 __Note__: We may want to use the video Robert Inkret made for this section.  It is at: http://www.youtube.com/watch?v=eux2oq6rRPw
 
