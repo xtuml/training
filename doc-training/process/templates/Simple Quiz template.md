@@ -1,30 +1,26 @@
-__Type:__  Radio Buttons
+__Type:__  Multiple Choice
+ 
+__Question:__  What is the answer?
+ 
+__Choices:__
+  - 0
+  - 1
+  - 42
+  
+__Answer:__
+  - 42
+  
+
+----
+
+__Type:__  True/False
  
 __Question:__  The sky is blue?
  
-__Choices:__
-  - T
-  - F
-  
-__Answer(s):__
+__Answer:__
   - T
   
-----
 
-__Type:__ Check Boxes
-
-__Question:__ What digits are in 42?  (Select all that apply)
-
-__Choices:__
-  - A: 1
-  - B: 2
-  - C: 3
-  - D: 4
-  
-__Answer(s):__
-  - B
-  - D
-  
 ----
 
 __Type:__ Text Input
@@ -34,8 +30,17 @@ __Question:__ What is the first word in "BridgePoint xtUML"?  (Enter a one word 
 __Choices:__
   - text input box
   
-__Answer(s):__
-  - [Matches (ignore case)] BridgePoint
+__Answer:__
+  - Cannot be automatically graded
   
 ----
+
+__Type:__  File input
+ 
+__Question:__  Submit a file that proves you know the answer:
+ 
+__Permitted file extensions:__
+  - doc,pdf,jpg,png,jpeg,gif
   
+
+----

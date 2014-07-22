@@ -1,0 +1,33 @@
+- In addition to exporting parts of a model in the xtUML editor you can also export the entire project
+- Exporting the entire project allows for all project artifacts to be included not just modeling ones
+- In addition to modeling artifacts you will also get code generation related artifacts as well as all build related artifacts and configurations. 
+- To export an xtUML project right click on the xtUML project in the Model Explorer and choose the Export... option
+- Note that this same action can be performed in any view that contains projects like the Navigator view 
+- In the dialog page that is opened expand the General folder
+- Choose the Archive File option and select the Next button
+- In the Archive file wizard you are given a trees to select which files you would like to export
+- You can navigate the left tree to locate parent folders and select individual files in the right tree
+- When exporting an xtUML project it is suggested that you simply check the project level which will include all files required
+- If resources were selected before initiating the dialog they will automatically be selected for you
+- The To archive file field allows you to specify the export location
+- You can either enter it manually or choose the Browse... button
+- The Browse... button will allow you to navigate to the desired export folder on the file system
+- Once you have entered the location you have a few options to choose from for the desired export
+- You can export in zip file format (the default), or you can export in tar format
+- You can have the full directory structure created, or have only those folders that were selected created
+- You can also choose whether or not you would like the contents compressed
+- Once you are happy with the options you can click the Finish button
+- You can now navigate to the export location on the file system and see that the archive file was created
+- The tool can import projects from archive files
+- To do so you can right click anywhere in Model Explorer and choose the Import... option
+- Now expand the General folder and choose the Existing Projects into Workspace wizard
+- Clicking the Next button will open the import wizard
+- To import an archive file choose the Select archive file button
+- You can now either manually enter the location of the archive file or choose the Browse... button
+- Choosing the Browse... button allows you to navigate to the archive file
+- We will choose the archive file exported previously
+- The Projects: tree allows you to select which projects from the archive file you would like to import
+- In this example we have only the one
+- At this point there are no more options for importing, simply click the Finish button
+- You can now see that the exported project has been imported back into the tool
+- The import includes all project artifacts as can be seen in the Navigator view

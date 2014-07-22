@@ -1,0 +1,147 @@
+-- BP 7.1.6 content: Package syschar: 3 persistence-version: 7.1.6
+
+INSERT INTO EP_PKG
+	VALUES ("05d07570-6e1f-412d-b0f4-d751cff61809",
+	"00000000-0000-0000-0000-000000000000",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'UC04 - WorkoutWithPause',
+	'',
+	0);
+INSERT INTO GD_MD
+	VALUES ("4ede116f-218c-46b6-b215-dce715e3dbfc",
+	112,
+	"05d07570-6e1f-412d-b0f4-d751cff61809",
+	108,
+	0,
+	0,
+	1,
+	1,
+	1,
+	12,
+	1,
+	0,
+	0,
+	200,
+	150,
+	0,
+	'4.1.10',
+	'Use Case specifications - golden model::Requirements Clarification::UC04 - WorkoutWithPause');
+INSERT INTO GD_GE
+	VALUES ("f1d57a21-6bf1-4632-9d5c-7530b78ff49c",
+	"4ede116f-218c-46b6-b215-dce715e3dbfc",
+	"b735b4aa-a316-4815-85c7-7f2581e3bb3f",
+	85,
+	0,
+	'Use Case specifications - golden model::Requirements Clarification::UC04 - WorkoutWithPause::UC04 - WorkoutwithPause');
+INSERT INTO GD_SHP
+	VALUES ("f1d57a21-6bf1-4632-9d5c-7530b78ff49c");
+INSERT INTO GD_NCS
+	VALUES ("f1d57a21-6bf1-4632-9d5c-7530b78ff49c");
+INSERT INTO DIM_ND
+	VALUES (200.000000,
+	150.000000,
+	"f1d57a21-6bf1-4632-9d5c-7530b78ff49c");
+INSERT INTO DIM_GE
+	VALUES (220.000000,
+	-24.000000,
+	"f1d57a21-6bf1-4632-9d5c-7530b78ff49c",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("f1d57a21-6bf1-4632-9d5c-7530b78ff49c",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO GD_GE
+	VALUES ("d27f2609-1ba5-4f7b-a06e-ae402a207698",
+	"4ede116f-218c-46b6-b215-dce715e3dbfc",
+	"fd674b33-15c6-4820-95e8-8165629d86f0",
+	108,
+	0,
+	'Use Case specifications - golden model::Requirements Clarification::UC04 - WorkoutWithPause::ActivityDiagram');
+INSERT INTO GD_SHP
+	VALUES ("d27f2609-1ba5-4f7b-a06e-ae402a207698");
+INSERT INTO GD_NCS
+	VALUES ("d27f2609-1ba5-4f7b-a06e-ae402a207698");
+INSERT INTO DIM_ND
+	VALUES (200.000000,
+	150.000000,
+	"d27f2609-1ba5-4f7b-a06e-ae402a207698");
+INSERT INTO DIM_GE
+	VALUES (440.000000,
+	-24.000000,
+	"d27f2609-1ba5-4f7b-a06e-ae402a207698",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_ELE
+	VALUES ("d27f2609-1ba5-4f7b-a06e-ae402a207698",
+	0,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO DIM_DIA
+	VALUES ("4ede116f-218c-46b6-b215-dce715e3dbfc",
+	'',
+	1.000000,
+	4000.000000,
+	3000.000000,
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO SQ_P
+	VALUES ("b735b4aa-a316-4815-85c7-7f2581e3bb3f",
+	"00000000-0000-0000-0000-000000000000");
+INSERT INTO IA_UCP
+	VALUES ("b735b4aa-a316-4815-85c7-7f2581e3bb3f",
+	'UC04 - WorkoutwithPause',
+	'Pre-conditions
+	No track logs exist on the device.
+	Timer is stopped.
+	Elapsed time  is zero.
+	Accumulated distance is zero.
+	Display shows elapsed time and accumulated distance.
+
+
+Post-conditions
+	A track log exists on the device.
+	Timer is stopped.
+	Elapsed time and distance are displayed.
+
+Scenario
+	1.	(Trigger) User pushes the start/stop button and begins moving (walking, running, flying, cycling, etc.).
+	2.	The timer starts.
+	3.	Throughout the workout, the display shows:
+		a.	Accumulated distance
+		b.	Elapsed time
+	4.	At one-second intervals throughout the workout the device stores, in the active track log, 
+	    the current location of the device.
+	5.	User pushes the start/stop button.
+	6.	The timer stops.
+	7.	The elasped time and distance stop accumulating.
+	8.  User pushes the start/stop button and begins moving again.
+	9.	The timer starts.
+	10.	The elasped time and distance start accumulating.
+	11.  User pushes the start/stop button.
+	12.	The timer stops.
+	13. The elasped time and distance stop accumulating.
+	14. Display shows elapsed time and accumulated distance.
+	
+	');
+INSERT INTO PE_PE
+	VALUES ("b735b4aa-a316-4815-85c7-7f2581e3bb3f",
+	1,
+	"05d07570-6e1f-412d-b0f4-d751cff61809",
+	"00000000-0000-0000-0000-000000000000",
+	14);
+INSERT INTO PE_PE
+	VALUES ("05d07570-6e1f-412d-b0f4-d751cff61809",
+	1,
+	"3293513d-3f01-4fea-a88a-68366c115160",
+	"00000000-0000-0000-0000-000000000000",
+	7);
+INSERT INTO EP_PKG_PROXY
+	VALUES ("3293513d-3f01-4fea-a88a-68366c115160",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	"f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'Requirements Clarification',
+	'',
+	0,
+	'../Requirements Clarification.xtuml');
+INSERT INTO S_SYS_PROXY
+	VALUES ("f48e9ce2-9a7c-406f-a268-eb8f7aa0e654",
+	'Use Case specifications - golden model',
+	1,
+	'../../Use Case specifications - golden model.xtuml');
