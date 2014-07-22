@@ -17,10 +17,6 @@ __Type:__  True/False
  
 __Question:__  The sky is blue?
  
-__Choices:__
-  - T
-  - F
-  
 __Answer:__
   - T
   
