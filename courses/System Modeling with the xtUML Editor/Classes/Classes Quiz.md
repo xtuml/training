@@ -75,7 +75,7 @@ __Answer:__
 
 __Type:__  Multiple Choice
  
-__Question:__  An association that is draw from a class back to itself is called a _________.
+__Question:__  An association that is drawn from a class back to itself is called a _________.
  
 __Choices:__
   - A recursive association
