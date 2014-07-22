@@ -525,11 +525,15 @@ Owner: Campbell
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: __No__
-- Components Video
+- Components I Video
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: __No__
-- Other? Video
+- Components II Video
+  - Creation: 0%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Realized Component Audit
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
