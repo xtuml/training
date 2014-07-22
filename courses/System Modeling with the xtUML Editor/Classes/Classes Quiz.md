@@ -1,22 +1,3 @@
-----
-
-__Type:__  True/False
- 
-__Question:__  Class diagrams may only be created in formal models?
- 
-__Answer:__
-  - F
-
-----
-
-__Type:__  True/False
- 
-__Question:__  Formal class models must be defined inside a component?
- 
-__Answer:__
-  - T
-
-----
 
 __Type:__  Multiple Choice
  
@@ -78,7 +59,7 @@ __Type:__  Multiple Choice
 __Question:__  An association that is drawn from a class back to itself is called a _________.
  
 __Choices:__
-  - A recursive association
+  - A reconnecting association
   - B refactoring association
   - C reflexive association
   - D retroactive association
@@ -90,7 +71,7 @@ __Answer:__
 
 __Type:__  True/False
  
-__Question:__  You must use two different tools to model a supertype/subtype association?
+__Question:__  You must use two different palette tools to model a supertype/subtype association?
  
 __Answer:__
   - T
