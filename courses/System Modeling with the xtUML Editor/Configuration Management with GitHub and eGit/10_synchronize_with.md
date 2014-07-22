@@ -1,4 +1,8 @@
-This lesson teaches you how to create a new branch using EGit.
+EGit allows you to synchronize with any other branch and see the changes. 
+This makes it easy to grab source changes before merging with another branch.
+This is also very useful for code reviews.
+ 
+This video shows how to use the eGit Synchronize With option.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 

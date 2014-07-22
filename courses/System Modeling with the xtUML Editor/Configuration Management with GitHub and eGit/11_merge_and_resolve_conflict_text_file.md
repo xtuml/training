@@ -1,8 +1,9 @@
-It is very easy to create a new public repository on GitHub.  A public repository
-can be used for many things, including testing.
+Sometimes when merging with remote branches conflicts occur. 
 
-This lesson teaches you how to create a repository that can be 
-used to perform tests that are under Git revision control.
+This video shows how to resolve merge conflicts using the 
+eGit staging view.
+
+
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 

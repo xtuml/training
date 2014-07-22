@@ -1,9 +1,5 @@
-Sometimes when merging with remote branches conflicts occur. 
-
-This video shows one way to resolve the merge conflicts by using the 
-merge tool to copy changes and resolve conflicts.
-
-
+This lesson teaches you how to share a model in a local repository to an upstream 
+repository on GitHub.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 

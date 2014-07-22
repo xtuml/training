@@ -1,8 +1,7 @@
-Eventually, after committing changes to a local branch it becomes time to 
-push the changes upstream so they can be shared.
+To synchronize changes in your local repository with an upstream repository
+the Git fetch and Git pull commands are used.  
 
-This lesson teaches you how to share changes made in your local Git repository
-by pushing them to the upstream repository.
+This lesson teaches you how to use Git fetch to update remote branches.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 

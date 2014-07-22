@@ -1,5 +1,5 @@
-This video demonstrates fetching the default remote Git repository updated 
-commits for all of its branches.
+This lesson teaches you 2 ways to create branches in eGit.  The video starts by
+creating a Git clone to work with.
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 
