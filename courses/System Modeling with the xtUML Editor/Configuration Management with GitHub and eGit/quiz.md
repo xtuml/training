@@ -1,7 +1,7 @@
 __Type:__  Multiple Choice
  
 __Question:__  I want to experiment with branching, compare, and merge, and I want 
-this to be private.  Where do I create the repository?
+this to be private.  How do I create the repository?
  
 __Choices:__
   - Clone a remote repository
@@ -37,8 +37,8 @@ __Answer:__
 ----
 __Type:__  Multiple Choice
  
-__Question:__  When reviewing a branch prior to promoting, how does 
-the review team assure they are all looking at the same changes?
+__Question:__  When reviewing a branch prior to promoting, what is the 
+preferred method to assure they are all looking at the same changes?
 
 __Choices:__
   - Pull the branch and look at the changes
