@@ -179,11 +179,11 @@ __Choices:__
   - Synchronizes local changes with upstream changes 
   - Share local changes with others
   - Updates your remote-tracking branches under refs/remotes/<remote>/
-  - Updates remote tracking branches, merges changes into the local 
+  - Updates remote tracking branches, merges changes into the working branch of the local 
   repository, and reports any conflicts
 
 __Answer:__
-  - Updates remote tracking branches, merges changes into the local 
+  - Updates remote tracking branches, merges changes into the working branch of the local 
   repository, and reports any conflicts
   
 ----
