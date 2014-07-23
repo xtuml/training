@@ -20,7 +20,7 @@ However, I do want to share it with others for feed back.  Where can I create th
  
 __Choices:__
   - Clone a remote repository
-  - Create a repository on Github
+  - Create a public repository on Github
   - Create a local repository
 
 __Answer:__
