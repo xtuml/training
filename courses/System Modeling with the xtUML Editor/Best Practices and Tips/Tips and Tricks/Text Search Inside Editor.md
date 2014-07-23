@@ -6,7 +6,7 @@ Finding specific text inside a text editor doesn't have to be painful.  This les
 <li> Find Next/Previous  
 </ul>
 
-<iframe src="http://www.youtube.com/embed/1toONaydPUY?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/1toONaydPUY?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

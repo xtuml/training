@@ -1,7 +1,7 @@
 When you are building projects with realized components or realized classes, one often needs to use two perspectives at the time, xtUML modeling and Java. Switching between these perspectives often can be annoying.  This lesson demonstrates a technique to show multiple perspectives simultaneously.   
 
 
-<iframe src="http://www.youtube.com/embed/pdnnyq8LW3Q?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/pdnnyq8LW3Q?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

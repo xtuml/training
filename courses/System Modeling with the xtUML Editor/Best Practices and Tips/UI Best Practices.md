@@ -8,17 +8,17 @@ best practices to increase your efficiency while working on them:
 * Open Editor Dialog
 * Split Editors
 
-<iframe src="http://www.youtube.com/embed/NGm2sgMTzsQ?rel=0" width="640" height="360" frameborder="0"></iframe> 
+<iframe src="//www.youtube.com/embed/NGm2sgMTzsQ?rel=0" width="640" height="360" frameborder="0"></iframe> 
 
-<iframe src="http://www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe> 
+<iframe src="//www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe> 
 
-<iframe src="http://www.youtube.com/embed/pdnnyq8LW3Q?rel=0" width="640" height="360" frameborder="0"></iframe> 
+<iframe src="//www.youtube.com/embed/pdnnyq8LW3Q?rel=0" width="640" height="360" frameborder="0"></iframe> 
 
-<iframe src="http://www.youtube.com/embed/GHmlRoX3Lr0?rel=0" width="640" height="360" frameborder="0"></iframe> 
+<iframe src="//www.youtube.com/embed/GHmlRoX3Lr0?rel=0" width="640" height="360" frameborder="0"></iframe> 
 
-<iframe src="http://www.youtube.com/embed/rScvwv9mu1s?rel=0" width="640" height="360" frameborder="0"></iframe> 
+<iframe src="//www.youtube.com/embed/rScvwv9mu1s?rel=0" width="640" height="360" frameborder="0"></iframe> 
 
-<iframe src="http://www.youtube.com/embed/6ixfu4FUXOk?rel=0" width="640" height="360" frameborder="0"></iframe> 
+<iframe src="//www.youtube.com/embed/6ixfu4FUXOk?rel=0" width="640" height="360" frameborder="0"></iframe> 
 
 <hr style="color: #cccccc;" />
 
