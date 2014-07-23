@@ -3,6 +3,12 @@ Sometimes when merging with remote branches conflicts occur.
 This video shows how to use the Merge tool to merge model conflicts.
 
 
+After completing this video and successfully passing the associated quiz, if 
+you would like a more in-depth video that discusses xtUML xtUML compare and 
+merge the follow video is available:
+https://www.youtube.com/watch?v=eux2oq6rRPw
+
+
 
 <iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
 
