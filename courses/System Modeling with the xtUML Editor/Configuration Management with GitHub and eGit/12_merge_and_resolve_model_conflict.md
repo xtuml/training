@@ -5,7 +5,7 @@ This video shows how to use the Merge tool to merge model conflicts.
 
 After completing this video and successfully passing the associated quiz, if 
 you would like a more in-depth video that discusses xtUML model compare and 
-merge the follow video is available:
+merge the following video is available:
 https://www.youtube.com/watch?v=eux2oq6rRPw
 
 
