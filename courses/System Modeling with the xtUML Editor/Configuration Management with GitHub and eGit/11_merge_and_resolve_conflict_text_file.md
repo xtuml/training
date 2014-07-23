@@ -5,7 +5,7 @@ eGit staging view.
 
 
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/8uSALFmSLL4?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

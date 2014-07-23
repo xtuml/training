@@ -3,7 +3,7 @@ the Git fetch and Git pull commands are used.
 
 This lesson teaches you how to use Git fetch to update remote branches.
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/znXoZjkbQ0o?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

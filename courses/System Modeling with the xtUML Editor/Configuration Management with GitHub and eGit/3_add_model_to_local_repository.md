@@ -1,6 +1,6 @@
 This lesson teaches you how to add a model to a local Git repository using EGit.
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/yvdC1QGmErw?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
