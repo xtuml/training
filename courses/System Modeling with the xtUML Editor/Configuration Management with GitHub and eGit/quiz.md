@@ -37,17 +37,17 @@ __Answer:__
 ----
 __Type:__  Multiple Choice
  
-__Question:__  When reviewing a branch prior to promoting an how does 
+__Question:__  When reviewing a branch prior to promoting, how does 
 the review team assure they are all looking at the same changes?
 
 __Choices:__
-  - pull the branch and look at the changes
-  - share the desktop of the user that made the changes
-  - fetch to update eGit Remote Tracking and use "Synchronize With each Other" to
+  - Pull the branch and look at the changes
+  - Share the desktop of the user that made the changes
+  - Fetch to update eGit Remote Tracking and use "Synchronize With each Other" to
   see the changes in the branch to origin/master 
 
 __Answer:__
-  - fetch to update eGit Remote Tracking and use "Synchronize With each Other" to
+  - Fetch to update eGit Remote Tracking and use "Synchronize With each Other" to
   see the changes in the branch to origin/master 
   
 ----
@@ -79,7 +79,7 @@ __Answer:__
 ----
 __Type:__  Multiple Choice
  
-__Question:__  When creating a local repository what location location on disk 
+__Question:__  When creating a local repository what location on disk 
 should NEVER be used ?
  
 __Choices:__
@@ -125,7 +125,7 @@ __Question:__  When do you use the option to clone a repository?
 __Choices:__
   - When you need to create a new local repository from a shared repository
   - When you want to use xtUML editor to view a model in a shared repository
-  - Before creating a branch
+  - Before creating a branch to perform a task in
   - All of the above
 
 __Answer:__
@@ -162,7 +162,7 @@ shared repository and asked you to review it.  What is a preferred method for re
  
 __Choices:__
   - Use compare with 
-  - share the user's desktop
+  - Share the user's desktop
   - Use Git fetch, and then under refs/remotes/<remote>/ select the user's 
   branch and the base that the branch was created from and then select 
   Synchronize With... 
