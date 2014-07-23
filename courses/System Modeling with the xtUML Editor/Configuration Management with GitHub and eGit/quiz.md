@@ -79,19 +79,6 @@ __Answer:__
 ----
 __Type:__  Multiple Choice
  
-__Question:__  Quesion?
- 
-__Choices:__
-  - one 
-  - two
-  - three
-
-__Answer:__
-  - three
-  
-----
-__Type:__  Multiple Choice
- 
 __Question:__  When creating a local repository what location location on disk 
 should NEVER be used ?
  
