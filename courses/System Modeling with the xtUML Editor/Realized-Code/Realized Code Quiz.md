@@ -100,7 +100,7 @@ __Answer(s):__
   
 __Type:__ True / False
  
-__Question:__ You can specify a jar file that holds the implementation for an External Entity?
+__Question:__ You can specify a jar file that holds the implementation for an External Entity.
 
 __Choices:__
   - A: True
