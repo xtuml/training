@@ -514,11 +514,11 @@ Owner: Campbell
 - Intro Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes - http://youtu.be/iJFMew2iTeg
+  - Uploaded to YouTube: Yes - http://youtu.be/n2dorP-zik0
 - EEs I Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes - http://youtu.be/mwUZqGdhISc
+  - Uploaded to YouTube: Yes - http://youtu.be/y2kPj1FFyXk
 - EEs II Video
   - Creation: 100%
   - Reviewed: Yes
