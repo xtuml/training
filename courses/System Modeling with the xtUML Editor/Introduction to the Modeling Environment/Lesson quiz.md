@@ -86,7 +86,7 @@ __Answer(s):__
 
 __Type:__ Radio Buttons
 
-__Question:__ A project may contain ______ workspaces?
+__Question:__ Typically, a project should contain ______ workspaces?
 
 __Choices:__
   - A: Zero
