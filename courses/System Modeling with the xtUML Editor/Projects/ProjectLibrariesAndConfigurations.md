@@ -3,7 +3,7 @@ Using Inter-project references to create project libraries and system configurat
 *   In this video you will see how inter-project references can be used to create library projects.  You will also a case where inter-project references are used to create additional system configurations.
 
 
-<iframe src="//www.youtube.com/embed/BpY_EwzWGbA?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/bNSzFZMrxpQ?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
