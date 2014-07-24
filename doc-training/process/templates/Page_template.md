@@ -5,8 +5,13 @@ Here is an introductory paragraph.  It can say whatever you want:
 
 If you look at the raw text of this file, you will see a link to embed a youTube video.  In this link, replace "s9Ch_UecVdY" with the desired video's ID. Also, do __not__ add http or https to the link.
 
-<iframe src="//www.youtube.com/embed/s9Ch_UecVdY?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/s9Ch_UecVdY?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+* If the unit will not have a new video but use a snippet from an existing video on YouTube you can specify the start and end time of the
+clip in seconds like this:
+
+<iframe src="//www.youtube.com/embed/cXdiBHYSY54?rel=0;start=27;end=172" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    
 <hr style="color: #cccccc;" />
 
 <table>

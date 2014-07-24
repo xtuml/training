@@ -1,7 +1,10 @@
-This lesson teaches you how to clone a remote Git repository to your local 
-machine.
+EGit allows you to synchronize with any other branch and see the changes. 
+This makes it easy to grab source changes before merging with another branch.
+This is also very useful for code reviews.
+ 
+This video shows how to use the eGit Synchronize With option.
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/PNOG9fXDi9s?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

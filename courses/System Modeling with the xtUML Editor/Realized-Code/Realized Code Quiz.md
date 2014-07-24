@@ -82,3 +82,43 @@ __Answer(s):__
   - B
   
 ----
+  
+__Type:__ Radio Buttons
+ 
+__Question:__ You mark a modeled element as realized in which View?
+
+__Choices:__
+  - A: Model Explorer
+  - B: Session Explorer
+  - C: Properties
+  - D: Console
+
+__Answer(s):__
+  - C
+
+----
+  
+__Type:__ True / False
+ 
+__Question:__ You can specify a jar file that holds the implementation for an External Entity.
+
+__Choices:__
+  - A: True
+  - B: False
+
+__Answer(s):__
+  - A
+  
+  
+__Type:__ True / False
+ 
+__Question:__ You must pass a ComponentInstance_c value with all calls into the xtUML model.
+
+__Choices:__
+  - A: True
+  - B: False
+
+__Answer(s):__
+  - B
+  
+----

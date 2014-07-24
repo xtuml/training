@@ -1,6 +1,11 @@
-This lesson teaches you how to create local Git repository using EGit.
+Sometimes when merging with remote branches conflicts occur. 
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+This video shows how to resolve merge conflicts using the 
+eGit staging view.
+
+
+
+<iframe src="//www.youtube.com/embed/8uSALFmSLL4?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

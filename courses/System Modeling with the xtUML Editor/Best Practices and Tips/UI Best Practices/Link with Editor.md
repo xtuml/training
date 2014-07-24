@@ -4,7 +4,7 @@ It can be useful to link a canvas selection with the corresponding element in th
 This lesson shows how to link the selection in both views.
 
 
-<iframe src="http://www.youtube.com/embed/GHmlRoX3Lr0?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/GHmlRoX3Lr0?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

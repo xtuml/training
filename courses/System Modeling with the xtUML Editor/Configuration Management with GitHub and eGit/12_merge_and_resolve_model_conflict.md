@@ -1,6 +1,10 @@
-This lesson teaches you how to create a new branch using EGit.
+Sometimes when merging with remote branches conflicts occur.
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+This video shows how to use the Merge tool to merge model conflicts.
+
+After completing this video and successfully passing the associated quiz, if you would like a more in-depth video that discusses xtUML model compare and merge, the following video is available: <a href="//www.youtube.com/watch?v=eux2oq6rRPw">Comparing and Merging with git in xtUML Editor</a>.
+
+<iframe src="//www.youtube.com/embed/8Gj_4SB87RM?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -1,6 +1,6 @@
 Finding a line with its number can be super easy without the need to scroll up/down to navigate to the line.  This lesson shows you how to do this.
 
-<iframe src="http://www.youtube.com/embed/OzSlNJwIRdI?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/OzSlNJwIRdI?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -1,8 +1,6 @@
-Handling long list of breakpoints is not an easy task. The Breakpoints view gives you the ability to group breakpoints into different categories.  
+In this lesson you will learn how to use the "where" clause to restrict the data returned from a selection.
 
-This lesson shows how to do this.  
-
-<iframe src="//www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/jL3nytKqERk?rel=0;start=5;end=232" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

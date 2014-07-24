@@ -1,10 +1,7 @@
-It is very easy to create a new public repository on GitHub.  A public repository
-can be used for many things, including testing.
+This lesson teaches you how to clone a remote Git repository to your local 
+machine.
 
-This lesson teaches you how to create a repository that can be 
-used to perform tests that are under Git revision control.
-
-<iframe src="//www.youtube.com/embed/cQgAiLQ59qw?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/ourzuUDN3Vk?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

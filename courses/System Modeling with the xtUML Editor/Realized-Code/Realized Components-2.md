@@ -1,8 +1,9 @@
-Handling long list of breakpoints is not an easy task. The Breakpoints view gives you the ability to group breakpoints into different categories.  
+Here we review details of a realized component in the GPS Watch.
 
-This lesson shows how to do this.  
+*   See what the UI realized component looks like in the tool.
 
-<iframe src="//www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe>
+
+<iframe src="//www.youtube.com/embed/BrOkEn?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 

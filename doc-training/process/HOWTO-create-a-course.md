@@ -57,9 +57,8 @@ and deliver the course using the learning management system.
     - Explain the topic in the text
     - Link to the youTube video
     - Commit the page content file to github
-    - If the unit will not have a new video but use a snippet from an existing video on YouTube you can use TubeChop [6]
-    to specify the start and end points of the snippet.  Use the embedding html TubeChop gives you in the container 
-    page.  Edit the dimensions (in 2 places of the embedding code to 640x360).
+    - If the unit will not have a new video but use a snippet from an existing video on YouTube you can specify the start 
+    and end points of the snippet.  See the page template [2] for an example.
     - Notify course administrator of new page.  Course admin will create new page in the LMS and paste in page content
     from github.
     

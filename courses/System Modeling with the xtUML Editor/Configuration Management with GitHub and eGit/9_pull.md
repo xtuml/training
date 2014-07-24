@@ -5,7 +5,7 @@ repository.
 This lesson teaches you how to use Git pull to synchronize your local repository
 with the upstream repository.
 
-<iframe src="//www.youtube.com/embed/Q7Bclax0D1c?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/oRehHwuYQ-w?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
