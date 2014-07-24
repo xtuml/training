@@ -1,8 +1,6 @@
-Handling long list of breakpoints is not an easy task. The Breakpoints view gives you the ability to group breakpoints into different categories.  
+This lesson shows how to create events and send them to a class finite state machine.
 
-This lesson shows how to do this.  
-
-<iframe src="//www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/MaOO8c0OX60?rel=0;start=13;end=195" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

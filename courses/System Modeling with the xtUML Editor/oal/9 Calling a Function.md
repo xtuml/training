@@ -1,8 +1,6 @@
-Handling long list of breakpoints is not an easy task. The Breakpoints view gives you the ability to group breakpoints into different categories.  
+This lesson shows how to organize action language into functions and reuse these functions within other blocks of OAL.
 
-This lesson shows how to do this.  
-
-<iframe src="//www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/kTN63J3u2UM?rel=0;start=6;end=264" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

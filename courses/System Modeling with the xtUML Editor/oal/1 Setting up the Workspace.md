@@ -1,8 +1,6 @@
-Handling long list of breakpoints is not an easy task. The Breakpoints view gives you the ability to group breakpoints into different categories.  
+In this lesson we will configure the workspace we'll use for this OAL tutorial.
 
-This lesson shows how to do this.  
-
-<iframe src="//www.youtube.com/embed/BmKirBaX4Xk?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/cXdiBHYSY54?rel=0;start=27;end=172" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 
