@@ -105,19 +105,15 @@ Owner: Travis
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://www.youtube.com/watch?v=_hMUywFsnCs
 - Synchronizing References Video
-  - Creation: 100% - https://drive.google.com/a/mentor.com/file/d/0B-aWt79q0qHXcXlibFM3NmgtZzg/edit?usp=sharing
+  - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=f2AsGV1mu8k
 - Library Projects Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Integration Projects Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Container page creation: __75% - Done for all videos that are done__
-- Quiz creation: __100%__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/bNSzFZMrxpQ
+- Container page creation: 100%
+- Quiz creation: 100%
 - Uploaded to LMS: Yes
 
 ----
@@ -133,8 +129,8 @@ Owner:    Travis
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/VG389LPOyHM
-- Container page creation: __50% - done for completed video__
-- Quiz creation: __0%__
+- Container page creation: 100%
+- Quiz creation: Part of Project module
 - Uploaded to LMS: Yes - as part of the Projects module above
 
 ----
