@@ -93,3 +93,30 @@ __Answer(s):__
   - C
   
 ----
+
+__Type:__ True / False
+
+__Question:__ To export build configuration artifacts you must use the xtUML export wizard? 
+
+__Choices:__
+  - A:  True
+  - B:  False
+  
+__Answer(s):__
+  - B
+  
+----
+
+__Type:__ Radio Buttons
+
+__Question:__ Multiple system configurations can live in...?
+
+__Choices:__
+  - A:  A single project
+  - B:  Multiple projects
+  - C:  Both A and B
+  
+__Answer(s):__
+  - C
+  
+----
