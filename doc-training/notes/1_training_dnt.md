@@ -130,9 +130,9 @@ Owner:    Travis
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/BpY_EwzWGbA
 - E&I project zipfile Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/VG389LPOyHM
 - Container page creation: __50% - done for completed video__
 - Quiz creation: __0%__
 - Uploaded to LMS: Yes - as part of the Projects module above
@@ -229,11 +229,11 @@ Owner:    Keith
   - Uploaded to YouTube: Yes - http://youtu.be/uzcniHqatcM
 - Building a data model video
   - Creation: 100%
-  - Reviewed: __Partial - Thumbs up: TRL, Undecided: CDS__
+  - Reviewed: __Partial - Thumbs up: TRL, Undecided: CDS__.  Perhaps Cort should create a "bottom-up" video that shows his preferred method?  In either case, this has been deemed to not be a blocker for the course release.
   - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -292,9 +292,9 @@ Owner: Cort
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes
-- Container page creation: __10%__
-- Quiz creation: __10%__
-- Uploaded to LMS: __No__
+- Container page creation: 100%
+- Quiz creation: __0%__
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -354,7 +354,7 @@ Owner:
 
 ----
 ```
-Owner: bob
+Owner: Bob
 6.14      Configuration Management  
 6.14.1 create a repository on github (a sandbox)
 6.14.2 clone a repository
@@ -368,15 +368,13 @@ Owner: bob
 6.14.10    Model Compare  
 6.14.11    Model Merge  
 ```
-__Note__: We may want to use the video Robert Inkret made for this section.  It is at: http://www.youtube.com/watch?v=eux2oq6rRPw
-
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Videos
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -516,23 +514,23 @@ Owner: Campbell
 - Intro Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/iJFMew2iTeg
 - EEs I Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/mwUZqGdhISc
 - EEs II Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/KyLufxqASpM
 - Components I Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/f5Qj6gP8f0o
 - Components II Video
-  - Creation: 0%
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/S6u1KD0fdHU
 - Realized Component Audit
   - Creation: __0%__
   - Reviewed: __No__
