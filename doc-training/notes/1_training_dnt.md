@@ -450,7 +450,7 @@ Owner: Campbell
 
 ----
 ```
-Owner: 
+Owner:    Keith
 6.17      Translating Models (Model Compilers)  
 6.17.1    Installing BridgePoint  
 6.17.2    Installing Source Model Compilers  
@@ -458,11 +458,31 @@ Owner:
 6.17.3    Choosing/Setting a Model Compiler  
 6.17.4    Changing/Setting/Switching a Model Compiler  
 6.17.5    Generating Code  
-6.17.6.1  Marking  
+6.17.6    Marking  
 6.17.7    Compiling the Generated Code  
 6.17.8    Turning builders on and off via project properties
 ```
-- Video
+- Intro Video
+  - Creation: 100%
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Set and Change selected MC Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Marking Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Generating and compiling Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Turning builders on and off Video
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Installing Source MC Video
   - Creation: __0%__
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
