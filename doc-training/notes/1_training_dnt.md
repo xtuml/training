@@ -169,23 +169,27 @@ Owner: Heba
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
 ```
-Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58Sk9ocFpGUUpqd00&usp=drive_web
+Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58U0hvTHpIV0VrU2s&usp=sharing
 
 - Components Video
   - Creation: 100%
   - Reviewed: Yes with minor observation
   - Uploaded to YouTube: __No__
 - Interfaces Video
-  - Creation: 50%
-  - Reviewed: __Yes - Rejected__
+  - Creation: 100%
+  - Reviewed: __Yes - Thumbs up: KB__
   - Uploaded to YouTube: __No__
 - Interface Operations and Signals Video
-  - Creation: 50%
-  - Reviewed: __Yes - Rejected__
+  - Creation: 100%
+  - Reviewed: __Yes - Thumbs up: KB__
   - Uploaded to YouTube: __No__
 - Interface Ports Video
-  - Creation: 50%
-  - Reviewed: __Yes - Rejected__
+  - Creation: 100%
+  - Reviewed: __Yes - Thumbs up: KB__
+  - Uploaded to YouTube: __No__
+- Delegation? Video
+  - Creation: 20%
+  - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
@@ -248,6 +252,14 @@ Owner:
 6.8.8     "Polymorphic Events" (Asynchronous polymorphism)  
 6.8.9     Steps to Creating a State Model  
 ```
+- Intro Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
+- CSM vs ISM Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No__
 - Video
   - Creation: __0%__
   - Reviewed: __No__
@@ -467,19 +479,19 @@ Owner:    Keith
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Set and Change selected MC Video
-  - Creation: __0%__
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Marking Video
-  - Creation: __0%__
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Generating and compiling Video
-  - Creation: __0%__
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Turning builders on and off Video
-  - Creation: __0%__
+  - Creation: 100%
   - Reviewed: __No__
   - Uploaded to YouTube: __No__
 - Installing Source MC Video
