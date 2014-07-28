@@ -177,15 +177,15 @@ Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58U0hvTHpIV0VrU2s
   - Uploaded to YouTube: __No__
 - Interfaces Video
   - Creation: 100%
-  - Reviewed: __Yes - Thumbs up: KB__
-  - Uploaded to YouTube: __No__
+  - Reviewed: Yes
+  - Uploaded to YouTube: __No - need to adjust audio__
 - Interface Operations and Signals Video
   - Creation: 100%
-  - Reviewed: __Yes - Thumbs up: KB__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Interface Ports Video
   - Creation: 100%
-  - Reviewed: __Yes - Thumbs up: KB__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Delegation? Video
   - Creation: 20%
