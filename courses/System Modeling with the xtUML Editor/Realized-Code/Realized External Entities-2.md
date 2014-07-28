@@ -3,7 +3,7 @@ How to create realized external entities in detail.
 *   This video provides a more detailed explanation of how Verifier binds to external code.
 
 
-<iframe src="//www.youtube.com/embed/BrOkEn?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/KyLufxqASpM?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
