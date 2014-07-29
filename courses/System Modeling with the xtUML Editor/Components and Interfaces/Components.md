@@ -1,14 +1,13 @@
-Here is an introductory paragraph.  It can say whatever you want:
+Components are foundational elements in xtUML.  This lesson will cover:
 
-*   What is the meaning of components
-*   How components are used in modeling
-*   System configuration using component references
+<ul>
+<li>   What is the meaning of components
+<li>   How components are used in modeling
+<li>   System configuration using component references
+</ul>
 
- 
+<iframe src="//www.youtube.com/embed/WLt3n7t_vhc?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="//www.youtube.com/embed/s9Ch_UecVdY?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="//www.youtube.com/embed/cXdiBHYSY54?rel=0;start=27;end=172" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-    
 <hr style="color: #cccccc;" />
 
 <table>
