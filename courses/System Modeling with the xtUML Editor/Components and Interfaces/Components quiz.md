@@ -2,7 +2,7 @@
 
 __Type:__  True/False
  
-__Question:__  Components do depend directly on each other
+__Question:__  Components depend directly on each other?
  
 __Answer:__
   - F
@@ -12,13 +12,14 @@ __Answer:__
 
 __Type:__  True/False
  
-__Question:__  A Component in a system cannot be replaced by another fulfilling the same interfaces
+__Question:__  A component in a system cannot be replaced by another fulfilling the same interfaces
  
 __Answer:__
   - F
   
 
 ----
+__NOTE: SKB - I'm not sure about the validity of this question & answer.___
 
 __Type:__  True/False
  
@@ -38,6 +39,7 @@ __Choices:__
   - an autonomous
   - a secondary
   - an unnecessary 
+
 __Answer:__
   - an autonomous
   
@@ -46,13 +48,16 @@ __Answer:__
 
 __Type:__ Text Input
  
-__Question:__  A component provides services to other components through its provided _____ and demands services from another component through its required ______. (Enter a one word answer)
+__Question:__  A component provides services to and demands services from other components through its provided and required _______. 
 
 
 __Choices:__
-  - text input box
-  
+  - interfaces
+  - exchanges
+  - ports
+  - messages
+
 __Answer:__
-  - Cannot be automatically graded
+  - interfaces
   
 ----
