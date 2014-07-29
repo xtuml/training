@@ -187,9 +187,9 @@ Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58U0hvTHpIV0VrU2s
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: __No__
-- Delegation? Video
-  - Creation: 20%
-  - Reviewed: __No__
+- Delegation Video
+  - Creation: 100%
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
@@ -255,15 +255,19 @@ Owner:
 - Intro Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/umLRhxfL6sc
 - CSM vs ISM Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
-- Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes -  http://youtu.be/-9z-na3FHms
+- ISM Details Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - 
+- SEM Editor Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - 
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
@@ -476,27 +480,27 @@ Owner:    Keith
 ```
 - Intro Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Set and Change selected MC Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Marking Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Generating and compiling Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Turning builders on and off Video
   - Creation: 100%
-  - Reviewed: __No__
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Installing Source MC Video
-  - Creation: __0%__
-  - Reviewed: __No__
+  - Creation: 100%
+  - Reviewed: Yes
   - Uploaded to YouTube: __No__
 - Container page creation: __0%__
 - Quiz creation: __0%__
@@ -559,10 +563,10 @@ Owner: Campbell
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/S6u1KD0fdHU
-- Realized Component Audit
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+- Checking Realized Components
+  - Creation: 010%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/mHisdJjKss8
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
