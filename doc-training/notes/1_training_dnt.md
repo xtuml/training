@@ -169,28 +169,26 @@ Owner: Heba
 6.6.8     Organizing Component, Interface, Data Type Definitions into Library Packages  
 6.6.9     System Configuration Packages  
 ```
-Stored here: https://drive.google.com/folderview?id=0B1fINkS0hm58U0hvTHpIV0VrU2s&usp=sharing
-
 - Components Video
   - Creation: 100%
   - Reviewed: Yes with minor observation
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/WLt3n7t_vhc
 - Interfaces Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No - need to adjust audio__
+  - Uploaded to YouTube: Yes - http://youtu.be/OOOw_FKtQ0k
 - Interface Operations and Signals Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/7iDutURTOHo
 - Interface Ports Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/-oCaJMMmvzU
 - Delegation Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/q8D645LH-qU
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
@@ -263,11 +261,15 @@ Owner:
 - ISM Details Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes - 
+  - Uploaded to YouTube: Yes - https://www.youtube.com/watch?v=-E6S8BjuFzg
 - SEM Editor Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: Yes - 
+  - Uploaded to YouTube: Yes - http://youtu.be/2X5qEB25KCA
+- Signals as CSM transitions Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/soBTi4JQ6Gk
 - Container page creation: __0%__
 - Quiz creation: __0%__
 - Uploaded to LMS: __No__
@@ -675,4 +677,3 @@ Owner: Nehad
 
 End
 ---
-
