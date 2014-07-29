@@ -2,7 +2,7 @@
 
 __Type:__  True/False
  
-__Question:__ An interface specifies how to be implemented not just what needs to be supported
+__Question:__ An interface specifies the details of the implement, not just what needs to be supported.
  
 __Answer:__
   - F
@@ -22,7 +22,7 @@ __Answer:__
 
 __Type:__  True/False
  
-__Question:__  Interfaces may not be instantiated instead they are implemented by components.
+__Question:__  Interfaces may not be instantiated.  Instead they are implemented by components.
 
  
 __Answer:__
