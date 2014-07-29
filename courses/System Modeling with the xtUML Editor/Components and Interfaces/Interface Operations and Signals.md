@@ -1,11 +1,6 @@
-This lesson will cover interface operations and interface signals:
+This lesson will cover the creation and usage of interface operations and interface signals.
 
-<ul>
-<li>   Interface Operations and how are they created and their usage
-<li>   Interface signals and how are they created and their usage
-<li>   Demo using the gps model on how on how operations and signals are used
-</ul>
- 
+&nbsp;
 
 <iframe src="//www.youtube.com/embed/7iDutURTOHo?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
