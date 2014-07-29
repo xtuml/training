@@ -1,15 +1,15 @@
-Definition of interfaces 
+Interfaces go hand-in-hand with components.  This lesson will cover:
 
-*   What are interfaces
-*   Why are they used 
-*   How to use interfaces in modeling
-*   Example showing how to create interfaces and formalize them
-
+<ul>
+<li>   What are interfaces
+<li>   Why are they used 
+<li>   How to use interfaces in modeling
+<li>   Example showing how to create interfaces and formalize them
+</ul>
  
 
-<iframe src="//www.youtube.com/embed/s9Ch_UecVdY?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="//www.youtube.com/embed/cXdiBHYSY54?rel=0;start=27;end=172" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-    
+<iframe src="//www.youtube.com/embed/OOOw_FKtQ0k?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 <hr style="color: #cccccc;" />
 
 <table>
