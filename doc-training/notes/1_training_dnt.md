@@ -237,20 +237,20 @@ Owner:    Keith
 
 ----
 ```
+
 Owner: 
 6.8       State Modeling  
 6.8.1     Basics of States, Transitions, Events and Actions  
 6.8.2     Instance State Machines versus Class-Based State Machines  
-6.8.3     Instance State Models  
+6.8.3     Instance State Models (controlling the life-cycle of an instance)  
 6.8.4     State Event Matrix  
 6.8.5     Final States, Initial State (lowest numbered state) and Creation Events  
-6.8.5.1   Synchronous Creation  
-6.8.5.2   Asynchronous Creation  
 6.8.6     Class-Based State Models  
-6.8.6.1   Assigning an Interface Signal to a Transition  
-6.8.7     Timers (Delayed Events)  
-6.8.8     "Polymorphic Events" (Asynchronous polymorphism)  
-6.8.9     Steps to Creating a State Model  
+6.8.6.1   Responding to external signals  
+6.8.6.2   Common uses (protocol state machine, assigners)   
+6.8.7     "Polymorphic Events" (Asynchronous polymorphism)  
+6.8.8     Steps to Creating a State Model  
+
 ```
 - Intro Video
   - Creation: 100%
