@@ -529,6 +529,7 @@ Owner: Bob
 Owner: 
 6.19      Model-Based Testing  
 ```
+__NOTE: We should not have to create new content here.__ We should be able to cut up this long (50min) video on the subject into smaller chunks: https://www.youtube.com/watch?v=KgqbXYsp0uY
 - Video
   - Creation: __0%__
   - Reviewed: __No__
