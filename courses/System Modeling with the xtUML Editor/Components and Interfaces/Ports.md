@@ -1,13 +1,13 @@
-Definition of component ports
+This lesson will cover component ports:
 
-*   How component ports are used
-*   How ports host the implementation of interface oprations and signals
-*   Message direction 
+<ul>
+<li>   How component ports are used
+<li>   How ports host the implementation of interface oprations and signals
+<li>   Message direction 
+</ul>
 
+<iframe src="//www.youtube.com/embed/-oCaJMMmvzU?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="//www.youtube.com/embed/s9Ch_UecVdY?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="//www.youtube.com/embed/cXdiBHYSY54?rel=0;start=27;end=172" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-    
 <hr style="color: #cccccc;" />
 
 <table>
