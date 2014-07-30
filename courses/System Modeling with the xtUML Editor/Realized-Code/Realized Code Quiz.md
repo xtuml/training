@@ -42,7 +42,7 @@ __Answer(s):__
 
 __Type:__ Radio Buttons
 
-__Question:__ When realizing an External Entity, the realized java class name is bound with the ?
+__Question:__ When realizing an External Entity, the realized java class name is bound with the _______?
 
 __Choices:__ 
   - A: Bridge Name
@@ -57,12 +57,12 @@ __Answer(s):__
   
 __Type:__ Radio Buttons
  
-__Question:__ Verifier looks for realized **interfaces** ...
+__Question:__ Verifier looks for realized **interfaces** _______.
 
 __Choices:__
   - A: in the 'lib' folder
   - B: in the 'interfaces' package
-  - C: along the same package path as the interface definitions are found in the model.
+  - C: along the same package path as the interface definitions are found in the model
   
 __Answer(s):__
   - C

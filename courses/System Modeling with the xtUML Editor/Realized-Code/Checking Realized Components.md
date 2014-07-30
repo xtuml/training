@@ -1,7 +1,8 @@
 How to create realized components.
 
-*   This video shows how to check the java code for a realized component.
-
+<ul>
+<li>   This video shows how to check the java code for a realized component.
+</ul>
 
 <iframe src="//www.youtube.com/embed/mHisdJjKss8?rel=0" width="640" height="360" frameborder="0"></iframe>
 

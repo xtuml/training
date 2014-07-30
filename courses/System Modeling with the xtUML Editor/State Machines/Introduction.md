@@ -1,7 +1,8 @@
 Introduction to state machines.
 
-*   This video explains the details of an xtUML state machine.  Further it explains how the lifecycle and behavior can be modeled.
-
+<ul>
+<li>   This video explains the details of an xtUML state machine.  Further it explains how the lifecycle and behavior can be modeled.
+</ul>
 
 <iframe src="//www.youtube.com/embed/umLRhxfL6sc?rel=0" width="640" height="360" frameborder="0"></iframe>
 

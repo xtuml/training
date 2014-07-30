@@ -1,7 +1,8 @@
 Instance State Machines
 
-*   This video digs further into what an Instance State Machine is and can do.
-
+<ul>
+<li>   This video digs further into what an Instance State Machine is and can do.
+</ul>
 
 <iframe src="//www.youtube.com/embed/E6S8BjuFzg?rel=0" width="640" height="360" frameborder="0"></iframe>
 

@@ -1,7 +1,8 @@
 How to create realized external entities.
 
-*   This video shows how Verifier binds to external code through Bridge calls.
-
+<ul>
+<li>   This video shows how Verifier binds to external code through Bridge calls.
+</ul>
 
 <iframe src="//www.youtube.com/embed/y2kPj1FFyXk?rel=0" width="640" height="360" frameborder="0"></iframe>
 

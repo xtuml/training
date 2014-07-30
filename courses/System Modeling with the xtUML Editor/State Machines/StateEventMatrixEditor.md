@@ -1,7 +1,8 @@
 State Event Matrix
 
-*   In this video you will learn how a state machine can be described by a matrix.  You will also see how to use the State Event Matrix editor provided by the tool.
-
+<ul>
+<li>   In this video you will learn how a state machine can be described by a matrix.  You will also see how to use the State Event Matrix editor provided by the tool.
+</ul>
 
 <iframe src="//www.youtube.com/embed/2X5qEB25KCA?rel=0" width="640" height="360" frameborder="0"></iframe>
 

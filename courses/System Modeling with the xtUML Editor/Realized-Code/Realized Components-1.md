@@ -1,7 +1,8 @@
 How to create realized components.
 
-*   This video shows how Verifier binds to external code through Realized Components.
-
+<ul>
+<li>   This video shows how Verifier binds to external code through Realized Components.
+</ul>
 
 <iframe src="//www.youtube.com/embed/f5Qj6gP8f0o?rel=0" width="640" height="360" frameborder="0"></iframe>
 

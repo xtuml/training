@@ -1,7 +1,8 @@
 How to create realized external entities in detail.
 
-*   This video provides a more detailed explanation of how Verifier binds to external code.
-
+<ul>
+<li>   This video provides a more detailed explanation of how Verifier binds to external code.
+</ul>
 
 <iframe src="//www.youtube.com/embed/KyLufxqASpM?rel=0" width="640" height="360" frameborder="0"></iframe>
 
