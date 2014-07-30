@@ -4,7 +4,7 @@ Creating state machines
 <li>   Watching this video will teach you how to create new state machines.  It will take you through the steps of creating states, transitions and events.  Additionally, you will learn how to configure the behavior of the state machine.
 </ul>
 
-<iframe src="//www.youtube.com/embed/-9z-na3FHms?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/yXGml00Eghg?rel=0" width="640" height="360" frameborder="0"></iframe>
 
 <hr style="color: #cccccc;" />
 
