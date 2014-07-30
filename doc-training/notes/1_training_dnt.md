@@ -189,9 +189,9 @@ Owner: Heba
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/q8D645LH-qU
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 
 ----
@@ -258,6 +258,10 @@ Owner:
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes -  http://youtu.be/-9z-na3FHms
+- How to create Video
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/yXGml00Eghg
 - ISM Details Video
   - Creation: 100%
   - Reviewed: Yes
@@ -266,12 +270,24 @@ Owner:
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/2X5qEB25KCA
+- Polymorphic events Video
+  - Creation: 0%
+  - Reviewed: No
+  - Uploaded to YouTube: No
 - Signals as CSM transitions Video
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/soBTi4JQ6Gk
-- Container page creation: __0%__
-- Quiz creation: __0%__
+-  CSM as protocol state machine Video
+  - Creation: 0%
+  - Reviewed: No
+  - Uploaded to YouTube: No
+-  CSM as an assigner Video
+  - Creation: 0%
+  - Reviewed: No
+  - Uploaded to YouTube: No
+- Container page creation: __80%__
+- Quiz creation: 100%
 - Uploaded to LMS: __No__
 
 ----
@@ -483,30 +499,30 @@ Owner:    Keith
 - Intro Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/N2qWW3DAQTs
 - Set and Change selected MC Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/JxR_DD8U5wE
 - Marking Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/wNANSZ4SOmM
 - Generating and compiling Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/cteltRyMS74
 - Turning builders on and off Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/NUL4lspV_rw
 - Installing Source MC Video
   - Creation: 100%
   - Reviewed: Yes
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+  - Uploaded to YouTube: Yes - http://youtu.be/93a_oQecylI
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
@@ -570,9 +586,9 @@ Owner: Campbell
   - Creation: 010%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/mHisdJjKss8
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
