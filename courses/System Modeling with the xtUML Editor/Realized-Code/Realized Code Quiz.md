@@ -109,7 +109,8 @@ __Choices:__
 __Answer(s):__
   - A
   
-  
+----
+
 __Type:__ True / False
  
 __Question:__ You must pass a ComponentInstance_c value with all calls into the xtUML model.
@@ -122,3 +123,32 @@ __Answer(s):__
   - B
   
 ----
+
+__Type:__ Radio Buttons
+ 
+__Question:__ In which view is the 'realized' label attached to a successfully realized component?
+
+__Choices:__
+  - A: Session Explorer
+  - B: Debug View
+  - C: Model Explorer
+  - D: Console
+
+__Answer(s):__
+  - B
+  
+----
+
+__Type:__ True / False
+ 
+__Question:__ The 'Audit Realized Bindings' menu choice appears when the current selection is (or contains) a component which has its realized attribute set to true.
+
+__Choices:__
+  - A: True
+  - B: False
+
+__Answer(s):__
+  - A
+  
+----
+
