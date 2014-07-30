@@ -271,24 +271,24 @@ Owner:
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/2X5qEB25KCA
 - Polymorphic events Video
-  - Creation: 0%
-  - Reviewed: No
-  - Uploaded to YouTube: No
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
 - Signals as CSM transitions Video
   - Creation: 100%
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/soBTi4JQ6Gk
 -  CSM as protocol state machine Video
-  - Creation: 0%
-  - Reviewed: No
-  - Uploaded to YouTube: No
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
 -  CSM as an assigner Video
-  - Creation: 0%
-  - Reviewed: No
-  - Uploaded to YouTube: No
-- Container page creation: __80%__
+  - Creation: __0%__
+  - Reviewed: __No__
+  - Uploaded to YouTube: __No__
+- Container page creation: __80% - done for videos that are done__
 - Quiz creation: 100%
-- Uploaded to LMS: __No__
+- Uploaded to LMS: __Yes - what we have done is uploaded__
 
 ----
 ```
