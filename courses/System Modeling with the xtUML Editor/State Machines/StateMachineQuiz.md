@@ -82,7 +82,7 @@ __Answer(s):__
 
 __Type:__ True / False
 
-__Question:__ When a creation event is sent to a creation transition the OAL in the transition is executed?
+__Question:__ When a creation event is sent to a class the OAL in the creation transition is executed?
 
 __Choices:__
   - A:  True
