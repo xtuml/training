@@ -271,9 +271,9 @@ Owner:
   - Reviewed: Yes
   - Uploaded to YouTube: Yes - http://youtu.be/2X5qEB25KCA
 - Polymorphic events Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes - http://youtu.be/oi0S70hz_eE
 - Signals as CSM transitions Video
   - Creation: 100%
   - Reviewed: Yes
