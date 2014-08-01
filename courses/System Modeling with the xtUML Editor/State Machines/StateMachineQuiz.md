@@ -106,7 +106,7 @@ __Answer(s):__
   
 ----
 
-__Type:__ Radio Buttons
+__ Type:__ Radio Buttons
 
 __Question:__ When an event is sent to a class which will trigger a transition to the final state what occurs:
 
@@ -115,6 +115,32 @@ __Choices:__
   - B:  The class instance is destroyed
   - C:  The OAL in the transition is executed
   - D:  All of the above
+  
+__Answer(s):__
+  - D
+  
+----
+
+__ Type:__ True / False
+
+__Question:__ Events can be assigned at multiple levels in a supertype/subtype structure?
+
+__Choices:__
+  - A:  True
+  - B:  False
+  
+__Answer(s):__
+  - B
+  
+----
+
+__ Type:__ True / False
+
+__Question:__ An event can only be assigned to one subtype's transition?
+
+__Choices:__
+  - A:  True
+  - B:  False
   
 __Answer(s):__
   - D
