@@ -1,7 +1,7 @@
-Get an introduction to Model Based Testing
+See how to set up for model based testing
 
 <ul>
-<li> Learn about the motivations behind Model Based Test
+<li> Learn the steps required to get the modeled test components set up
 </ul>
 
 <iframe src="//www.youtube.com/embed/KgqbXYsp0uY?rel=0;start=722;end=1140" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
