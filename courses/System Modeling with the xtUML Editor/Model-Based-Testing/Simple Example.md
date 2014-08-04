@@ -5,7 +5,7 @@ See a simple example of Model Based Testing
 <li> See how they fit together.
 </ul>
 
-<iframe src="//www.youtube.com/embed/KgqbXYsp0uY?rel=0;start=371;end=369" width="721" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed/KgqbXYsp0uY?rel=0;start=371;end=721" width="721" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
 <hr style="color: #cccccc;" />
 
