@@ -1,6 +1,6 @@
 __Type:__ Radio Buttons
 
-__Question:__ WHich of these is *not* an advantage of Model Based Testing?
+__Question:__ Which of these is *not* an advantage of Model Based Testing?
 
 __Choices:__
   - A: Testing can start early.

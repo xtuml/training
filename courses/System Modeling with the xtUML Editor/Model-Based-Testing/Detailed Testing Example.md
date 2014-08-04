@@ -5,7 +5,7 @@ Follow the detailed steps to Component Based Test in a hands on BridgePoint sess
 <li> Enabling Inter-Project References.
 <li> Copying the example testbench component.
 <li> Add the actual interface to be tested over.
-<li> Modify the exAmple classes to actually perform the tests required.
+<li> Modify the example classes to actually perform the tests required.
 <li> Wire up the testbench to the Component Under Test and to the Test Runner.
 <li> Add a test initialization stanza to the setup operation.
 </ul>
