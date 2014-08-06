@@ -545,14 +545,14 @@ Owner: Bob
 Owner: 
 6.19      Model-Based Testing  
 ```
-__NOTE: We should not have to create new content here.__ We should be able to cut up this long (50min) video on the subject into smaller chunks: https://www.youtube.com/watch?v=KgqbXYsp0uY
+We did not create new content here. We cut up this long (50min) video on the subject into smaller chunks: https://www.youtube.com/watch?v=KgqbXYsp0uY
 - Video
-  - Creation: __0%__
-  - Reviewed: __No__
-  - Uploaded to YouTube: __No__
-- Container page creation: __0%__
-- Quiz creation: __0%__
-- Uploaded to LMS: __No__
+  - Creation: 100%
+  - Reviewed: Yes
+  - Uploaded to YouTube: Yes
+- Container page creation: 100%
+- Quiz creation: 100%
+- Uploaded to LMS: Yes
 
 ----
 ```
