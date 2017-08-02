@@ -5,7 +5,7 @@ you can clone the repository to your local machine and import the projects into 
 When you clone, _be sure you do not clone the repository to a location inside your workspace._
 
 This video demonstrates the necessary steps to complete this lesson:
-<iframe src="http://www.youtube.com/embed/fNF21fa01ME?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/fNF21fa01ME?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

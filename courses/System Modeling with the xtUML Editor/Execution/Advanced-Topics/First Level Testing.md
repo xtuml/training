@@ -8,7 +8,7 @@ Learn about First level test. What it is, and when to use it.
 <li>   Sandbox Functions.
 </ul>
 
-<iframe src="//www.youtube.com/embed/7E2D4K3f2-I?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/7E2D4K3f2-I?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

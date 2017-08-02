@@ -4,7 +4,7 @@ Learn how to execute models together with pre-existing code.
 <li>   This video introduces you to the concepts used to bind Verifier to pre-existing code.
 </ul>
 
-<iframe src="//www.youtube.com/embed/n2dorP-zik0?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/n2dorP-zik0?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -1,6 +1,6 @@
 Associations capture the relationship between classes in an xtUML model.  In this lesson, you will learn how to create associations and modify their properties to accurately specify the details of the relationship.
 
-<iframe src="//www.youtube.com/embed/uzcniHqatcM?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/uzcniHqatcM?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

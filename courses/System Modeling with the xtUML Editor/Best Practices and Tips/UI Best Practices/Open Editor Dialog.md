@@ -1,6 +1,6 @@
 With a long list of opened editors, it can be a challenge to find one you used previously. This lessons shows you how to find the editor you are looking for quickly.  
 
-<iframe src="//www.youtube.com/embed/rScvwv9mu1s?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/rScvwv9mu1s?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -4,7 +4,7 @@ Learn to control how Verifier executes. In this video, you will understand:
 *   What running deterministically means
 *   The difference between Wall clock and simulated time.
 
-<iframe src="//www.youtube.com/embed/borT_JMMXqY?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/borT_JMMXqY?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

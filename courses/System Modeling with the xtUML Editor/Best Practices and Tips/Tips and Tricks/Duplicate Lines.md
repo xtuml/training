@@ -2,7 +2,7 @@ When working in a text editor, sometimes you need to duplicate some lines but yo
 
 This lesson shows you how to quickly copy/paste lines without losing the clipboard content.
 
-<iframe src="//www.youtube.com/embed/xIdGhBDyf08?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/xIdGhBDyf08?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

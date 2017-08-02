@@ -5,7 +5,7 @@ To install BridgePoint on Linux:
 	<li>Run the Launcher.sh script in the eclipse/ folder under the installation</li>
 </ul>
 This video covers the Linux installation process in detail:
-<iframe src="//www.youtube.com/embed/QbHqA3s983Y?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/QbHqA3s983Y?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

@@ -7,7 +7,7 @@ Learn how to view the temporary variables created by your model as it runs. See 
 <li> How to refine the conditions under which a breakpoint will be triggered.
 </ul>
 
-<iframe src="//www.youtube.com/embed/3xRqoeeaU-k?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/3xRqoeeaU-k?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

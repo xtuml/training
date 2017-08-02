@@ -1,6 +1,6 @@
 In this lesson, we show how to install the required development environment add-ons
 
-<iframe src="http://www.youtube.com/embed/K17UBJTaMSU?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/K17UBJTaMSU?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

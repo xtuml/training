@@ -3,7 +3,7 @@ Exporting and Importing model data.
 *   This video will take you through the steps of exporting and importing individual model data.
 
 
-<iframe src="//www.youtube.com/embed/BpY_EwzWGbA?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/BpY_EwzWGbA?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

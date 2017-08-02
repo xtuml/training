@@ -4,7 +4,7 @@ Responding to signals within a Class State Machine
 <li>   Classes within a component can handle signals sent to that component.  In this video you will learn about this and how to configure a state machine to respond to such signals.
 </ul>
 
-<iframe src="//www.youtube.com/embed/soBTi4JQ6Gk?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/soBTi4JQ6Gk?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

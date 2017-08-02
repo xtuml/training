@@ -4,7 +4,7 @@ How to create realized components.
 <li>   This video shows how Verifier binds to external code through Realized Components.
 </ul>
 
-<iframe src="//www.youtube.com/embed/f5Qj6gP8f0o?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/f5Qj6gP8f0o?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

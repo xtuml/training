@@ -1,7 +1,7 @@
 This lesson teaches you how to share a model in a local repository to an upstream 
 repository on GitHub.
 
-<iframe src="//www.youtube.com/embed/_e5qs7bJ5mE?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/_e5qs7bJ5mE?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 
