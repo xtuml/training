@@ -1,6 +1,6 @@
 Eclipse traces your editor navigation, and give you the ability to walk through it backward and forward. This lesson shows how to use this feature.
 
-<iframe src="//www.youtube.com/embed/NGm2sgMTzsQ?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/NGm2sgMTzsQ?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

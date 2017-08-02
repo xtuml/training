@@ -4,7 +4,7 @@ How to create realized components.
 <li>   This video shows how to check the java code for a realized component.
 </ul>
 
-<iframe src="//www.youtube.com/embed/mHisdJjKss8?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/mHisdJjKss8?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

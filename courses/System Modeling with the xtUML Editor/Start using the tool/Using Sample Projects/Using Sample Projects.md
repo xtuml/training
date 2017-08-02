@@ -9,7 +9,7 @@ In this lesson you will learn:
 <li> Translate the sample model and code generation  
 </ul>
 
-<iframe src="//www.youtube.com/embed/40xYgq8rVAg?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/40xYgq8rVAg?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <table>
 <tbody>

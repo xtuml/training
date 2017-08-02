@@ -5,7 +5,7 @@ Find out what happens when you launch a set of components that are only partiall
 <li>   Understand when outgoing port OAL gets executed.
 </ul>
 
-<iframe src="//www.youtube.com/embed/bhhoxWb99h4?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/bhhoxWb99h4?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

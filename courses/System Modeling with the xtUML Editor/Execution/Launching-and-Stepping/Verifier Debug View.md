@@ -5,7 +5,7 @@ Understand the use of the Debug View. In this video, you will learn:
 *   How to suspend and resume execution.
 *   How to step through and into activity action language.
 
-<iframe src="//www.youtube.com/embed/5vEzZwmDM9M?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/5vEzZwmDM9M?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

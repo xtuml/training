@@ -5,7 +5,7 @@ To install BridgePoint on Windows:
 	<li>Create and run the desktop shortcut or Launcher batch file</li>
 </ul>
 This video covers the Windows installation process in detail:
-<iframe src="//www.youtube.com/embed/nFS7uSt9U7w?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/nFS7uSt9U7w?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

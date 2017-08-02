@@ -3,7 +3,7 @@ Exporting and Importing xtUML Projects.
 *   This video will show you how to export and import xtUML projects, including all project artifacts not just modeling ones.
 
 
-<iframe src="//www.youtube.com/embed/VG389LPOyHM?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/VG389LPOyHM?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

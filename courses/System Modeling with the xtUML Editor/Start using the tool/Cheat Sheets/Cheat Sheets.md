@@ -6,7 +6,7 @@ This video shows how to:
     <li>Difference between single cheat sheet and composite cheat sheet</li>
     <li>Walking through cheat sheet</li>
 </ul>
-<iframe src="//www.youtube.com/embed/AtXT3dsEnfE?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/AtXT3dsEnfE?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

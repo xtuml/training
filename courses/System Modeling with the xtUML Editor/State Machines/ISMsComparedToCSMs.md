@@ -4,7 +4,7 @@ Differences between Class State Machines and Instance State Machines
 <li>   In this video you will learn the differences that exist between a Class State Machine and an Instance State Machine.
 </ul>
 
-<iframe src="//www.youtube.com/embed/-9z-na3FHms?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/-9z-na3FHms?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

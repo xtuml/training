@@ -1,5 +1,5 @@
 In this lesson, we will learn how to use the Java perspective and available tools to build the application.
-<iframe src="http://www.youtube.com/embed/NJF7pQATVyM?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/NJF7pQATVyM?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

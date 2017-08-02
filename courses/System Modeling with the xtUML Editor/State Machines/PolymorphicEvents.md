@@ -4,7 +4,7 @@ Polymorphic events
 <li>   In this video you will learn about polymorphism in the xtUML editor.  State machines support polymorphism through polymorphic events.  You will learn how this process works.
 </ul>
 
-<iframe src="//www.youtube.com/embed/oi0S70hz_eE?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/oi0S70hz_eE?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

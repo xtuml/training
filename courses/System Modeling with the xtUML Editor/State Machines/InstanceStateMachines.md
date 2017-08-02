@@ -4,7 +4,7 @@ Instance State Machines
 <li>   This video digs further into what an Instance State Machine is and can do.
 </ul>
 
-<iframe src="//www.youtube.com/embed/-E6S8BjuFzg?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/-E6S8BjuFzg?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

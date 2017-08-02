@@ -4,7 +4,7 @@ How to create realized external entities.
 <li>   This video shows how Verifier binds to external code through Bridge calls.
 </ul>
 
-<iframe src="//www.youtube.com/embed/y2kPj1FFyXk?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/y2kPj1FFyXk?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

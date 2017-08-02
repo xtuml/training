@@ -5,7 +5,7 @@ system.
 In this lesson we will discuss the eclipse concepts of "workspaces" and "projects" in detail and cover some important
 considerations when using git for revision control.
 
-<iframe src="//www.youtube.com/embed/qUJEP510BIM?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/qUJEP510BIM?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

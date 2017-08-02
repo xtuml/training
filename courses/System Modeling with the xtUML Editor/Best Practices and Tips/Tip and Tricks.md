@@ -8,13 +8,13 @@ that enhance your user experience:
 
 
 
-<iframe src="//www.youtube.com/embed/OzSlNJwIRdI?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/OzSlNJwIRdI?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="//www.youtube.com/embed/xIdGhBDyf08?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/xIdGhBDyf08?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="//www.youtube.com/embed/-LRG-UQ89Fs?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/-LRG-UQ89Fs?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="//www.youtube.com/embed/1toONaydPUY?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/1toONaydPUY?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 

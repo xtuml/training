@@ -8,7 +8,7 @@ Learn how to view the instances created by your model as it runs. In this video,
 <li>   See what events are pending for each instance.
 </ul>
 
-<iframe src="//www.youtube.com/embed/YyklSyYGrnw?rel=0" width="640" height="360" frameborder="0"></iframe>
+<iframe src="//www.youtube.com/embed/YyklSyYGrnw?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <hr style="color: #cccccc;" />
 
