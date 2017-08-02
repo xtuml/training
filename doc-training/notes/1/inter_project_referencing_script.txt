@@ -1,0 +1,22 @@
+- The xtUML editor supports inter-project referencing
+- This allows for elements under one project to refer to elments from all other projects
+- To enable inter-project referencing right click on the project in the Model Explorer view, than choose the Project Preferences action
+- In the dialog that is presented check the Allow inter-project model references button
+- Next click the OK button
+- Now the project can refer to elements from other projects in the workspace
+- These elements include Data Types, Components and External entities
+- To add an external reference to a data type we set the type of another element
+- In this case we will choose an attribute
+- Right click on the attribute and select the Set Type... action
+- In the opened dialog we can see by the element path that data types defined in the GPS Watch model are present
+- Choose the desired data type and then click the OK button
+- In the properties view we can now see that the Location attribute has been set as the type
+- To add a component reference we first draw the component reference
+- Then we right click on the component reference and choose the Assign Component... action
+- In the dialog that is presented we will see a list of components defined in the GPS Watch project
+- We will choose a component to refer to and then click the OK button
+- We now see a component reference of the defined component in the GPS Watch project
+- We can also see an imported interface reference that is formalized to an interface from the GPS Watch project
+- To reference external entity bridges from another project you simply add OAL as you would if the External Entity was local
+- For this example we will add OAL to an operation in the GPS Integration project
+* Enter oal: LOG::LogInfo(message:"test);

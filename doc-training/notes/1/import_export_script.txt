@@ -1,0 +1,23 @@
+- The xtUML editor supports importing and exporting of model data
+- To import model data right click anywhere in Model Explorer and choose the Import... action
+- Next expand the xtUML folder and choose the xtUML Model wizard
+- Now click on the Next button
+- In the presented dialog page click the Browse... button
+- Then navigate to the file that you wish to import
+- Once the file is selected click the Open button
+- This will add the path to the import file into the dialog
+- You can also add the path manually
+- Once the file path has been set check the project that you would like to import the model data into
+- Finally click finish
+- You will now see the imported model data from the file
+- To export model data right click anywhere in Model Explorer and choose the Export... action
+- Next expand the xtUML folder and choose the xtUML Model wizard
+- Now click on the Next button
+- In the presented dialog check the system or individual packages that you would like to export
+- Next choose the Browse... button
+- Once you locate the parent folder you can enter a name for the file
+- After entering the name for the file click the Save button
+- You will see that the full file path is entered into the destination field
+- Check the Overwrite existing files without warning button if you would like to overwrite the destination without warning
+- Now click Finish
+- Navigating to the folder on disk will show that the xtUML data was exported to the expected location

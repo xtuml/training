@@ -1,0 +1,11 @@
+- The xtUML editor uses the eclipse project infrastructure in order to store and manipulate data
+- This data is stored under an xtUML project
+- The xtUML project holds all of the data for an xtUML model
+- To create an xtUML project you right click in the Model Explorer then choose the New submenu and finally choose the xtUML Project... action
+- In the new project wizard you first enter a name for the xtUML project
+* Enter "nptcm"
+- Then click the Finish button
+- Additionally you can create the project using the File menu, then choose the New submenu and finally choose the xtUML project... action
+* Enter project name: "nptfm"
+- An xtUML project has a relationship with the System Model element from the ooaofooa metamodel
+- The relationship is captured by the fact that the name of the project matches the name of the System Model element
