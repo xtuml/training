@@ -1,0 +1,190 @@
+﻿Daily Plan
+xtUML Modeling, Execution and Translation
+Shinshu University
+October 1-12
+
+
+Course Schedule
+
+
+Day 1:  Introduction, Assessment, Overview, Types, Variables, Domains and Abstraction
+Day 2:  Security, Codes, Diffie–Hellman Key Exchange, Classes, Attributes and Objects
+Day 3:  Associations, Multiplicity, Conditionality, Generalization, Specialization
+Day 4:  State Machines, States, Events, Transitions, Time
+Day 5:  Action Language, Statements, Control Structures, Simulation
+Day 6:  Encrypted Communication, BridgePoint, Robots, Circuits, Making Things Move
+Day 7:  Translation, Model Compilers, Debugging
+Day 8:  Running Systems, Competition, Exam
+
+
+physical activities to start each day (or midday break)
+* Lego Teams, Body, Pictionary, Trouble, Einstein's Riddle, Sumo demo (3 more)
+
+
+sequence of topics
+Day 0 (net meeting September 17/18)
+* introduction of self, pics of family
+* interleave student introductions during lecture:  (favorite food?)
+* Use skype for screen sharing as well as face-to-face.
+* overview of class (syllabus)
+* tour of BridgePoint
+* explanation of homeworks:  web page, due dates, you may turn them in ahead of the due date, policy on turning in early (pre-grade)
+   * intro email - Do this today.  Begin talking to me right now.
+   * redmine - bug tracking, software engineers use this tool to organize their work
+   * BridgePoint installation - must install 
+   * git setup - This is where the model data is stored.
+   * sumo assembly (balancer assembly)
+   * VM - You can look at BridgePoint on this machine and see how it is set up.  I will restart the VM each day in case it gets messed up.
+
+Day 1
+Teach end-to-end the whole methodology and the use of the tool.  Provide students tooling.
+* introduction of self (school, work, travel, exercise, modeling, teaching)
+* assessment:  administer and collect (Cort to update this)
+* LEGO Teams activity
+* Review homework or any questions in the prep material.
+* throwback Shlaer-Mellor training materials
+* old materials to cover the steps of the Method (Module 1, Module 2 tooling) 
+* new materials and show the modeling hierarchy (slide 6)
+* sumo demo (This runs the EV3 based robots.  Tour the model, afterwards.)
+* Pause here and establish the goals of:
+   * understanding the method well enough to make applications run
+   * comfort with the tooling to edit, simulate and translate
+   * familiarity with embedded environment so that hardware can be used
+* Introduce the 2 projects:  editing and enhancing
+* Introduction to Modeling (simple discussion of abstraction)
+* Methodology white board with hierarchy slide on the screen
+* discussion, examples, GPS watch, sumo, 
+* types and variables
+* abstraction
+
+Day 2
+* Pictionary activity (in Japanese by Takao)
+* Review understanding of editing project and enhancing project.
+* classes (Module 6)
+* class modeling quiz 1
+* class modeling quiz 2 (did not use)
+* instances
+* attributes
+
+Day 3
+* associations
+* quality
+* generalization and specialization
+* associative class
+* action language introduction
+* Einstein's Riddle
+* state machines
+* Big focus on getting through the project over the weekend.
+
+Day 4 (Tue)
+* assignment:
+   * Build class model of soccer.
+   * class blitz together
+   * We already have 'ball'.  Add player, referee, field, goal and any other classes.
+   * attributes, associations with cardinality and verb phrases
+   * Build this model in BridgePoint.
+* configuration management overview
+   * (doc.md) repository, fork, clone, branch, change set, commit, merge, fetch, push, pull, pull request
+   * why:  graph with multiple developers, even single developer
+      * multiple files are in the repository
+      * Write and define each vocabulary word.
+      * master is never broken
+      * branch is named with issue number
+      * master is merged in before merging to master
+      * Show my work in changing the homework page.
+         * Raise issue for this, assign it to me, take it through the states.
+   * assignment:  (doc.md)
+      * Create and check out a new branch using your own tracking issue number.
+      * Add 'readme.txt' to /gen folder of Sumo project.
+      * Commit and push.
+      * Show network graph on github to instructor.
+* sumo in Verifier (me then together)
+   * use the getting started with sumo page
+   * use Running Systems lesson plan to augment this
+   * assignment:
+      * See each student running simulator repeatedly and see robot name change.
+* sumo enhancement project first couple of steps, including configuration management
+   * assignment:
+      * See demonstration of functionality.
+      * See network graph.
+* Build model of Redmine issue:  1 class with a state machine
+* anthropomorphic modeling
+
+Day 5 (Wed)
+* OAL “Hello, World!” (lesson plan)
+* OAL variables
+* OAL creation and initialization (using function)
+* OAL attribute read/write
+* OAL for loop
+* OAL while loop
+* OAL generate event
+* OAL races
+   * WaP... that prints the numbers in descending order starting with 1000 and going down to 1.
+   * WaP... that prints the square of every number from 1 to 30.
+   * WaP... that 1) defines an array (list) containing all the first names of all students in 1st period Comp Sci, 2) loops through the array printing each name, 3) in the loop when the name is your own, it prints, "I found myself!" 4) in the loop, count the students.  After the loop, print the number of students.
+* Build sumo for EV3 (together, then each, record completion).
+   * Charge robot batteries.
+   * Each student builds sumo app and copies to SD card on robot.
+   * assignment:
+      * Show robot with changed behavior (e.g. name on screen).
+
+Day 6 (Thu)
+* Trouble activity
+   * Play Trouble, then model it.
+   * BridgePoint (using Trouble model, lesson plan)
+   * assignment:
+      * Build model of Trouble on paper.
+      * Create a new branch for Trouble using your own issue.  Be sure to branch from 'master'.
+      * Now build the model in BridgePoint.  Name your project 'trouble'.
+      * Add to index, commit and push.
+      * Show model and network graph to instructor.
+* cryptography
+   * substitution and transposition ciphers
+   * secret code and frequency analysis
+   * big numbers
+   * password entropy
+   * 2FA
+   * hash
+   * password hash
+
+Day 7 (Fri)
+* code generation ("good" Microwave preso)
+* code gen exercises (lesson plan)
+* sumo robot contest
+* final bit of material (Basic xtUML Modeling)
+* symmetric/asymmetric key cryptography:  https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences
+
+* subtypes and supertypes review (lesson plan)
+* Microwave Oven - 30 down to 5
+   * assignment:
+     * Follow the README.
+     * Run in Verifier.
+     * Run pre-built executable.
+     * Generate, build and compile Microwave Oven.  See it run for 30 seconds.
+* state machine rules (event ordering, event to self, timer)
+* semantics versus syntax (lesson plan)
+* data, control, processing
+
+
+homework assignments:
+* email intro to instructor with selfie
+* redmine ID and open test issue in BridgePoint
+* BridgePoint installation
+* git setup
+* sumo edits
+* sumo simulations
+* secret code and frequency analysis
+* class modeling assignment
+* * * model compiler exercises 5 and beyond (maybe)
+
+sumo robot simulation modification milestones:
+1. Change name as it appears on simulator.
+2. Change the reversing duration.
+3. Change the turning duration.
+4. Change the turning duration so that the robot goes directly back and forth across the same path.
+5. Start by turning instead of going straight.
+6. Count each occurance of detecting the line.  Stop the robot after 5 detections.
+7. Instead of always turning the same direction, turn one direction this time and another direction next time.
+8. Add a response to touch sensor input.  Demonstrate by "injecting" a touch signal while running the Verifier.
+9. Add a victory dance that occurs when your robot knows that it has won.
+
