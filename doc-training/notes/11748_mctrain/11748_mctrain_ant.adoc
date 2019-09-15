@@ -1,0 +1,91 @@
+= Focused Model Compiler Training
+
+xtUML Project Analysis Note
+
+== 1 Abstract
+
+A user wishes to receive 8 hours of training focused on model compilation
+and model-based model compilation in particular.  This note documents the
+plans and establishes references to the materials employed.
+
+== 2 Introduction and Background
+
+Model compilation and building model compilers is a mature science.  However,
+in recent years best practices have changed.  There is progress toward
+generalizing model compiler construction as a mostly normal xtUML application.
+There are 2 distinctives of model-based model compilers.  1) They must be
+able to load instances of an xtUML application.  This means they can read
+and operation upon instances of the xtUML metamodel (OOA of OOA).  2) They
+also must be able to emit text through a template mechanism.
+
+== 3 Requirements
+
+=== 3.1 Fundamentals of Model Compilers
+Review the fundamentals of traditional model compilers.
+
+=== 3.2 Model-Based Model Compilers
+Elucidate model-based model compilers.
+
+=== 3.3 MC-Boj
+Review the artifacts of the jump start of MC-Boj in light of the above.
+
+== 4 Work Required
+
+. Deliver this document via email.
+. Provide folder on USB stick.
+
+. How model compilers work.
+  .. Use the SM Runtime Presentation 4-7, 21-23 <<dr-5>>.
+  .. The Traditional Way
+     ... Use the MCtranslation presentation from <<dr-3>>.
+  .. Transitioning from Traditional to Model-Based
+     ... Use the Way Forward presentation from the folder.
+  .. Model-based model compilers
+     ... Use the itida presentation from the folder.
+
+
+. Examples
+  .. Docgen
+     ... OOA of OOA (mcooa)
+     ... instance loader
+     ... target model (document)
+     ... model to model transformations
+
+  .. MC-Boj
+     ... OOA of OOA (mcooa)
+     ... instance loader (built-in to Ciera)
+     ... target model (Ada)
+     ... model to model transformations (transformations folder)
+     ... templates
+     ... project separation
+
+. Exercises
+  .. Build MC-Boj.
+  .. Change a template and see the effect.
+  .. Change the model and see the effect.
+
+. Model-Based Model Compilers
+  .. Walk through _MBMC_ outline in folder.
+  .. Walk through _Internals_ outline in folder.
+
+. Modeling Idioms
+  .. Workspace rules
+  .. Projects
+     ... Inter-Project References
+     ... types, EEs
+  .. Package and Package References
+
+== 5 Document References
+
+. [[dr-1]] https://support.onefact.net/issues/11748[11748 - xtUML model compiler training]
+. [[dr-2]] link:../Generator_exercises.md[Generator Exercises]
+. [[dr-3]] link:../../../courses/xtUML-Modeling/Basic-xtUML-Modeling/MCtranslation.pptx[Model-Compiler Translation Presentation]
+. [[dr-4]] https://www.cs.usfca.edu/~parrt/papers/mvc.templates.pdf[Terrence Parr - Enforcing Strict Model-View Separation in
+Template Engines]
+. [[dr-5]] https://xtuml.org/smrtcryptoextensions/[Shlaer-Mellor Runtime with Cryptographic Extensions]
+
+---
+
+This work is licensed under the Creative Commons CC0 License
+
+---
